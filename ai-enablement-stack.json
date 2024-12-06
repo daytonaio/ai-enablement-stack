@@ -561,7 +561,6 @@
               "logo": "",
               "link": "https://www.braintrustdata.com/"
             }
-
           ]
         }
       ]
@@ -810,6 +809,12 @@
           "name": "SPECIALIZED AGENTS",
           "description": "Purpose-built AI agents designed for specific functions, like PR reviews and similar.",
           "companies": [
+            {
+              "name": "Superflex",
+              "description": "Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.",
+              "logo": "./assets/superflex.svg",
+              "link": "https://superflex.ai/"
+            },
             {
               "name": "CodeRabbit",
               "description": "",

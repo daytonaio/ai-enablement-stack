@@ -244,6 +244,21 @@ Pieces provides an on-device AI companion that captures and maintains long-term 
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
 
+#### [Superflex](https://superflex.ai/)
+<details>
+
+![Superflex](./assets/superflex.svg)
+
+##### Category
+Agent Consumer Layer - SPECIALIZED AGENTS
+
+##### Description
+Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.
+
+##### Links
+- [https://superflex.ai/](https://superflex.ai/)
+</details>
+
 #### [CodeRabbit]()
 <details>
 
