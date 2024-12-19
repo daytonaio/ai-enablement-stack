@@ -45,6 +45,14 @@
               "hidden": "true",
               "github": "",
               "x": "@morph_labs"
+            },
+            {
+              "name": "Judge0",
+              "description": "Judge0 is an open-source online code execution system that enables the robust, fast, scalable, and sandboxed execution of AI-generated code, with support for multiple languages and frameworks.",
+              "logo": "./public/images/judge0.png",
+              "link": "https://judge0.com/",
+              "github": "https://github.com/judge0/",
+              "x": "@judge0_official"
             }
           ]
         },
