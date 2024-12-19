@@ -1133,6 +1133,21 @@ Provides an agent development platform with advanced memory management for LLMs,
 - [https://www.letta.com/](https://www.letta.com/)
 </details>
 
+#### [Langbase](https://langbase.com/)
+<details>
+
+![Langbase](./public/images/langbase.svg)
+
+##### Category
+INTELLIGENCE LAYER - Frameworks
+
+##### Description
+Langbase provides a serverless AI development platform featuring BaseAI (Web AI Framework), composable AI Pipes for agent development, 50-100x cheaper serverless RAG, unified LLM API access, and collaboration tools, with enterprise-grade security and observability.
+
+##### Links
+- [https://langbase.com/](https://langbase.com/)
+</details>
+
 #### [AutoGen](https://github.com/microsoft/autogen)
 <details>
 

@@ -17,26 +17,34 @@
               "name": "Daytona",
               "description": "Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.",
               "logo": "./public/images/daytonaio.png",
-              "link": "https://daytona.io/"
+              "link": "https://daytona.io/",
+              "github": "",
+              "x": "@daytonaio"
             },
             {
               "name": "Runloop",
               "description": "Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.",
               "logo": "./public/images/runloop.svg",
-              "link": "https://www.runloop.ai/"
+              "link": "https://www.runloop.ai/",
+              "github": "",
+              "x": "@RunloopAI"
             },
             {
               "name": "E2B",
               "description": "E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.",
               "logo": "./public/images/e2b-dev.png",
-              "link": "https://e2b.dev/"
+              "link": "https://e2b.dev/",
+              "github": "",
+              "x": "@e2b_dev"
             },
             {
               "name": "Morph Labs",
               "description": "Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.",
               "logo": "",
               "link": "https://morph.so/",
-              "hidden":"true"
+              "hidden": "true",
+              "github": "",
+              "x": "@morph_labs"
             }
           ]
         },
@@ -48,70 +56,91 @@
               "name": "OpenAI",
               "description": "OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.",
               "logo": "./public/images/openai.png",
-              "link": "https://openai.com/"
+              "link": "https://openai.com/",
+              "github": "",
+              "x": "@OpenAI"
             },
             {
               "name": "Anthropic",
               "description": "Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.",
               "logo": "./public/images/anthropic.svg",
               "zoom": "70",
-              "link": "https://www.anthropic.com/"
+              "link": "https://www.anthropic.com/",
+              "github": "",
+              "x": "@AnthropicAI"
             },
             {
               "name": "Mistral AI",
               "description": "Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
               "logo": "./public/images/mistral-ai.svg",
-              "link": "https://mistral.ai/"
+              "link": "https://mistral.ai/",
+              "github": "",
+              "x": "@MistralAI"
             },
             {
               "name": "Groq",
               "description": "Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.",
               "logo": "./public/images/groq.svg",
-              "link": "https://groq.com/"
+              "link": "https://groq.com/",
+              "github": "",
+              "x": "@GroqInc"
             },
             {
               "name": "AI21labs",
               "description": "AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.",
               "logo": "./public/images/AI21labs.svg",
-              "link": "https://www.ai21.com/"
+              "link": "https://www.ai21.com/",
+              "github": "",
+              "x": "@AI21Labs"
             },
             {
               "name": "Cohere",
               "description": "Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.",
               "logo": "./public/images/cohere.svg",
-              "link": "https://cohere.com/"
+              "link": "https://cohere.com/",
+              "github": "",
+              "x": "@CohereForAI"
             },
             {
               "name": "Hugging Face",
               "description": "Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.",
               "logo": "./public/images/huggingface.png",
-              "link": "https://huggingface.co/"
+              "link": "https://huggingface.co/",
+              "github": "",
+              "x": "@huggingface"
             },
             {
               "name": "Cartesia",
               "description": "Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.",
               "logo": "./public/images/cartesia.svg",
-              "link": "https://www.cartesia.ai/"
+              "link": "https://www.cartesia.ai/",
+              "github": "",
+              "x": "@cartesia_ai"
             },
             {
               "name": "Fireworks",
               "description": "Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.",
               "logo": "./public/images/fireworks-ai.svg",
               "zoom": "80",
-              "link": "https://fireworks.ai/"
+              "link": "https://fireworks.ai/",
+              "github": "",
+              "x": "@FireworksAI_HQ"
             },
             {
               "name": "Together.AI",
               "description": "Offers an API for accessing and running open-source LLMs, facilitating seamless integration into AI applications.",
               "logo": "./public/images/together-ai.svg",
-              "link": "https://together.ai/"
+              "link": "https://together.ai/",
+              "github": "",
+              "x": "@togethercompute"
             },
             {
               "name": "Google Vertex AI",
               "description": "End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.",
               "logo": "./public/images/vertex.png",
               "link": "https://cloud.google.com/vertex-ai",
-              "hidden": "true"
+              "hidden": "true",
+              "x": "@GoogleAI"
             },
             {
               "name": "Amazon Nova",
@@ -124,27 +153,35 @@
               "name": "Replicate",
               "description": "Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.",
               "logo": "./public/images/replicate.svg",
-              "link": "https://replicate.com/"
+              "link": "https://replicate.com/",
+              "github": "",
+              "x": "@replicate"
             },
             {
               "name": "SambaNova",
               "description": "SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.",
               "logo": "./public/images/sambanova.png",
               "zoom": "90",
-              "link": "https://sambanova.ai/"
+              "link": "https://sambanova.ai/",
+              "github": "",
+              "x": "@SambaNovaAI"
             },
             {
               "name": "BentoML",
               "description": "BentoML provides an open-source unified inference platform that enables organizations to build, deploy, and scale AI systems across any cloud with high performance and flexibility, while offering enterprise features like auto-scaling, rapid iteration, and SOC II compliance.",
               "logo": "./public/images/bentoml.svg",
-              "link": "https://www.bentoml.com/"
+              "link": "https://www.bentoml.com/",
+              "github": "",
+              "x": "@bentomlai"
             },
             {
               "name": "OpenRouter",
               "description": "OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models across multiple providers, offering standardized access, provider routing, and model rankings, with support for multiple SDKs and framework integrations.",
               "logo": "./public/images/openrouter.svg",
               "zoom": "150",
-              "link": "https://openrouter.ai/"
+              "link": "https://openrouter.ai/",
+              "github": "",
+              "x": "@OpenRouterAI"
             }
           ]
         },
@@ -174,19 +211,25 @@
               "name": "Koyeb",
               "description": "Koyeb provides a high-performance serverless platform specifically optimized for AI workloads, offering GPU/NPU infrastructure, global deployment across 50+ locations, and seamless scaling capabilities for ML model inference and training with built-in observability.",
               "logo": "./public/images/koyeb.png",
-              "link": "https://www.koyeb.com/"
+              "link": "https://www.koyeb.com/",
+              "github": "",
+              "x": "@gokoyeb"
             },
             {
               "name": "CoreWeave",
               "description": "CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastructure optimized for GPU workloads, featuring 11+ NVIDIA GPU types, up to 35x faster performance and 80% cost reduction compared to traditional providers, with specialized solutions for ML/AI, VFX, and inference at scale.",
               "logo": "./public/images/coreweave.png",
-              "link": "https://coreweave.com/"
+              "link": "https://coreweave.com/",
+              "github": "",
+              "x": "@CoreWeave"
             },
             {
               "name": "Nebius",
               "description": "Nebius provides an AI-optimized cloud platform featuring latest NVIDIA GPUs (H200, H100, L40S) with InfiniBand networking, offering managed Kubernetes and Slurm clusters, MLflow integration, and specialized infrastructure for AI training, fine-tuning, and inference workloads.",
               "logo": "./public/images/nebius.svg",
-              "link": "https://nebius.com/"
+              "link": "https://nebius.com/",
+              "github": "",
+              "x": "@nebiusai"
             }
           ]
         }
@@ -205,19 +248,25 @@
               "name": "LangChain",
               "description": "",
               "logo": "./public/images/langchain.png",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@LangChainAI"
             },
             {
               "name": "LlamaIndex",
               "description": "",
               "logo": "./public/images/llamaindex.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@llama_index"
             },
             {
               "name": "Haystack",
               "description": "",
               "logo": "./public/images/haystack.png",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@Haystack_AI"
             },
             {
               "name": "DSPy",
@@ -229,19 +278,32 @@
               "name": "Pydantic AI",
               "description": "",
               "logo": "./public/images/pydantic-ai.svg",
-              "link": "https://ai.pydantic.dev/"
+              "link": "https://ai.pydantic.dev/",
+              "github": "",
+              "x": "@pydantic"
             },
             {
               "name": "Letta",
               "description": "Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.",
               "logo": "./public/images/letta.png",
-              "link": "https://www.letta.com/"
+              "link": "https://www.letta.com/",
+              "github": "",
+              "x": "@Letta_AI"
+            },
+            {
+              "name": "Langbase",
+              "description": "Langbase provides a serverless AI development platform featuring BaseAI (Web AI Framework), composable AI Pipes for agent development, 50-100x cheaper serverless RAG, unified LLM API access, and collaboration tools, with enterprise-grade security and observability.",
+              "logo": "./public/images/langbase.svg",
+              "link": "https://langbase.com/",
+              "x": "@langbaseinc"
             },
             {
               "name": "AutoGen",
               "description": "Framework for developing LLM applications with multiple conversational agents that collaborate and interact with humans.",
               "logo": "./public/images/autogen.svg",
-              "link": "https://github.com/microsoft/autogen"
+              "link": "https://github.com/microsoft/autogen",
+              "github": "https://github.com/microsoft/autogen",
+              "x": "@pyautogen"
             },
             {
               "name": "TaskWeaver",
@@ -254,19 +316,25 @@
               "description": "Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.",
               "logo": "./public/images/toolhouse.svg",
               "link": "https://toolhouse.ai/",
-              "hidden": "true"
+              "hidden": "true",
+              "github": "",
+              "x": "@ToolhouseAI"
             },
             {
               "name": "Composio",
               "description": "Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.",
               "logo": "./public/images/composio.svg",
-              "link": "https://composio.dev/agentauth/"
+              "link": "https://composio.dev/agentauth/",
+              "github": "",
+              "x": "@composiohq"
             },
             {
               "name": "CrewAI",
               "description": "CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.",
               "logo": "./public/images/crewai.svg",
-              "link": "https://www.crewai.io/"
+              "link": "https://www.crewai.io/",
+              "github": "",
+              "x": "@getcrewai"
             },
             {
               "name": "AI Suite",
@@ -284,7 +352,9 @@
               "name": "LLMStack",
               "description": "LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.",
               "logo": "./public/images/llmstack.svg",
-              "link": "https://llmstack.ai/"
+              "link": "https://llmstack.ai/",
+              "github": "",
+              "x": "@llmstack"
             }
           ]
         },
@@ -296,58 +366,76 @@
               "name": "Pinecone",
               "description": "",
               "logo": "./public/images/pinecone.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@pinecone"
             },
             {
               "name": "Weaviate",
               "description": "",
               "logo": "./public/images/weaviate.png",
               "zoom": "120",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@weaviate_io"
             },
             {
               "name": "Chroma",
               "description": "",
               "logo": "./public/images/chroma.svg",
-              "link": "https://www.trychroma.com/"
+              "link": "https://www.trychroma.com/",
+              "github": "",
+              "x": "@trychroma"
             },
             {
               "name": "Milvus",
               "description": "",
               "logo": "./public/images/milvus.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@milvusio"
             },
             {
               "name": "Qdrant",
               "description": "",
               "logo": "./public/images/qdrant.png",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@qdrant_engine"
             },
             {
               "name": "MongoDB Atlas",
               "description": "",
               "logo": "./public/images/mongodb.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@MongoDB"
             },
             {
               "name": "Supabase",
               "description": "Supabase Vector provides an open-source vector database built on Postgres and pgvector, offering scalable embedding storage, indexing, and querying capabilities with integrated AI tooling for OpenAI and Hugging Face, featuring enterprise-grade security and global deployment options.",
               "logo": "./public/images/supabase.png",
-              "link": "https://supabase.com/modules/vector"
+              "link": "https://supabase.com/modules/vector",
+              "github": "",
+              "x": "@supabase"
             },
             {
               "name": "Contextual AI",
               "description": "Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.",
               "logo": "./public/images/contextualai.png",
               "zoom": "80",
-              "link": "https://contextual.ai/"
+              "link": "https://contextual.ai/",
+              "github": "",
+              "x": "@ContextualAI"
             },
             {
               "name": "Unstructured",
               "description": "Platform for working with unstructured data, offering tools for data pre-processing, ETL, and integration with LLMs.",
               "logo": "./public/images/unstructured.avif",
               "link": "https://unstructured.io/",
-              "hidden": "true"
+              "hidden": "true",
+              "github": "",
+              "x": "@UnstructuredIO"
             },
             {
               "name": "Sciphi",
@@ -361,7 +449,9 @@
               "description": "pgAI is a PostgreSQL extension that enables AI capabilities directly in the database, featuring automated vector embedding creation, RAG implementation, semantic search, and LLM integration (OpenAI, Claude, Cohere, Llama) with support for high-performance vector operations through pgvector and pgvectorscale.",
               "logo": "./public/images/pgai.png",
               "link": "https://github.com/timescale/pgai",
-              "hidden": "true"
+              "hidden": "true",
+              "github": "https://github.com/timescale/pgai",
+              "x": "@timescaledb"
             }
           ]
         },
@@ -373,26 +463,33 @@
               "name": "Codestral",
               "description": "Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.",
               "logo": "./public/images/mistral-ai.svg",
-              "link": "https://mistral.ai/news/codestral/"
+              "link": "https://mistral.ai/news/codestral/",
+              "x": "@MistralAI"
             },
             {
               "name": "Claude 3.5 Sonnet",
               "description": "Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art performance in reasoning, coding, and vision tasks, featuring a 200K token context window, computer use capabilities, and enhanced safety measures, available through multiple platforms including Claude.ai and major cloud providers.",
               "logo": "./public/images/claudeai.svg",
-              "link": "https://www.anthropic.com/claude"
+              "link": "https://www.anthropic.com/claude",
+              "github": "",
+              "x": "@AnthropicAI"
             },
             {
               "name": "Qwen2.5-Coder-32B",
               "description": "Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.",
               "logo": "./public/images/qwen.png",
               "zoom": "150",
-              "link": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B"
+              "link": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
+              "github": "",
+              "x": "@Alibaba_Qwen"
             },
             {
               "name": "Poolside Malibu",
               "description": "Poolside Malibu is an enterprise-focused code generation model trained using Reinforcement Learning from Code Execution Feedback (RLCEF), featuring 100K token context, custom fine-tuning capabilities, and deep integration with development environments, available through Amazon Bedrock for secure deployment.",
               "logo": "./public/images/poolside.svg",
-              "link": "https://aws.amazon.com/bedrock/poolside/"
+              "link": "https://aws.amazon.com/bedrock/poolside/",
+              "github": "",
+              "x": "@poolsideai"
             }
           ]
         }
@@ -412,19 +509,25 @@
               "description": "Provides tools for efficient fine-tuning of large language models, including techniques like quantization and memory optimization.",
               "logo": "./public/images/lamini.svg",
               "zoom": "80",
-              "link": "https://lamini.ai/"
+              "link": "https://lamini.ai/",
+              "github": "",
+              "x": "@LaminiAI"
             },
             {
               "name": "Predibase",
               "description": "Platform for building and deploying machine learning models, with a focus on simplifying the development process and enabling faster iteration.",
               "logo": "./public/images/predibase.svg",
-              "link": "https://www.predibase.com/"
+              "link": "https://www.predibase.com/",
+              "github": "",
+              "x": "@predibase"
             },
             {
               "name": "Modal",
               "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
               "logo": "./public/images/modal.svg",
-              "link": "https://modal.com/"
+              "link": "https://modal.com/",
+              "github": "",
+              "x": "@modal_labs"
             },
             {
               "name": "Bloop",
@@ -436,8 +539,9 @@
               "name": "Julius",
               "description": "",
               "logo": "./public/images/julius.svg",
-              "zoom":"140",
-              "link": ""
+              "zoom": "140",
+              "link": "",
+              "x": "@JuliusAI_"
             },
             {
               "name": "Fine Tuner",
@@ -449,13 +553,17 @@
               "name": "Codeanywhere",
               "description": "Provides workspaces with GPU",
               "logo": "./public/images/codeanywhere.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@Codeanywhere"
             },
             {
               "name": "Lightning AI",
               "description": "Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.",
               "logo": "./public/images/lightningai.png",
-              "link": "https://lightning.ai/"
+              "link": "https://lightning.ai/",
+              "github": "",
+              "x": "@LightningAI"
             }
           ]
         },
@@ -467,46 +575,57 @@
               "name": "Relevance AI",
               "description": "Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.",
               "logo": "./public/images/relevanceai.svg",
-              "link": "https://relevanceai.com/"
+              "link": "https://relevanceai.com/",
+              "github": "",
+              "x": "@RelevanceAI_"
             },
             {
               "name": "Greptile",
               "description": "Greptile provides an AI-powered code analysis platform that helps software teams ship faster by offering intelligent code reviews, codebase chat, and custom dev tools with full contextual understanding, while maintaining SOC2 Type II compliance and optional self-hosting capabilities.",
               "logo": "./public/images/greptile.png",
               "zoom": "140",
-              "link": "https://www.greptile.com/"
+              "link": "https://www.greptile.com/",
+              "github": "",
+              "x": "@greptileai"
             },
             {
               "name": "Sourcegraph",
               "description": "Sourcegraph provides a code intelligence platform featuring Cody, an AI coding assistant, and advanced code search capabilities that help developers navigate, understand, and modify complex codebases while automating routine tasks across enterprise environments.",
               "logo": "./public/images/sourcegraph.svg",
-              "link": "https://sourcegraph.com/"
+              "link": "https://sourcegraph.com/",
+              "github": "",
+              "x": "@sourcegraph"
             },
             {
               "name": "PromptLayer",
               "description": "PromptLayer provides a comprehensive prompt engineering platform that enables technical and non-technical teams to collaboratively edit, evaluate, and deploy LLM prompts through a visual CMS, while offering version control, A/B testing, and monitoring capabilities with SOC 2 Type 2 compliance.",
               "logo": "./public/images/promptlayer.png",
-              "link": "https://www.promptlayer.com/"
+              "link": "https://www.promptlayer.com/",
+              "github": "",
+              "x": "@promptlayer"
             },
             {
               "name": "Gretel.ai",
               "description": "",
               "logo": "./public/images/gretel.svg",
-              "link": ""
+              "link": "",
+              "x": "@gretel_ai"
             },
             {
               "name": "Mostly.ai",
               "description": "",
               "logo": "./public/images/mostlyai.svg",
               "link": "",
-              "zoom": "70"
+              "zoom": "70",
+              "x": "@mostly_ai"
             },
             {
               "name": "Tonic.ai",
               "description": "",
               "logo": "./public/images/tonic.svg",
               "link": "",
-              "zoom": "90"
+              "zoom": "90",
+              "x": "@tonicfakedata"
             },
             {
               "name": "Rockfish.ai",
@@ -519,7 +638,9 @@
               "name": "JigsawStack",
               "description": "JigsawStack provides a comprehensive suite of AI APIs including web scraping, translation, speech-to-text, OCR, prediction, and prompt optimization, offering globally distributed infrastructure with type-safe SDKs and built-in monitoring capabilities across 99+ locations.",
               "logo": "./public/images/jigsawstack.svg",
-              "link": "https://www.jigsawstack.com/"
+              "link": "https://www.jigsawstack.com/",
+              "github": "",
+              "x": "@jigsawstack"
             }
           ]
         },
@@ -532,7 +653,8 @@
               "description": "",
               "logo": "./public/images/langsmith.svg",
               "zoom": "80",
-              "link": ""
+              "link": "",
+              "x": "@LangChainAI"
             },
             {
               "name": "Galileo",
@@ -551,7 +673,8 @@
               "name": "Weight & Biases",
               "description": "",
               "logo": "./public/images/w&b.png",
-              "link": ""
+              "link": "",
+              "x": "@weights_biases"
             },
             {
               "name": "AgentOps",
@@ -563,23 +686,28 @@
               "name": "Confident AI",
               "description": "Confident AI provides an LLM evaluation platform that enables organizations to benchmark, unit test, and monitor their LLM applications through automated regression testing, A/B testing, and synthetic dataset generation, while offering research-backed evaluation metrics and comprehensive observability features.",
               "logo": "./public/images/confidentai.svg",
-              "zoom":"150",
-              "link": "https://www.confident-ai.com/"
+              "zoom": "150",
+              "link": "https://www.confident-ai.com/",
+              "github": "",
+              "x": "@confident_ai"
             },
             {
               "name": "ContextQA",
               "description": "AI agent specifically designed for software testing and quality assurance, automating the testing process and providing comprehensive test coverage.",
               "logo": "./public/images/contextqa.svg",
               "zoom": "150",
-              "link": "https://contextqa.com/"
+              "link": "https://contextqa.com/",
+              "github": "",
+              "x": "@ContextQa"
             },
             {
               "name": "Braintrust",
               "description": "Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.",
               "logo": "./public/images/braintrust.svg",
-              "link": "https://www.braintrustdata.com/"
+              "link": "https://www.braintrustdata.com/",
+              "github": "",
+              "x": "@braintrustdata"
             }
-
           ]
         }
       ]
@@ -597,13 +725,17 @@
               "name": "Portkey",
               "description": "Portkey provides a comprehensive AI gateway and control panel that enables teams to route to 200+ LLMs, implement guardrails, manage prompts, and monitor AI applications with detailed observability features while maintaining SOC2 compliance and HIPAA/GDPR standards.",
               "logo": "./public/images/portkey.png",
-              "link": "https://portkey.ai/"
+              "link": "https://portkey.ai/",
+              "github": "",
+              "x": "@portkeyai"
             },
             {
               "name": "Baseten",
               "description": "Baseten provides high-performance inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.",
               "logo": "./public/images/baseten.png",
-              "link": "https://baseten.co/"
+              "link": "https://baseten.co/",
+              "github": "",
+              "x": "@basetenco"
             },
             {
               "name": "LangServe",
@@ -615,7 +747,9 @@
               "name": "Stack AI",
               "description": "Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.",
               "logo": "./public/images/stackai.svg",
-              "link": "https://www.stack-ai.com/"
+              "link": "https://www.stack-ai.com/",
+              "github": "",
+              "x": "@StackAI_HQ"
             }
           ]
         },
@@ -633,31 +767,41 @@
               "name": "Cleanlab",
               "description": "Cleanlab provides an AI-powered data curation platform that helps organizations improve their GenAI and ML solutions by automatically detecting and fixing data quality issues, reducing hallucinations, and enabling trustworthy AI deployment while offering VPC integration for enhanced security.",
               "logo": "./public/images/cleanlab.png",
-              "link": "https://cleanlab.ai/"
+              "link": "https://cleanlab.ai/",
+              "github": "",
+              "x": "@cleanlabai"
             },
             {
               "name": "Patronus",
               "description": "Patronus provides a comprehensive AI evaluation platform built on industry-leading research, offering features for testing hallucinations, security risks, alignment, and performance monitoring, with both pre-built evaluators and custom evaluation capabilities for RAG systems and AI agents.",
               "logo": "./public/images/patronusai.svg",
-              "link": "https://www.patronus.ai/"
+              "link": "https://www.patronus.ai/",
+              "github": "",
+              "x": "@PatronusAI"
             },
             {
               "name": "Log10",
               "description": "Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.",
               "logo": "./public/images/log10.png",
-              "link": "https://www.log10.io/"
+              "link": "https://www.log10.io/",
+              "github": "",
+              "x": "@log10io"
             },
             {
               "name": "Traceloop",
               "description": "Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.",
               "logo": "./public/images/traceloop.png",
-              "link": "https://traceloop.com/"
+              "link": "https://traceloop.com/",
+              "github": "",
+              "x": "@traceloopdev"
             },
             {
               "name": "WhyLabs",
               "description": "WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.",
               "logo": "./public/images/whylabs.svg",
-              "link": "https://whylabs.ai/"
+              "link": "https://whylabs.ai/",
+              "github": "",
+              "x": "@whylabs"
             },
             {
               "name": "OpenLLMetry",
@@ -669,7 +813,9 @@
               "name": "LangWatch",
               "description": "LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.",
               "logo": "./public/images/langwatch.png",
-              "link": "https://langwatch.ai/"
+              "link": "https://langwatch.ai/",
+              "github": "",
+              "x": "@LangWatchAI"
             }
           ]
         },
@@ -693,8 +839,9 @@
               "name": "Lakera",
               "description": "",
               "logo": "./public/images/lakera-ai.png",
-              "zoom":"80",
-              "link": ""
+              "zoom": "80",
+              "link": "",
+              "x": "@LakeraAI"
             }
           ]
         },
@@ -707,14 +854,18 @@
               "description": "LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.",
               "logo": "./public/images/litellm.png",
               "link": "https://litellm.ai/",
-              "hidden": true
+              "hidden": true,
+              "github": "",
+              "x": "@LiteLLM"
             },
             {
               "name": "Martian",
               "description": "Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.",
               "logo": "./public/images/martian.png",
-              "zoom":"120",
-              "link": "https://withmartian.com/"
+              "zoom": "120",
+              "link": "https://withmartian.com/",
+              "github": "",
+              "x": "@withmartian"
             }
           ]
         }
@@ -733,32 +884,42 @@
               "name": "Devin",
               "description": "Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.",
               "logo": "./public/images/cognition.png",
-              "link": "https://devin.ai/"
+              "link": "https://devin.ai/",
+              "github": "",
+              "x": "@cognition_labs"
             },
             {
               "name": "OpenHands",
               "description": "",
               "logo": "./public/images/openhands.png",
-              "link": "https://www.all-hands.dev/"
+              "link": "https://www.all-hands.dev/",
+              "github": "",
+              "x": "@allhands_ai"
             },
             {
               "name": "Lovable",
               "description": "",
               "logo": "./public/images/loveable.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@lovable_dev"
             },
             {
               "name": "AutoGen",
               "description": "",
               "logo": "./public/images/autogen.svg",
-              "link": ""
+              "link": "",
+              "github": "",
+              "x": "@pyautogen"
             },
             {
               "name": "AgentGPT",
               "description": "",
               "logo": "./public/images/agentGPT.png",
               "link": "https://agentgpt.reworkd.ai/",
-              "hidden": "true"
+              "hidden": "true",
+              "github": "",
+              "x": "@ReworkdAI"
             },
             {
               "name": "Superagent",
@@ -772,7 +933,7 @@
               "description": "Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.",
               "logo": "./public/images/morph.svg",
               "link": "https://www.morph.ai/",
-              "hidden":"true"
+              "hidden": "true"
             }
           ]
         },
@@ -785,47 +946,59 @@
               "description": "",
               "logo": "./public/images/githubcopilot.png",
               "zoom": "80",
-              "link": ""
+              "link": "",
+              "x": "@GitHubCopilot"
             },
             {
               "name": "Continue.dev",
               "description": "",
               "logo": "./public/images/continue-dev.svg",
               "zoom": "90",
-              "link": "https://www.continue.dev/"
+              "link": "https://www.continue.dev/",
+              "github": "",
+              "x": "@continuedev"
             },
             {
               "name": "Cody",
               "description": "Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models (including Claude 3 and GPT-4) with comprehensive codebase context to help developers write, understand, and fix code across multiple IDEs, while offering enterprise-grade security and flexible deployment options.",
               "logo": "./public/images/sourcegraph.svg",
-              "link": "https://sourcegraph.com/cody"
+              "link": "https://sourcegraph.com/cody",
+              "x": "@sourcegraph"
             },
             {
               "name": "Cursor",
               "description": "",
               "logo": "./public/images/cursor-ai.png",
-              "link": "https://www.cursor.com/"
+              "link": "https://www.cursor.com/",
+              "github": "",
+              "x": "@cursor_ai"
             },
             {
               "name": "Tabnine",
               "description": "Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.",
               "logo": "./public/images/tabnine.png",
               "zoom": "140",
-              "link": "https://www.tabnine.com/"
+              "link": "https://www.tabnine.com/",
+              "github": "",
+              "x": "@tabnine"
             },
             {
               "name": "Supermaven",
               "description": "Supermaven provides ultra-fast code completion and assistance with a 1M token context window, supporting multiple IDEs (VS Code, JetBrains, Neovim) and LLMs (GPT-4, Claude 3.5), featuring real-time chat interface, codebase scanning, and 3x faster response times compared to competitors.",
               "logo": "./public/images/supermaven.svg",
               "zoom": "120",
-              "link": "https://supermaven.com/"
+              "link": "https://supermaven.com/",
+              "github": "",
+              "x": "@SupermavenAI"
             },
             {
               "name": "Windsurf",
               "description": "Windsurf provides an agentic IDE that combines copilot and agent capabilities through 'Flows', featuring Cascade for deep contextual awareness, multi-file editing, command suggestions, and LLM-based search tools, all integrated into a VS Code-based editor for seamless AI-human collaboration.",
               "logo": "./public/images/windsurf.svg",
               "zoom": "120",
-              "link": "https://codeium.com/windsurf"
+              "link": "https://codeium.com/windsurf",
+              "github": "",
+              "x": "@codeiumdev"
             },
             {
               "name": "Goose",
@@ -838,7 +1011,9 @@
               "name": "Hex",
               "description": "Hex provides an AI-powered analytics platform featuring Magic AI for query writing, chart building, and debugging, combining LLM capabilities with data warehouse context and semantic models to assist with SQL, Python, and visualization tasks while maintaining enterprise-grade security.",
               "logo": "./public/images/hex.svg",
-              "link": "https://hex.tech/"
+              "link": "https://hex.tech/",
+              "github": "",
+              "x": "@_hex_tech"
             }
           ]
         },
@@ -850,43 +1025,56 @@
               "name": "CodeRabbit",
               "description": "",
               "logo": "./public/images/coderabbit.svg",
-              "link": "https://www.coderabbit.ai/"
+              "link": "https://www.coderabbit.ai/",
+              "github": "",
+              "x": "@coderabbitai"
             },
             {
               "name": "Qodo",
               "description": "",
               "logo": "./public/images/qodo.svg",
-              "link": "https://www.qodo.ai/"
+              "link": "https://www.qodo.ai/",
+              "github": "",
+              "x": "@QodoAI"
             },
             {
               "name": "Ellipsis",
               "description": "Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub repositories, offering features like style guide enforcement, code generation, and automated testing while maintaining SOC 2 Type 1 compliance and secure processing without data retention.",
               "logo": "./public/images/elipsis.png",
-              "link": "https://www.ellipsis.dev/"
+              "link": "https://www.ellipsis.dev/",
+              "github": "",
+              "x": "@ellipsis_dev"
             },
             {
               "name": "Codeflash",
               "description": "Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.",
               "logo": "./public/images/codeflash.png",
-              "link": "https://www.codeflash.ai/"
+              "link": "https://www.codeflash.ai/",
+              "github": "",
+              "x": "@codeflashAI"
             },
             {
               "name": "Superflex",
               "description": "Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.",
               "logo": "./public/images/superflex.svg",
-              "link": "https://superflex.ai/"
+              "link": "https://superflex.ai/",
+              "github": "",
+              "x": "@superflex_ai"
             },
             {
               "name": "Codemod",
               "description": "Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.",
               "logo": "./public/images/codemod.svg",
-              "link": "https://codemod.com/"
+              "link": "https://codemod.com/",
+              "x": "@codemod"
             },
             {
               "name": "Codegen",
               "description": "Codegen provides enterprise-grade static analysis and codemod capabilities for large-scale code transformations, featuring advanced visualization tools, automated documentation generation, and platform engineering templates, with SOC 2 Type II certification for secure refactoring at scale.",
               "logo": "./public/images/codegen.png",
-              "link": "https://codegen.com/"
+              "link": "https://codegen.com/",
+              "github": "",
+              "x": "@codegen"
             }
           ]
         }
