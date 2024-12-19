@@ -580,6 +580,14 @@
           "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
             {
+              "name": "CopilotKit",
+              "description": "CopilotKit provides a comprehensive AI toolkit for building and deploying AI applications, offering a wide range of tools and services for data processing, model training, and deployment, with support for multiple AI providers and frameworks.",
+              "logo": "./public/images/copilot-kit.png",
+              "link": "https://copilotkit.ai/",
+              "github": "https://github.com/CopilotKit/CopilotKit",
+              "x": "@CopilotKit"
+            },
+            {
               "name": "Relevance AI",
               "description": "Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.",
               "logo": "./public/images/relevanceai.svg",
