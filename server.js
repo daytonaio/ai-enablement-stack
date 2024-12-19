@@ -1,128 +1,173 @@
-const express = require('express');
+const { promises: fsPromises } = require('fs');
 const fs = require('fs');
 const path = require('path');
-const generateHTML = require('./template');
-const WebSocket = require('ws');
-const chokidar = require('chokidar');
 const http = require('http');
+const morgan = require('morgan');
+const compression = require('compression');
+const helmet = require('helmet');
+const rateLimit = require('express-rate-limit');
+const express = require('express');
+const generateHTML = require('./template');
 
+// Load environment variables
+const port = process.env.PORT || 4000;
+const env = process.env.NODE_ENV || 'development';
+
+// Initialize express app
 const app = express();
-const port = 4000;
-
-// Create HTTP server
 const server = http.createServer(app);
 
-// Create WebSocket server
-const wss = new WebSocket.Server({ server });
-
-// Serve static files
-app.use(express.static('public'));
-
-// Basic middleware
-app.use(express.json());
-
-// Function to inject live reload script into HTML
-function injectLiveReloadScript(html) {
-    const script = `
-        <script>
-            (function() {
-                const ws = new WebSocket('ws://localhost:${port}');
-                ws.onmessage = function(msg) {
-                    if (msg.data === 'reload') window.location.reload();
-                };
-                ws.onclose = function() {
-                    console.log('Live reload connection closed. Reconnecting...');
-                    setTimeout(() => {
-                        window.location.reload();
-                    }, 2000);
-                };
-            })();
-        </script>
-    `;
-    return html.replace('</body>', `${script}</body>`);
-}
-
-// Simple route handler
-app.get('/', async (req, res) => {
-    try {
-        const data = JSON.parse(fs.readFileSync('./ai-enablement-stack.json', 'utf8'));
-
-        const processedData = {
-            ...data,
-            layers: data.layers.map(layer => ({
-                ...layer,
-                sections: layer.sections.map(section => ({
-                    ...section,
-                    companies: section.companies.map(company => {
-                        if (typeof company === 'string') {
-                            return { name: company, logo: '' };
-                        }
-                        return {
-                            ...company,
-                            logo: company.logo ? `/images/${path.basename(company.logo)}` : ''
-                        };
-                    })
-                }))
-            }))
-        };
-
-        if (processedData.layers) {
-            processedData.layers = processedData.layers.reverse();
-        }
-
-        const html = generateHTML(processedData);
-        res.setHeader('Content-Type', 'text/html');
-        res.send(injectLiveReloadScript(html));
-    } catch (error) {
-        console.error('Error:', error);
-        res.status(500).send('Internal Server Error');
+// Security middleware
+app.use(helmet({
+    contentSecurityPolicy: {
+        directives: {
+            defaultSrc: ["'self'"],
+            styleSrc: ["'self'", "'unsafe-inline'", "https://fonts.googleapis.com"],
+            fontSrc: ["'self'", "https://fonts.gstatic.com"],
+            imgSrc: ["'self'", "data:", "https:"],
+        },
     }
-});
+}));
 
-// Set up file watching
-const watcher = chokidar.watch([
-    './ai-enablement-stack.json',
-    './template.js',
-    './public/images/**/*'
-], {
-    ignored: /(^|[\/\\])\../, // ignore dotfiles
-    persistent: true
+// Rate limiting
+const limiter = rateLimit({
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    max: 1000, // Increased from 100 to 1000 requests per windowMs
+    message: 'Too many requests, please try again later',
+    standardHeaders: true,
+    legacyHeaders: false
 });
+app.use(limiter);
 
-// Broadcast to all clients
-function broadcast() {
-    wss.clients.forEach((client) => {
-        if (client.readyState === WebSocket.OPEN) {
-            client.send('reload');
-        }
-    });
+// Middleware
+app.use(compression()); // Compress responses
+app.use(express.json());
+app.use(express.static('public', {
+    maxAge: '1d', // Cache static files for 1 day
+    etag: true
+}));
+
+// Logging configuration
+if (env === 'production') {
+    app.use(morgan('combined'));
+} else {
+    app.use(morgan('dev'));
 }
 
-// Watch for file changes
-watcher
-    .on('change', path => {
-        console.log(`File ${path} has been changed`);
-        broadcast();
-    })
-    .on('add', path => {
-        console.log(`File ${path} has been added`);
-        broadcast();
-    })
-    .on('unlink', path => {
-        console.log(`File ${path} has been removed`);
-        broadcast();
+// Error handler middleware
+const errorHandler = (err, req, res, next) => {
+    console.error(err.stack);
+    res.status(err.status || 500).json({
+        error: env === 'production' ? 'Internal Server Error' : err.message
     });
+};
+
+// Async request handler wrapper
+const asyncHandler = fn => (req, res, next) =>
+    Promise.resolve(fn(req, res, next)).catch(next);
+
+app.get('/', asyncHandler(async (req, res) => {
+    const data = await fsPromises.readFile('./ai-enablement-stack.json', 'utf8');
+    const jsonData = JSON.parse(data);
+
+    const processedData = {
+        ...jsonData,
+        layers: jsonData.layers.map(layer => ({
+            ...layer,
+            sections: layer.sections.map(section => ({
+                ...section,
+                companies: section.companies.map(company => {
+                    if (typeof company === 'string') {
+                        return { name: company, logo: '' };
+                    }
+
+                    // Handle different image extensions and paths
+                    let logoPath = '';
+                    if (company.logo) {
+                        const logoName = path.basename(company.logo);
+                        logoPath = `/images/${logoName}`;
+
+                        // Check if file exists in public/images
+                        const publicPath = path.join(process.cwd(), 'public', 'images', logoName);
+                        if (!fs.existsSync(publicPath)) {
+                            console.warn(`Warning: Image not found: ${logoName} for company ${company.name}`);
+                        }
+                    }
+
+                    return {
+                        ...company,
+                        logo: logoPath
+                    };
+                })
+            }))
+        }))
+    };
+
+    if (processedData.layers) {
+        processedData.layers = processedData.layers.reverse();
+    }
+
+    const dtnLogoUrl = '/images/daytonaio.png';
+    const bgImageDataUrl = '/bg.png';
+
+    const html = generateHTML(processedData, bgImageDataUrl, dtnLogoUrl);  // Pass all three parameters
+
+    res.set({
+        'X-Content-Type-Options': 'nosniff',
+        'X-Frame-Options': 'DENY',
+        'Cache-Control': 'no-cache'
+    });
+
+    res.type('html').send(html);
+}));
+
+// Add a route to check image availability
+app.get('/check-images', asyncHandler(async (req, res) => {
+    const imagesDir = path.join(process.cwd(), 'public', 'images');
+    const files = await fsPromises.readdir(imagesDir);
+    res.json({
+        availableImages: files,
+        directory: imagesDir
+    });
+}));
+
+// 404 handler
+app.use((req, res) => {
+    res.status(404).json({ error: 'Not Found' });
+});
+
+// Error handler
+app.use(errorHandler);
+
+// Graceful shutdown
+const gracefulShutdown = () => {
+    console.log('Received shutdown signal. Starting graceful shutdown...');
+
+    server.close(() => {
+        console.log('Server closed. Process exiting...');
+        process.exit(0);
+    });
+
+    // Force shutdown after 30 seconds
+    setTimeout(() => {
+        console.error('Could not close connections in time, forcefully shutting down');
+        process.exit(1);
+    }, 30000);
+};
 
 // Start server
 server.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
-    console.log('Live reload enabled - watching for file changes...');
+    console.log(`Server running in ${env} mode at http://localhost:${port}`);
 });
 
-// Handle server shutdown
-process.on('SIGTERM', () => {
-    watcher.close();
-    server.close(() => {
-        console.log('Server shutdown complete');
-    });
+// Handle shutdown signals
+process.on('SIGTERM', gracefulShutdown);
+process.on('SIGINT', gracefulShutdown);
+process.on('uncaughtException', (err) => {
+    console.error('Uncaught Exception:', err);
+    gracefulShutdown();
+});
+process.on('unhandledRejection', (err) => {
+    console.error('Unhandled Rejection:', err);
+    gracefulShutdown();
 });

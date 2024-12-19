@@ -870,7 +870,7 @@
               "name": "Martian",
               "description": "Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.",
               "logo": "./public/images/martian.png",
-              "zoom": "120",
+              "zoom": "140",
               "link": "https://withmartian.com/",
               "github": "",
               "x": "@withmartian"

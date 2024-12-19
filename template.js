@@ -1,4 +1,5 @@
-const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
+const generateHTML = (data, bgImageDataUrl = '', dtnLogoUrl = '/images/daytona.svg') => {
+
     const generationDate = new Date().toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'long',
@@ -73,7 +74,9 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
 
         .layer {
             border: 1px dashed var(--border-color);
-            overflow: hidden; /* Ensure content stays within borders */
+            position: relative;
+            z-index: 1;
+            overflow: visible !important;
             font-family: "JetBrains Mono", monospace;
             font-size: 20px;
             font-weight: normal;
@@ -164,6 +167,9 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             border: none;
             border-top: 1px dashed var(--border-color);
             padding: 20px;
+            position: relative;
+            z-index: 1;
+            overflow: visible !important;
         }
 
         .section:first-child {
@@ -176,12 +182,17 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             font-weight: normal;
             color: var(--text-primary);
             margin-bottom: 16px;
+            position: relative;
+            z-index: 1;
         }
 
         .companies {
             display: flex;
             flex-wrap: wrap;
             gap: 8px;
+            position: relative;
+            z-index: 2; /* Higher than section elements */
+            overflow: visible !important;
         }
 
         .company-zoom-30 img {
@@ -238,6 +249,9 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             transform-origin: center;
             min-height: 48px; /* Ensure consistent height */
             min-width: 48px; /* Ensure minimum width */
+            position: relative;
+            cursor: pointer;
+            z-index: 1;
         }
 
         .company img {
@@ -269,11 +283,14 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             background: rgba(255, 255, 255, 0.05);
             transform: translateY(-2px);
             border-color: var(--primary);
+            z-index: 1000;
         }
 
         .sections {
             display: flex;
             flex-direction: column;
+            position: relative;
+            overflow: visible !important;
         }
 
         .header-section {
@@ -321,12 +338,97 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
         }
 
         .footer .company img {
-            height: 20px; /* Adjust logo size as needed */
+            height: 20px;
+            max-width: none;
+            display: inline-block;
         }
 
         .footer .company:hover {
             background: transparent; /* Remove hover effect */
             transform: none; /* Remove hover transform */
+        }
+
+                /* Add these new styles for tooltips */
+        .company {
+            position: relative;
+            cursor: pointer;
+        }
+
+        .company .tooltip {
+            visibility: hidden;
+            position: absolute;
+            bottom: 120%;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(0, 0, 0, 0.9);
+            color: #fff;
+            text-align: left;
+            padding: 12px 16px;
+            border-radius: 6px;
+            font-size: 14px;
+            line-height: 1.4;
+            width: 300px;
+            z-index: 1001;
+            opacity: 0;
+            transition: opacity 0.2s, visibility 0.2s;
+            pointer-events: none;
+            font-family: "Inter", sans-serif;
+            font-weight: 400;
+        }
+
+        .company .tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: rgba(0, 0, 0, 0.9) transparent transparent transparent;
+        }
+
+        .company .tooltip::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: -10px;
+            right: -10px;
+            bottom: -10px;
+            background: rgba(0, 0, 0, 0.4);
+            filter: blur(5px);
+            z-index: -1;
+            border-radius: 10px;
+        }
+
+        .company:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Add extra padding for companies with tooltips */
+        .companies {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            position: relative;
+            overflow: visible !important;
+        }
+
+        /* Ensure tooltips don't get cut off at screen edges */
+        .company:hover .tooltip {
+            white-space: normal;
+            max-width: 300px;
+            word-wrap: break-word;
+        }
+
+        .company:hover .tooltip.tooltip-left {
+            left: 0;
+            transform: translateX(0);
+        }
+
+        .company:hover .tooltip.tooltip-right {
+            left: auto;
+            right: 0;
+            transform: translateX(0);
         }
     </style>
 </head>
@@ -352,12 +454,18 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
                             <div class="section-title">${section.name}</div>
                             <div class="companies">
                                 ${section.companies
-                                    .filter(company => !company.hidden) // Filter out companies with hidden: true
+                                    .filter(company => !company.hidden)
                                     .map(company => `
                                     <div class="company ${company.zoom ? `company-zoom-${company.zoom}` : ''}"}>
                                         ${company.logo
-                                            ? `<img src="${company.logo}" alt="${company.name}" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'">`
+                                            ? `<a href="${company.link || '#'}" target="_blank" rel="nofollow noopener noreferrer">
+                                                <img src="${company.logo}" alt="${company.name}" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'">
+                                            </a>`
                                             : company.name
+                                        }
+                                        ${company.description
+                                            ? `<div class="tooltip">${company.description}</div>`
+                                            : ''
                                         }
                                     </div>
                                 `).join('')}
@@ -371,10 +479,39 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
         <div class="footer">
             Crowdsourced by
             <div class="company">
-                <img src="${dtnLogoUrl}" alt="Daytona">
+                <a href="https://daytona.io" target="_blank" rel="nofollow noopener noreferrer">
+                    <img src="${dtnLogoUrl}" alt="Daytona"
+                        onerror="console.error('Failed to load Daytona logo:', this.src)">
+                </a>
             </div>
         </div>
     </div>
+
+    <script>
+        // Add this script to handle tooltip positioning
+        document.addEventListener('DOMContentLoaded', function() {
+            const companies = document.querySelectorAll('.company');
+
+            companies.forEach(company => {
+                const tooltip = company.querySelector('.tooltip');
+                if (tooltip) {
+                    company.addEventListener('mouseenter', () => {
+                        const rect = tooltip.getBoundingClientRect();
+                        const viewportWidth = window.innerWidth;
+
+                        // Check if tooltip goes beyond right edge
+                        if (rect.right > viewportWidth) {
+                            tooltip.classList.add('tooltip-right');
+                        }
+                        // Check if tooltip goes beyond left edge
+                        else if (rect.left < 0) {
+                            tooltip.classList.add('tooltip-left');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
 </body>
 </html>
 `;
