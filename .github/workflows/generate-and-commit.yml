@@ -45,7 +45,7 @@ jobs:
             README.md
             ai-enablement-stack.png
           base: main
-          commit-message: Update artefacts
+          commit-message: "Update artefacts [skip actions]"
           title: Update artefacts
           body: |
             Update README.md and ai-enablement-stack.png
