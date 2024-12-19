@@ -38,9 +38,7 @@ jobs:
 
       - name: Commit and push artifacts if changed
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add README.md ai-enablement-stack.png
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update README.md and ai-enablement-stack.png" && git push)
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUBBOT_TOKEN }}
