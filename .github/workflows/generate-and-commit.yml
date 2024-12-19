@@ -33,14 +33,18 @@ jobs:
 
       - name: Generate files
         run: yarn run generate
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
 
-      - name: Commit and push artifacts if changed
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md ai-enablement-stack.png
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README.md and ai-enablement-stack.png" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUBBOT_TOKEN }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUBBOT_TOKEN }}
+          labels: auto-generated
+          branch: update-artefacts
+          add-paths: |
+            README.md
+            ai-enablement-stack.png
+          base: main
+          commit-message: Update artefacts
+          title: Update artefacts
+          body: |
+            Update README.md and ai-enablement-stack.png
