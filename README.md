@@ -1554,6 +1554,21 @@ Morph Labs provides infrastructure for developing and deploying autonomous softw
 - [https://morph.so/](https://morph.so/)
 </details>
 
+#### [Judge0](https://judge0.com/)
+<details>
+
+![Judge0](./public/images/judge0.png)
+
+##### Category
+INFRASTRUCTURE LAYER - AI Workspaces
+
+##### Description
+Judge0 is an open-source online code execution system that enables the robust, fast, scalable, and sandboxed execution of AI-generated code, with support for multiple languages and frameworks.
+
+##### Links
+- [https://judge0.com/](https://judge0.com/)
+</details>
+
 ### Model Access & Deployment
 
 Services for deploying and running AI models
