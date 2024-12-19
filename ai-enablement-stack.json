@@ -581,7 +581,7 @@
           "companies": [
             {
               "name": "CopilotKit",
-              "description": "CopilotKit provides a comprehensive AI toolkit for building and deploying AI applications, offering a wide range of tools and services for data processing, model training, and deployment, with support for multiple AI providers and frameworks.",
+              "description": "AI Copilots for your product. Build fast, customize effortlessly.",
               "logo": "./public/images/copilot-kit.png",
               "link": "https://copilotkit.ai/",
               "github": "https://github.com/CopilotKit/CopilotKit",
