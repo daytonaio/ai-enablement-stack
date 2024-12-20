@@ -303,7 +303,7 @@
             {
               "name": "Pydantic AI",
               "description": "",
-              "logo": "./public/images/pydantic-ai.svg",
+              "logo": "./public/images/pydantic-ai.png",
               "link": "https://ai.pydantic.dev/",
               "github": "https://github.com/pydantic/pydantic-ai",
               "x": "@pydantic"
