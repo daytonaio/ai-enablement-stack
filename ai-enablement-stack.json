@@ -334,7 +334,7 @@
             {
               "name": "TaskWeaver",
               "description": "A framework for creating and managing workflows and tasks for AI agents.",
-              "logo": "./public/images/taskweaver.png",
+              "logo": "",
                "link":"https://microsoft.github.io/TaskWeaver/",
               "github": "https://github.com/microsoft/TaskWeaver"
             },
@@ -787,7 +787,7 @@
             {
               "name": "Pydantic Logfire",
               "description": "",
-              "logo": "./public/images/pydantic-ai.png",
+              "logo": "",
               "link": "https://pydantic.dev/logfire",
               "github":"https://github.com/pydantic/logfire"
             },
