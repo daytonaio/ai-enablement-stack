@@ -580,6 +580,14 @@
           "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
             {
+              "name": "Ant Design X",
+              "description": "Ant Design X is a brand new AGI component library from Ant Design, designed to help developers more easily develop AI product user interfaces. Building on Ant Design, Ant Design X further expands the design specifications for AI products, offering developers more powerful tools and resources.",
+              "logo": "./public/images/ant-design-x.svg",
+              "link": "https://x.ant.design/",
+              "github": "https://github.com/ant-design/x",
+              "x": "@AntDesignUI"
+            },
+            {
               "name": "Relevance AI",
               "description": "Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.",
               "logo": "./public/images/relevanceai.svg",
