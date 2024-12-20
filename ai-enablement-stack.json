@@ -151,11 +151,13 @@
               "x": "@GoogleAI"
             },
             {
-              "name": "Amazon Nova",
-              "description": "Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, offering multiple model variants (Micro, Lite, Pro, Canvas, Reel) for text, image, and video processing with industry-leading price-performance, fine-tuning capabilities, and enterprise-grade features.",
-              "logo": "./public/images/amazon-nova.png",
-              "link": "https://aws.amazon.com/ai/generative-ai/nova/",
-              "hidden": "true"
+              "name": "Amazon Bedrock",
+              "description": "Amazon Bedrock is a fully managed service that provides access to leading foundation models through a unified API, featuring customization capabilities through fine-tuning and RAG, managed AI agents for workflow automation, and enterprise-grade security with HIPAA and GDPR compliance.",
+              "logo": "./public/images/amazon-bedrock.png",
+              "zoom": "140",
+              "link": "https://aws.amazon.com/bedrock/",
+              "github": "",
+              "x": "@awscloud"
             },
             {
               "name": "Replicate",
@@ -222,6 +224,22 @@
               "link": "https://www.koyeb.com/",
               "github": "",
               "x": "@gokoyeb"
+            },
+            {
+              "name": "Hyperbolic",
+              "description": "Hyperbolic provides a decentralized GPU marketplace for AI compute and inference, offering up to 80% cost reduction compared to traditional providers, featuring high-throughput inference services, pay-as-you-go GPU access, and compute monetization capabilities with hardware-agnostic support.",
+              "logo": "./public/images/hyperbolic-labs.svg",
+              "link": "https://hyperbolic.xyz/",
+              "github": "",
+              "x": "@hyperbolic_labs"
+            },
+            {
+              "name": "Prime Intellect",
+              "description": "Prime Intellect provides a unified GPU marketplace aggregating multiple cloud providers, featuring competitive pricing for various GPUs (H100, A100, RTX series), decentralized training capabilities across distributed clusters, and tools for collaborative AI model development with a focus on open-source innovation.",
+              "logo": "./public/images/prime-intellect.svg",
+              "link": "https://www.primeintellect.ai/",
+              "github": "",
+              "x": "@PrimeIntellect"
             },
             {
               "name": "CoreWeave",
@@ -911,6 +929,22 @@
               "link": "",
               "github": "",
               "x": "@lovable_dev"
+            },
+            {
+              "name": "Bolt.new",
+              "description": "Bolt.new is a web-based development platform that enables in-browser application development with AI assistance (Claude 3.5 Sonnet), featuring real-time execution, one-click Netlify deployment, and no-setup required development environment, particularly suited for rapid prototyping and non-technical founders.",
+              "logo": "",
+              "link": "https://bolt.new",
+              "github": "https://github.com/stackblitz/bolt.new",
+              "x": ""
+            },
+            {
+              "name": "Vercel v0",
+              "description": "Vercel v0 is an AI-powered UI generation platform that enables developers to create React components through natural language prompts, featuring integration with Tailwind CSS and Shadcn/UI, rapid prototyping capabilities, and production-ready code generation with customization options.",
+              "logo": "./public/images/v0.png",
+              "link": "https://v0.dev/",
+              "github": "",
+              "x": "@vercel"
             },
             {
               "name": "AutoGen",
