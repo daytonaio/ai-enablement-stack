@@ -14,15 +14,16 @@ function generateReadme(data) {
 </h1>
 
 <h3 align="center">
-  A comprehensive list of tools and technologies for enabling agentic AI development
+  The comprehensive guide to tools and technologies powering modern AI development
 </h3>
 
-<h5 align="center">👉 <a href="CONTRIBUTING.md">Contribute New Company/Product</a></h5>
+<h5 align="center">👉 <a href="CONTRIBUTING.md">Add Your Tool</a></h5>
 
 <img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
 
-Welcome to AI Enablement Stack mapping.
-The list is structured into layers based on their functionality in the agentic AI development ecosystem:
+<h2>What is the AI Enablement Stack?</h2>
+
+<p>The AI Enablement Stack is a curated collection of venture-backed companies, tools and technologies that enable developers to build, deploy, and manage AI applications. It provides a structured view of the AI development ecosystem across five key layers:</p>
 
 `;
 
@@ -35,13 +36,23 @@ The list is structured into layers based on their functionality in the agentic A
     }
   });
 
+  readme += `## Why Use This Stack?\n\n`;
+  readme += `- **For Developers**: Find the right tools to build AI applications faster and more efficiently\n`;
+  readme += `- **For Engineering Leaders**: Make informed decisions about AI infrastructure and tooling\n`;
+  readme += `- **For Organizations**: Understand the AI development landscape and plan technology adoption\n\n`;
+  readme += `Each tool in this stack is carefully selected based on:\n\n`;
+  readme += `- Production readiness\n`;
+  readme += `- Enterprise-grade capabilities\n`;
+  readme += `- Active development and support\n`;
+  readme += `- Venture backing or significant market presence\n\n`;
+
   readme += `## How to Contribute\n\n`;
   readme += `To contribute to this list:\n\n`;
   readme += `0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>\n`;
   readme += `1. Fork the repository\n`;
   readme += `2. Add logo under the ./public/images/ folder\n`;
   readme += `3. Add your tool in the appropriate category in the file ai-enablement-stack.json\n`;
-  readme += `4. Submit a pull request\n\n`;
+  readme += `4. Submit a PR with a compelling rationale for its acceptance\n\n`;
 
   // Add detailed sections
   reversedLayers.forEach(layer => {
@@ -65,13 +76,21 @@ The list is structured into layers based on their functionality in the agentic A
           readme += `#### [${company.name}](${company.link || ''})\n`;
           readme += `<details>\n\n`;
           if (company.logo) {
-            readme += `![${company.name}](${company.logo})\n\n`;
+            readme += `<img src="${company.logo}" width="200" alt="${company.name}">\n\n`;
           }
           readme += `##### Category\n${layer.name} - ${section.name}\n\n`;
           readme += `##### Description\n${company.description || '- No description available'}\n\n`;
           readme += `##### Links\n`;
           if (company.link) {
-            readme += `- [${company.link}](${company.link})\n`;
+            readme += `- [Website](${company.link})\n`;
+          }
+          if (company.github) {
+            readme += `- [GitHub](${company.github})\n`;
+          }
+          if (company.x) {
+            // Remove @ symbol if present and add proper X/Twitter URL
+            const xHandle = company.x.startsWith('@') ? company.x.substring(1) : company.x;
+            readme += `- [X/Twitter](https://twitter.com/${xHandle})\n`;
           }
           readme += `</details>\n\n`;
         }

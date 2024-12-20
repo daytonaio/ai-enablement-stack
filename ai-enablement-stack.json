@@ -7,7 +7,7 @@
     {
       "number": 1,
       "name": "INFRASTRUCTURE LAYER",
-      "description": "The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.",
+      "description": "The computing backbone that enables AI development and deployment, from development environments to model serving platforms.",
       "sections": [
         {
           "name": "AI Workspaces",
@@ -96,7 +96,7 @@
             {
               "name": "AI21labs",
               "description": "AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.",
-              "logo": "./public/images/AI21labs.svg",
+              "logo": "./public/images/ai21labs.svg",
               "link": "https://www.ai21.com/",
               "github": "",
               "x": "@AI21Labs"
@@ -246,7 +246,7 @@
     {
       "number": 2,
       "name": "INTELLIGENCE LAYER",
-      "description": "The cognitive core of AI systems. This layer contains the frameworks, knowledge engines, and specialized models that power AI applications. It manages the actual processing, decision-making, and information retrieval that makes AI systems intelligent.",
+      "description": "The cognitive foundation featuring frameworks, knowledge engines, and specialized models that power AI capabilities.",
       "sections": [
         {
           "name": "Frameworks",
@@ -368,7 +368,7 @@
         },
         {
           "name": "Knowledge Engines",
-          "description": "Systems for managing and retrieving information",
+          "description": "Databases and systems for managing and retrieving information",
           "companies": [
             {
               "name": "Pinecone",
@@ -506,7 +506,7 @@
     {
       "number": 3,
       "name": "ENGINEERING LAYER",
-      "description": "The developer's toolkit for building AI applications. This layer provides essential resources for training models, developing applications, and ensuring quality through testing. It provides tools and methods for transforming raw AI capabilities into production-ready solutions.",
+      "description": "Development resources for building production-ready AI applications, including training tools, testing frameworks, and quality assurance solutions.",
       "sections": [
         {
           "name": "Training & Fine-Tuning",
@@ -723,7 +723,7 @@
     {
       "number": 4,
       "name": "OBSERVABILITY AND GOVERNANCE LAYER",
-      "description": "The control layer for monitoring, evaluating, securing, and governing AI systems. This layer handles everything from development pipelines and performance monitoring to risk management and compliance. It ensures AI systems operate reliably and meet organizational standards.",
+      "description": "Tools for monitoring, securing, and managing AI systems in production. Essential for maintaining reliable and compliant AI operations.",
       "sections": [
         {
           "name": "Development Pipeline",
@@ -882,7 +882,7 @@
     {
       "number": 5,
       "name": "AGENT CONSUMER LAYER",
-      "description": "The interface layer where AI agents interact with users and systems. This includes standalone autonomous agents, assistive tools that enhance human capabilities, and specialized agents built for specific tasks. It's where AI capabilities are packaged into practical, user-facing applications.",
+      "description": "Where AI meets end-users through autonomous agents, assistive tools, and specialized solutions. This layer showcases ready-to-use AI applications and agentic tools.",
       "sections": [
         {
           "name": "Autonomous Agents",
