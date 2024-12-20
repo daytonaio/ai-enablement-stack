@@ -203,19 +203,19 @@
               "name": "AWS",
               "description": "",
               "logo": "./public/images/aws.png",
-              "link": ""
+              "link": "https://aws.amazon.com/"
             },
             {
               "name": "Azure",
               "description": "",
               "logo": "./public/images/azure.png",
-              "link": ""
+              "link": "https://azure.microsoft.com/"
             },
             {
               "name": "GCP",
               "description": "",
               "logo": "./public/images/gcp.png",
-              "link": ""
+              "link": "https://cloud.google.com/"
             },
             {
               "name": "Koyeb",
@@ -274,38 +274,38 @@
               "name": "LangChain",
               "description": "",
               "logo": "./public/images/langchain.png",
-              "link": "",
-              "github": "",
+              "link": "https://www.langchain.com/",
+              "github": "https://github.com/langchain-ai",
               "x": "@LangChainAI"
             },
             {
               "name": "LlamaIndex",
               "description": "",
               "logo": "./public/images/llamaindex.svg",
-              "link": "",
-              "github": "",
+              "link": "https://www.llamaindex.ai/",
+              "github": "https://github.com/run-llama",
               "x": "@llama_index"
             },
             {
               "name": "Haystack",
               "description": "",
               "logo": "./public/images/haystack.png",
-              "link": "",
-              "github": "",
+              "link": "https://haystack.deepset.ai/",
+              "github": "https://github.com/deepset-ai/haystack",
               "x": "@Haystack_AI"
             },
             {
               "name": "DSPy",
               "description": "",
               "logo": "./public/images/dspy.png",
-              "link": ""
+              "link": "https://dspy.ai/"
             },
             {
               "name": "Pydantic AI",
               "description": "",
               "logo": "./public/images/pydantic-ai.svg",
               "link": "https://ai.pydantic.dev/",
-              "github": "",
+              "github": "https://github.com/pydantic/pydantic-ai",
               "x": "@pydantic"
             },
             {
@@ -313,7 +313,7 @@
               "description": "Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.",
               "logo": "./public/images/letta.png",
               "link": "https://www.letta.com/",
-              "github": "",
+              "github": "https://github.com/letta-ai/letta",
               "x": "@Letta_AI"
             },
             {
@@ -334,8 +334,9 @@
             {
               "name": "TaskWeaver",
               "description": "A framework for creating and managing workflows and tasks for AI agents.",
-              "logo": "",
-              "link": "https://github.com/microsoft/TaskWeaver"
+              "logo": "./public/images/taskweaver.png",
+               "link":"https://microsoft.github.io/TaskWeaver/",
+              "github": "https://github.com/microsoft/TaskWeaver"
             },
             {
               "name": "Toolhouse",
@@ -343,7 +344,7 @@
               "logo": "./public/images/toolhouse.svg",
               "link": "https://toolhouse.ai/",
               "hidden": "true",
-              "github": "",
+              "github": "https://github.com/toolhouseai",
               "x": "@ToolhouseAI"
             },
             {
@@ -351,14 +352,14 @@
               "description": "Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.",
               "logo": "./public/images/composio.svg",
               "link": "https://composio.dev/agentauth/",
-              "github": "",
+              "github": "https://github.com/ComposioHQ/composio/tree/master/python/swe",
               "x": "@composiohq"
             },
             {
               "name": "CrewAI",
               "description": "CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.",
               "logo": "./public/images/crewai.svg",
-              "link": "https://www.crewai.io/",
+              "link": "https://www.crewai.com/",
               "github": "",
               "x": "@getcrewai"
             },
@@ -379,7 +380,7 @@
               "description": "LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.",
               "logo": "./public/images/llmstack.svg",
               "link": "https://llmstack.ai/",
-              "github": "",
+              "github": "https://github.com/trypromptly/LLMStack",
               "x": "@llmstack"
             }
           ]
@@ -392,7 +393,7 @@
               "name": "Pinecone",
               "description": "",
               "logo": "./public/images/pinecone.svg",
-              "link": "",
+              "link": "https://www.pinecone.io/",
               "github": "",
               "x": "@pinecone"
             },
@@ -401,8 +402,8 @@
               "description": "",
               "logo": "./public/images/weaviate.png",
               "zoom": "120",
-              "link": "",
-              "github": "",
+              "link": "https://weaviate.io/",
+              "github": "https://github.com/weaviate/weaviate",
               "x": "@weaviate_io"
             },
             {
@@ -410,22 +411,22 @@
               "description": "",
               "logo": "./public/images/chroma.svg",
               "link": "https://www.trychroma.com/",
-              "github": "",
+              "github": "https://github.com/chroma-core/chroma",
               "x": "@trychroma"
             },
             {
               "name": "Milvus",
               "description": "",
               "logo": "./public/images/milvus.svg",
-              "link": "",
-              "github": "",
+              "link": "https://milvus.io/",
+              "github": "https://github.com/milvus-io/milvus",
               "x": "@milvusio"
             },
             {
               "name": "Qdrant",
               "description": "",
               "logo": "./public/images/qdrant.png",
-              "link": "",
+              "link": "https://qdrant.tech/",
               "github": "",
               "x": "@qdrant_engine"
             },
@@ -433,7 +434,7 @@
               "name": "MongoDB Atlas",
               "description": "",
               "logo": "./public/images/mongodb.svg",
-              "link": "",
+              "link": "https://www.mongodb.com/products/platform/atlas-database",
               "github": "",
               "x": "@MongoDB"
             },
@@ -442,7 +443,7 @@
               "description": "Supabase Vector provides an open-source vector database built on Postgres and pgvector, offering scalable embedding storage, indexing, and querying capabilities with integrated AI tooling for OpenAI and Hugging Face, featuring enterprise-grade security and global deployment options.",
               "logo": "./public/images/supabase.png",
               "link": "https://supabase.com/modules/vector",
-              "github": "",
+              "github": "https://github.com/supabase/supabase",
               "x": "@supabase"
             },
             {
@@ -559,27 +560,27 @@
               "name": "Bloop",
               "description": "",
               "logo": "./public/images/bloopai.svg",
-              "link": ""
+              "link": "https://bloop.ai/"
             },
             {
               "name": "Julius",
               "description": "",
               "logo": "./public/images/julius.svg",
               "zoom": "140",
-              "link": "",
+              "link": "https://julius.ai/",
               "x": "@JuliusAI_"
             },
             {
               "name": "Fine Tuner",
               "description": "",
               "logo": "./public/images/fine-tuners.png",
-              "link": ""
+              "link": "https://fine-tuner.ai/"
             },
             {
               "name": "Codeanywhere",
               "description": "Provides workspaces with GPU",
               "logo": "./public/images/codeanywhere.svg",
-              "link": "",
+              "link": "https://codeanywhere.com/",
               "github": "",
               "x": "@Codeanywhere"
             },
@@ -602,7 +603,7 @@
               "description": "Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.",
               "logo": "./public/images/relevanceai.svg",
               "link": "https://relevanceai.com/",
-              "github": "",
+              "github": "https://github.com/RelevanceAI",
               "x": "@RelevanceAI_"
             },
             {
@@ -611,7 +612,7 @@
               "logo": "./public/images/greptile.png",
               "zoom": "140",
               "link": "https://www.greptile.com/",
-              "github": "",
+              "github": "https://github.com/greptileai",
               "x": "@greptileai"
             },
             {
@@ -619,7 +620,7 @@
               "description": "Sourcegraph provides a code intelligence platform featuring Cody, an AI coding assistant, and advanced code search capabilities that help developers navigate, understand, and modify complex codebases while automating routine tasks across enterprise environments.",
               "logo": "./public/images/sourcegraph.svg",
               "link": "https://sourcegraph.com/",
-              "github": "",
+              "github": "https://github.com/sourcegraph",
               "x": "@sourcegraph"
             },
             {
@@ -627,21 +628,21 @@
               "description": "PromptLayer provides a comprehensive prompt engineering platform that enables technical and non-technical teams to collaboratively edit, evaluate, and deploy LLM prompts through a visual CMS, while offering version control, A/B testing, and monitoring capabilities with SOC 2 Type 2 compliance.",
               "logo": "./public/images/promptlayer.png",
               "link": "https://www.promptlayer.com/",
-              "github": "",
+              "github": "https://github.com/MagnivOrg/prompt-layer-library",
               "x": "@promptlayer"
             },
             {
               "name": "Gretel.ai",
               "description": "",
               "logo": "./public/images/gretel.svg",
-              "link": "",
+              "link": "https://gretel.ai/",
               "x": "@gretel_ai"
             },
             {
               "name": "Mostly.ai",
               "description": "",
               "logo": "./public/images/mostlyai.svg",
-              "link": "",
+              "link": "https://mostly.ai/",
               "zoom": "70",
               "x": "@mostly_ai"
             },
@@ -649,7 +650,7 @@
               "name": "Tonic.ai",
               "description": "",
               "logo": "./public/images/tonic.svg",
-              "link": "",
+              "link": "https://www.tonic.ai/",
               "zoom": "90",
               "x": "@tonicfakedata"
             },
@@ -657,7 +658,7 @@
               "name": "Rockfish.ai",
               "description": "",
               "logo": "./public/images/rockfishdata.png",
-              "link": "",
+              "link": "https://www.rockfish.ai/",
               "hidden": "true"
             },
             {
@@ -665,7 +666,7 @@
               "description": "JigsawStack provides a comprehensive suite of AI APIs including web scraping, translation, speech-to-text, OCR, prediction, and prompt optimization, offering globally distributed infrastructure with type-safe SDKs and built-in monitoring capabilities across 99+ locations.",
               "logo": "./public/images/jigsawstack.svg",
               "link": "https://www.jigsawstack.com/",
-              "github": "",
+              "github": "https://github.com/JigsawStack",
               "x": "@jigsawstack"
             }
           ]
@@ -679,7 +680,7 @@
               "description": "",
               "logo": "./public/images/langsmith.svg",
               "zoom": "80",
-              "link": "",
+              "link": "https://www.langchain.com/langsmith",
               "x": "@LangChainAI"
             },
             {
@@ -687,26 +688,26 @@
               "description": "",
               "logo": "./public/images/galileo.png",
               "zoom": "150",
-              "link": ""
+              "link": "https://www.galileo.ai/"
             },
             {
               "name": "Arize",
               "description": "",
               "logo": "./public/images/arize-ai.svg",
-              "link": ""
+              "link": "https://arize.com/"
             },
             {
               "name": "Weight & Biases",
               "description": "",
               "logo": "./public/images/w&b.png",
-              "link": "",
+              "link": "https://wandb.ai/site/",
               "x": "@weights_biases"
             },
             {
               "name": "AgentOps",
               "description": "",
               "logo": "./public/images/agentops.svg",
-              "link": ""
+              "link": "https://www.agentops.ai/"
             },
             {
               "name": "Confident AI",
@@ -731,7 +732,7 @@
               "description": "Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.",
               "logo": "./public/images/braintrust.svg",
               "link": "https://www.braintrustdata.com/",
-              "github": "",
+              "github": "https://github.com/braintrustdata/",
               "x": "@braintrustdata"
             }
           ]
@@ -767,7 +768,7 @@
               "name": "LangServe",
               "description": "",
               "logo": "./public/images/langserve.svg",
-              "link": ""
+              "link": "https://github.com/langchain-ai/langserve"
             },
             {
               "name": "Stack AI",
@@ -786,15 +787,16 @@
             {
               "name": "Pydantic Logfire",
               "description": "",
-              "logo": "./public/images/pydantic-ai.svg",
-              "link": ""
+              "logo": "./public/images/pydantic-ai.png",
+              "link": "https://pydantic.dev/logfire",
+              "github":"https://github.com/pydantic/logfire"
             },
             {
               "name": "Cleanlab",
               "description": "Cleanlab provides an AI-powered data curation platform that helps organizations improve their GenAI and ML solutions by automatically detecting and fixing data quality issues, reducing hallucinations, and enabling trustworthy AI deployment while offering VPC integration for enhanced security.",
               "logo": "./public/images/cleanlab.png",
               "link": "https://cleanlab.ai/",
-              "github": "",
+              "github": "https://github.com/cleanlab/cleanlab",
               "x": "@cleanlabai"
             },
             {
@@ -810,7 +812,7 @@
               "description": "Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.",
               "logo": "./public/images/log10.png",
               "link": "https://www.log10.io/",
-              "github": "",
+              "github": "https://github.com/log10-io",
               "x": "@log10io"
             },
             {
@@ -818,7 +820,7 @@
               "description": "Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.",
               "logo": "./public/images/traceloop.png",
               "link": "https://traceloop.com/",
-              "github": "",
+              "github": "https://github.com/traceloop/openllmetry",
               "x": "@traceloopdev"
             },
             {
@@ -840,7 +842,7 @@
               "description": "LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.",
               "logo": "./public/images/langwatch.png",
               "link": "https://langwatch.ai/",
-              "github": "",
+              "github": "https://github.com/langwatch/langwatch",
               "x": "@LangWatchAI"
             }
           ]
@@ -853,20 +855,20 @@
               "name": "Alinia",
               "description": "",
               "logo": "./public/images/alinia.svg",
-              "link": ""
+              "link": "https://alinia.ai/"
             },
             {
               "name": "Guardrails AI",
               "description": "",
               "logo": "./public/images/guardrailsai.svg",
-              "link": ""
+              "link": "https://www.guardrailsai.com/"
             },
             {
               "name": "Lakera",
               "description": "",
               "logo": "./public/images/lakera-ai.png",
               "zoom": "80",
-              "link": "",
+              "link": "https://www.lakera.ai/",
               "x": "@LakeraAI"
             }
           ]
@@ -881,7 +883,7 @@
               "logo": "./public/images/litellm.png",
               "link": "https://litellm.ai/",
               "hidden": true,
-              "github": "",
+              "github": "https://github.com/BerriAI/litellm",
               "x": "@LiteLLM"
             },
             {
@@ -890,7 +892,7 @@
               "logo": "./public/images/martian.png",
               "zoom": "140",
               "link": "https://withmartian.com/",
-              "github": "",
+              "github": "https://github.com/withmartian",
               "x": "@withmartian"
             }
           ]
@@ -919,14 +921,14 @@
               "description": "",
               "logo": "./public/images/openhands.png",
               "link": "https://www.all-hands.dev/",
-              "github": "",
+              "github": "https://github.com/All-Hands-AI/OpenHands",
               "x": "@allhands_ai"
             },
             {
               "name": "Lovable",
               "description": "",
               "logo": "./public/images/loveable.svg",
-              "link": "",
+              "link": "https://lovable.dev/",
               "github": "",
               "x": "@lovable_dev"
             },
@@ -950,7 +952,7 @@
               "name": "AutoGen",
               "description": "",
               "logo": "./public/images/autogen.svg",
-              "link": "",
+              "link": "https://github.com/microsoft/autogen",
               "github": "",
               "x": "@pyautogen"
             },
@@ -960,7 +962,7 @@
               "logo": "./public/images/agentGPT.png",
               "link": "https://agentgpt.reworkd.ai/",
               "hidden": "true",
-              "github": "",
+              "github": "https://github.com/reworkd/AgentGPT",
               "x": "@ReworkdAI"
             },
             {
@@ -988,7 +990,7 @@
               "description": "",
               "logo": "./public/images/githubcopilot.png",
               "zoom": "80",
-              "link": "",
+              "link": "https://github.com/features/copilot",
               "x": "@GitHubCopilot"
             },
             {
@@ -997,7 +999,7 @@
               "logo": "./public/images/continue-dev.svg",
               "zoom": "90",
               "link": "https://www.continue.dev/",
-              "github": "",
+              "github": "https://github.com/continuedev/continue",
               "x": "@continuedev"
             },
             {
@@ -1012,7 +1014,7 @@
               "description": "",
               "logo": "./public/images/cursor-ai.png",
               "link": "https://www.cursor.com/",
-              "github": "",
+              "github": "https://github.com/getcursor/cursor",
               "x": "@cursor_ai"
             },
             {
@@ -1076,7 +1078,7 @@
               "description": "",
               "logo": "./public/images/qodo.svg",
               "link": "https://www.qodo.ai/",
-              "github": "",
+              "github": "https://github.com/Codium-ai/pr-agent",
               "x": "@QodoAI"
             },
             {
@@ -1100,7 +1102,7 @@
               "description": "Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.",
               "logo": "./public/images/superflex.svg",
               "link": "https://superflex.ai/",
-              "github": "",
+              "github": "https://github.com/aquila-lab/superflex-vscode",
               "x": "@superflex_ai"
             },
             {
