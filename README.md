@@ -108,6 +108,36 @@ AGENT CONSUMER LAYER - Autonomous Agents
 - [X/Twitter](https://twitter.com/lovable_dev)
 </details>
 
+#### [Bolt.new](https://bolt.new)
+<details>
+
+##### Category
+AGENT CONSUMER LAYER - Autonomous Agents
+
+##### Description
+Bolt.new is a web-based development platform that enables in-browser application development with AI assistance (Claude 3.5 Sonnet), featuring real-time execution, one-click Netlify deployment, and no-setup required development environment, particularly suited for rapid prototyping and non-technical founders.
+
+##### Links
+- [Website](https://bolt.new)
+- [GitHub](https://github.com/stackblitz/bolt.new)
+</details>
+
+#### [Vercel v0](https://v0.dev/)
+<details>
+
+<img src="./public/images/v0.png" width="200" alt="Vercel v0">
+
+##### Category
+AGENT CONSUMER LAYER - Autonomous Agents
+
+##### Description
+Vercel v0 is an AI-powered UI generation platform that enables developers to create React components through natural language prompts, featuring integration with Tailwind CSS and Shadcn/UI, rapid prototyping capabilities, and production-ready code generation with customization options.
+
+##### Links
+- [Website](https://v0.dev/)
+- [X/Twitter](https://twitter.com/vercel)
+</details>
+
 #### [AutoGen]()
 <details>
 
@@ -1847,19 +1877,20 @@ End-to-end platform for deploying and managing AI models, including LLMs, with i
 - [X/Twitter](https://twitter.com/GoogleAI)
 </details>
 
-#### [Amazon Nova](https://aws.amazon.com/ai/generative-ai/nova/)
+#### [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 <details>
 
-<img src="./public/images/amazon-nova.png" width="200" alt="Amazon Nova">
+<img src="./public/images/amazon-bedrock.png" width="200" alt="Amazon Bedrock">
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
-Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, offering multiple model variants (Micro, Lite, Pro, Canvas, Reel) for text, image, and video processing with industry-leading price-performance, fine-tuning capabilities, and enterprise-grade features.
+Amazon Bedrock is a fully managed service that provides access to leading foundation models through a unified API, featuring customization capabilities through fine-tuning and RAG, managed AI agents for workflow automation, and enterprise-grade security with HIPAA and GDPR compliance.
 
 ##### Links
-- [Website](https://aws.amazon.com/ai/generative-ai/nova/)
+- [Website](https://aws.amazon.com/bedrock/)
+- [X/Twitter](https://twitter.com/awscloud)
 </details>
 
 #### [Replicate](https://replicate.com/)
@@ -1986,6 +2017,38 @@ Koyeb provides a high-performance serverless platform specifically optimized for
 ##### Links
 - [Website](https://www.koyeb.com/)
 - [X/Twitter](https://twitter.com/gokoyeb)
+</details>
+
+#### [Hyperbolic](https://hyperbolic.xyz/)
+<details>
+
+<img src="./public/images/hyperbolic-labs.svg" width="200" alt="Hyperbolic">
+
+##### Category
+INFRASTRUCTURE LAYER - Cloud Providers
+
+##### Description
+Hyperbolic provides a decentralized GPU marketplace for AI compute and inference, offering up to 80% cost reduction compared to traditional providers, featuring high-throughput inference services, pay-as-you-go GPU access, and compute monetization capabilities with hardware-agnostic support.
+
+##### Links
+- [Website](https://hyperbolic.xyz/)
+- [X/Twitter](https://twitter.com/hyperbolic_labs)
+</details>
+
+#### [Prime Intellect](https://www.primeintellect.ai/)
+<details>
+
+<img src="./public/images/prime-intellect.svg" width="200" alt="Prime Intellect">
+
+##### Category
+INFRASTRUCTURE LAYER - Cloud Providers
+
+##### Description
+Prime Intellect provides a unified GPU marketplace aggregating multiple cloud providers, featuring competitive pricing for various GPUs (H100, A100, RTX series), decentralized training capabilities across distributed clusters, and tools for collaborative AI model development with a focus on open-source innovation.
+
+##### Links
+- [Website](https://www.primeintellect.ai/)
+- [X/Twitter](https://twitter.com/PrimeIntellect)
 </details>
 
 #### [CoreWeave](https://coreweave.com/)
