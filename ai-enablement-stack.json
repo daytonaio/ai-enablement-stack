@@ -1117,6 +1117,14 @@
               "link": "https://codegen.com/",
               "github": "",
               "x": "@codegen"
+            },
+            {
+              "name": "TestDriver",
+              "description":"TestDriver's Agentic User Testing (AUT) uses simulated users to quickly deliver the depth of manual testing with the speed of automated tests.",
+              "logo": "./public/images/testdriver.png",
+              "link": "https://testdriver.ai/",
+              "github": "https://github.com/testdriverai/testdriverai",
+              "x": "@testdriverai"
             }
           ]
         }
