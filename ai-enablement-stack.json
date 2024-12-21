@@ -45,14 +45,6 @@
               "hidden": "true",
               "github": "",
               "x": "@morph_labs"
-            },
-            {
-              "name": "Judge0",
-              "description": "Judge0 is an open-source online code execution system that enables the robust, fast, scalable, and sandboxed execution of AI-generated code, with support for multiple languages and frameworks.",
-              "logo": "./public/images/judge0.png",
-              "link": "https://judge0.com/",
-              "github": "https://github.com/judge0/",
-              "x": "@judge0_official"
             }
           ]
         },
@@ -303,7 +295,7 @@
             {
               "name": "Pydantic AI",
               "description": "",
-              "logo": "./public/images/pydantic-ai.png",
+              "logo": "./public/images/pydantic-ai.svg",
               "link": "https://ai.pydantic.dev/",
               "github": "https://github.com/pydantic/pydantic-ai",
               "x": "@pydantic"
@@ -555,12 +547,6 @@
               "link": "https://modal.com/",
               "github": "",
               "x": "@modal_labs"
-            },
-            {
-              "name": "Bloop",
-              "description": "",
-              "logo": "./public/images/bloopai.svg",
-              "link": "https://bloop.ai/"
             },
             {
               "name": "Julius",
@@ -1058,6 +1044,12 @@
               "link": "https://hex.tech/",
               "github": "",
               "x": "@_hex_tech"
+            },
+            {
+              "name": "Bloop",
+              "description": "Bloop.ai provides a code understanding and modernization platform with AI-powered code conversion from legacy languages to modern ones, featuring automatic behavioral validation, offline operation, continuous delivery support, and enhanced developer productivity through AI assistance.",
+              "logo": "./public/images/bloopai.svg",
+              "link": "https://bloop.ai/"
             }
           ]
         },

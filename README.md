@@ -90,10 +90,11 @@ AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Links
 - [Website](https://www.all-hands.dev/)
+- [GitHub](https://github.com/All-Hands-AI/OpenHands)
 - [X/Twitter](https://twitter.com/allhands_ai)
 </details>
 
-#### [Lovable]()
+#### [Lovable](https://lovable.dev/)
 <details>
 
 <img src="./public/images/loveable.svg" width="200" alt="Lovable">
@@ -105,6 +106,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 - No description available
 
 ##### Links
+- [Website](https://lovable.dev/)
 - [X/Twitter](https://twitter.com/lovable_dev)
 </details>
 
@@ -138,7 +140,7 @@ Vercel v0 is an AI-powered UI generation platform that enables developers to cre
 - [X/Twitter](https://twitter.com/vercel)
 </details>
 
-#### [AutoGen]()
+#### [AutoGen](https://github.com/microsoft/autogen)
 <details>
 
 <img src="./public/images/autogen.svg" width="200" alt="AutoGen">
@@ -150,6 +152,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 - No description available
 
 ##### Links
+- [Website](https://github.com/microsoft/autogen)
 - [X/Twitter](https://twitter.com/pyautogen)
 </details>
 
@@ -166,6 +169,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Links
 - [Website](https://agentgpt.reworkd.ai/)
+- [GitHub](https://github.com/reworkd/AgentGPT)
 - [X/Twitter](https://twitter.com/ReworkdAI)
 </details>
 
@@ -203,7 +207,7 @@ Morph AI delivers an enterprise-grade developer assistant that automates enginee
 
 AI tools that enhance human capabilities and workflow efficiency
 
-#### [Copilot]()
+#### [Copilot](https://github.com/features/copilot)
 <details>
 
 <img src="./public/images/githubcopilot.png" width="200" alt="Copilot">
@@ -215,6 +219,7 @@ AGENT CONSUMER LAYER - Assistive Agents
 - No description available
 
 ##### Links
+- [Website](https://github.com/features/copilot)
 - [X/Twitter](https://twitter.com/GitHubCopilot)
 </details>
 
@@ -231,6 +236,7 @@ AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Links
 - [Website](https://www.continue.dev/)
+- [GitHub](https://github.com/continuedev/continue)
 - [X/Twitter](https://twitter.com/continuedev)
 </details>
 
@@ -263,6 +269,7 @@ AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Links
 - [Website](https://www.cursor.com/)
+- [GitHub](https://github.com/getcursor/cursor)
 - [X/Twitter](https://twitter.com/cursor_ai)
 </details>
 
@@ -345,6 +352,21 @@ Hex provides an AI-powered analytics platform featuring Magic AI for query writi
 - [X/Twitter](https://twitter.com/_hex_tech)
 </details>
 
+#### [Bloop](https://bloop.ai/)
+<details>
+
+<img src="./public/images/bloopai.svg" width="200" alt="Bloop">
+
+##### Category
+AGENT CONSUMER LAYER - Assistive Agents
+
+##### Description
+Bloop.ai provides a code understanding and modernization platform with AI-powered code conversion from legacy languages to modern ones, featuring automatic behavioral validation, offline operation, continuous delivery support, and enhanced developer productivity through AI assistance.
+
+##### Links
+- [Website](https://bloop.ai/)
+</details>
+
 ### Specialized Agents
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
@@ -378,6 +400,7 @@ AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Links
 - [Website](https://www.qodo.ai/)
+- [GitHub](https://github.com/Codium-ai/pr-agent)
 - [X/Twitter](https://twitter.com/QodoAI)
 </details>
 
@@ -426,6 +449,7 @@ Superflex is a VSCode Extension that builds features from Figma designs, images 
 
 ##### Links
 - [Website](https://superflex.ai/)
+- [GitHub](https://github.com/aquila-lab/superflex-vscode)
 - [X/Twitter](https://twitter.com/superflex_ai)
 </details>
 
@@ -499,7 +523,7 @@ Baseten provides high-performance inference infrastructure featuring up to 1,500
 - [X/Twitter](https://twitter.com/basetenco)
 </details>
 
-#### [LangServe]()
+#### [LangServe](https://github.com/langchain-ai/langserve)
 <details>
 
 <img src="./public/images/langserve.svg" width="200" alt="LangServe">
@@ -511,6 +535,7 @@ OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 - No description available
 
 ##### Links
+- [Website](https://github.com/langchain-ai/langserve)
 </details>
 
 #### [Stack AI](https://www.stack-ai.com/)
@@ -533,10 +558,8 @@ Stack AI provides an enterprise generative AI platform for building and deployin
 
 Systems for tracking AI performance and behavior
 
-#### [Pydantic Logfire]()
+#### [Pydantic Logfire](https://pydantic.dev/logfire)
 <details>
-
-<img src="./public/images/pydantic-ai.svg" width="200" alt="Pydantic Logfire">
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
@@ -545,6 +568,8 @@ OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 - No description available
 
 ##### Links
+- [Website](https://pydantic.dev/logfire)
+- [GitHub](https://github.com/pydantic/logfire)
 </details>
 
 #### [Cleanlab](https://cleanlab.ai/)
@@ -560,6 +585,7 @@ Cleanlab provides an AI-powered data curation platform that helps organizations 
 
 ##### Links
 - [Website](https://cleanlab.ai/)
+- [GitHub](https://github.com/cleanlab/cleanlab)
 - [X/Twitter](https://twitter.com/cleanlabai)
 </details>
 
@@ -592,6 +618,7 @@ Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring 
 
 ##### Links
 - [Website](https://www.log10.io/)
+- [GitHub](https://github.com/log10-io)
 - [X/Twitter](https://twitter.com/log10io)
 </details>
 
@@ -608,6 +635,7 @@ Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real
 
 ##### Links
 - [Website](https://traceloop.com/)
+- [GitHub](https://github.com/traceloop/openllmetry)
 - [X/Twitter](https://twitter.com/traceloopdev)
 </details>
 
@@ -655,6 +683,7 @@ LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring
 
 ##### Links
 - [Website](https://langwatch.ai/)
+- [GitHub](https://github.com/langwatch/langwatch)
 - [X/Twitter](https://twitter.com/LangWatchAI)
 </details>
 
@@ -662,7 +691,7 @@ LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring
 
 Frameworks for ensuring responsible AI use and regulatory compliance
 
-#### [Alinia]()
+#### [Alinia](https://alinia.ai/)
 <details>
 
 <img src="./public/images/alinia.svg" width="200" alt="Alinia">
@@ -674,9 +703,10 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 - No description available
 
 ##### Links
+- [Website](https://alinia.ai/)
 </details>
 
-#### [Guardrails AI]()
+#### [Guardrails AI](https://www.guardrailsai.com/)
 <details>
 
 <img src="./public/images/guardrailsai.svg" width="200" alt="Guardrails AI">
@@ -688,9 +718,10 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 - No description available
 
 ##### Links
+- [Website](https://www.guardrailsai.com/)
 </details>
 
-#### [Lakera]()
+#### [Lakera](https://www.lakera.ai/)
 <details>
 
 <img src="./public/images/lakera-ai.png" width="200" alt="Lakera">
@@ -702,6 +733,7 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 - No description available
 
 ##### Links
+- [Website](https://www.lakera.ai/)
 - [X/Twitter](https://twitter.com/LakeraAI)
 </details>
 
@@ -722,6 +754,7 @@ LiteLLM provides a unified API gateway for managing 100+ LLM providers with Open
 
 ##### Links
 - [Website](https://litellm.ai/)
+- [GitHub](https://github.com/BerriAI/litellm)
 - [X/Twitter](https://twitter.com/LiteLLM)
 </details>
 
@@ -738,6 +771,7 @@ Martian provides an intelligent LLM routing system that dynamically selects the 
 
 ##### Links
 - [Website](https://withmartian.com/)
+- [GitHub](https://github.com/withmartian)
 - [X/Twitter](https://twitter.com/withmartian)
 </details>
 
@@ -795,21 +829,7 @@ Modal offers a serverless cloud platform for AI and ML applications that enables
 - [X/Twitter](https://twitter.com/modal_labs)
 </details>
 
-#### [Bloop]()
-<details>
-
-<img src="./public/images/bloopai.svg" width="200" alt="Bloop">
-
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [Julius]()
+#### [Julius](https://julius.ai/)
 <details>
 
 <img src="./public/images/julius.svg" width="200" alt="Julius">
@@ -821,10 +841,11 @@ ENGINEERING LAYER - Training & Fine-Tuning
 - No description available
 
 ##### Links
+- [Website](https://julius.ai/)
 - [X/Twitter](https://twitter.com/JuliusAI_)
 </details>
 
-#### [Fine Tuner]()
+#### [Fine Tuner](https://fine-tuner.ai/)
 <details>
 
 <img src="./public/images/fine-tuners.png" width="200" alt="Fine Tuner">
@@ -836,9 +857,10 @@ ENGINEERING LAYER - Training & Fine-Tuning
 - No description available
 
 ##### Links
+- [Website](https://fine-tuner.ai/)
 </details>
 
-#### [Codeanywhere]()
+#### [Codeanywhere](https://codeanywhere.com/)
 <details>
 
 <img src="./public/images/codeanywhere.svg" width="200" alt="Codeanywhere">
@@ -850,6 +872,7 @@ ENGINEERING LAYER - Training & Fine-Tuning
 Provides workspaces with GPU
 
 ##### Links
+- [Website](https://codeanywhere.com/)
 - [X/Twitter](https://twitter.com/Codeanywhere)
 </details>
 
@@ -886,6 +909,7 @@ Relevance AI provides a no-code AI workforce platform that enables businesses to
 
 ##### Links
 - [Website](https://relevanceai.com/)
+- [GitHub](https://github.com/RelevanceAI)
 - [X/Twitter](https://twitter.com/RelevanceAI_)
 </details>
 
@@ -902,6 +926,7 @@ Greptile provides an AI-powered code analysis platform that helps software teams
 
 ##### Links
 - [Website](https://www.greptile.com/)
+- [GitHub](https://github.com/greptileai)
 - [X/Twitter](https://twitter.com/greptileai)
 </details>
 
@@ -918,6 +943,7 @@ Sourcegraph provides a code intelligence platform featuring Cody, an AI coding a
 
 ##### Links
 - [Website](https://sourcegraph.com/)
+- [GitHub](https://github.com/sourcegraph)
 - [X/Twitter](https://twitter.com/sourcegraph)
 </details>
 
@@ -934,10 +960,11 @@ PromptLayer provides a comprehensive prompt engineering platform that enables te
 
 ##### Links
 - [Website](https://www.promptlayer.com/)
+- [GitHub](https://github.com/MagnivOrg/prompt-layer-library)
 - [X/Twitter](https://twitter.com/promptlayer)
 </details>
 
-#### [Gretel.ai]()
+#### [Gretel.ai](https://gretel.ai/)
 <details>
 
 <img src="./public/images/gretel.svg" width="200" alt="Gretel.ai">
@@ -949,10 +976,11 @@ ENGINEERING LAYER - Tools
 - No description available
 
 ##### Links
+- [Website](https://gretel.ai/)
 - [X/Twitter](https://twitter.com/gretel_ai)
 </details>
 
-#### [Mostly.ai]()
+#### [Mostly.ai](https://mostly.ai/)
 <details>
 
 <img src="./public/images/mostlyai.svg" width="200" alt="Mostly.ai">
@@ -964,10 +992,11 @@ ENGINEERING LAYER - Tools
 - No description available
 
 ##### Links
+- [Website](https://mostly.ai/)
 - [X/Twitter](https://twitter.com/mostly_ai)
 </details>
 
-#### [Tonic.ai]()
+#### [Tonic.ai](https://www.tonic.ai/)
 <details>
 
 <img src="./public/images/tonic.svg" width="200" alt="Tonic.ai">
@@ -979,10 +1008,11 @@ ENGINEERING LAYER - Tools
 - No description available
 
 ##### Links
+- [Website](https://www.tonic.ai/)
 - [X/Twitter](https://twitter.com/tonicfakedata)
 </details>
 
-#### [Rockfish.ai]()
+#### [Rockfish.ai](https://www.rockfish.ai/)
 <details>
 
 <img src="./public/images/rockfishdata.png" width="200" alt="Rockfish.ai">
@@ -994,6 +1024,7 @@ ENGINEERING LAYER - Tools
 - No description available
 
 ##### Links
+- [Website](https://www.rockfish.ai/)
 </details>
 
 #### [JigsawStack](https://www.jigsawstack.com/)
@@ -1009,6 +1040,7 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 
 ##### Links
 - [Website](https://www.jigsawstack.com/)
+- [GitHub](https://github.com/JigsawStack)
 - [X/Twitter](https://twitter.com/jigsawstack)
 </details>
 
@@ -1016,7 +1048,7 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 
 Systems for validating AI performance and reliability
 
-#### [LangSmith]()
+#### [LangSmith](https://www.langchain.com/langsmith)
 <details>
 
 <img src="./public/images/langsmith.svg" width="200" alt="LangSmith">
@@ -1028,10 +1060,11 @@ ENGINEERING LAYER - Testing & Quality Assurance
 - No description available
 
 ##### Links
+- [Website](https://www.langchain.com/langsmith)
 - [X/Twitter](https://twitter.com/LangChainAI)
 </details>
 
-#### [Galileo]()
+#### [Galileo](https://www.galileo.ai/)
 <details>
 
 <img src="./public/images/galileo.png" width="200" alt="Galileo">
@@ -1043,9 +1076,10 @@ ENGINEERING LAYER - Testing & Quality Assurance
 - No description available
 
 ##### Links
+- [Website](https://www.galileo.ai/)
 </details>
 
-#### [Arize]()
+#### [Arize](https://arize.com/)
 <details>
 
 <img src="./public/images/arize-ai.svg" width="200" alt="Arize">
@@ -1057,9 +1091,10 @@ ENGINEERING LAYER - Testing & Quality Assurance
 - No description available
 
 ##### Links
+- [Website](https://arize.com/)
 </details>
 
-#### [Weight & Biases]()
+#### [Weight & Biases](https://wandb.ai/site/)
 <details>
 
 <img src="./public/images/w&b.png" width="200" alt="Weight & Biases">
@@ -1071,10 +1106,11 @@ ENGINEERING LAYER - Testing & Quality Assurance
 - No description available
 
 ##### Links
+- [Website](https://wandb.ai/site/)
 - [X/Twitter](https://twitter.com/weights_biases)
 </details>
 
-#### [AgentOps]()
+#### [AgentOps](https://www.agentops.ai/)
 <details>
 
 <img src="./public/images/agentops.svg" width="200" alt="AgentOps">
@@ -1086,6 +1122,7 @@ ENGINEERING LAYER - Testing & Quality Assurance
 - No description available
 
 ##### Links
+- [Website](https://www.agentops.ai/)
 </details>
 
 #### [Confident AI](https://www.confident-ai.com/)
@@ -1133,6 +1170,7 @@ Braintrust provides an end-to-end platform for evaluating and testing LLM applic
 
 ##### Links
 - [Website](https://www.braintrustdata.com/)
+- [GitHub](https://github.com/braintrustdata/)
 - [X/Twitter](https://twitter.com/braintrustdata)
 </details>
 
@@ -1142,7 +1180,7 @@ Braintrust provides an end-to-end platform for evaluating and testing LLM applic
 
 Core libraries and building blocks for AI application development
 
-#### [LangChain]()
+#### [LangChain](https://www.langchain.com/)
 <details>
 
 <img src="./public/images/langchain.png" width="200" alt="LangChain">
@@ -1154,10 +1192,12 @@ INTELLIGENCE LAYER - Frameworks
 - No description available
 
 ##### Links
+- [Website](https://www.langchain.com/)
+- [GitHub](https://github.com/langchain-ai)
 - [X/Twitter](https://twitter.com/LangChainAI)
 </details>
 
-#### [LlamaIndex]()
+#### [LlamaIndex](https://www.llamaindex.ai/)
 <details>
 
 <img src="./public/images/llamaindex.svg" width="200" alt="LlamaIndex">
@@ -1169,10 +1209,12 @@ INTELLIGENCE LAYER - Frameworks
 - No description available
 
 ##### Links
+- [Website](https://www.llamaindex.ai/)
+- [GitHub](https://github.com/run-llama)
 - [X/Twitter](https://twitter.com/llama_index)
 </details>
 
-#### [Haystack]()
+#### [Haystack](https://haystack.deepset.ai/)
 <details>
 
 <img src="./public/images/haystack.png" width="200" alt="Haystack">
@@ -1184,10 +1226,12 @@ INTELLIGENCE LAYER - Frameworks
 - No description available
 
 ##### Links
+- [Website](https://haystack.deepset.ai/)
+- [GitHub](https://github.com/deepset-ai/haystack)
 - [X/Twitter](https://twitter.com/Haystack_AI)
 </details>
 
-#### [DSPy]()
+#### [DSPy](https://dspy.ai/)
 <details>
 
 <img src="./public/images/dspy.png" width="200" alt="DSPy">
@@ -1199,6 +1243,7 @@ INTELLIGENCE LAYER - Frameworks
 - No description available
 
 ##### Links
+- [Website](https://dspy.ai/)
 </details>
 
 #### [Pydantic AI](https://ai.pydantic.dev/)
@@ -1214,6 +1259,7 @@ INTELLIGENCE LAYER - Frameworks
 
 ##### Links
 - [Website](https://ai.pydantic.dev/)
+- [GitHub](https://github.com/pydantic/pydantic-ai)
 - [X/Twitter](https://twitter.com/pydantic)
 </details>
 
@@ -1230,6 +1276,7 @@ Provides an agent development platform with advanced memory management for LLMs,
 
 ##### Links
 - [Website](https://www.letta.com/)
+- [GitHub](https://github.com/letta-ai/letta)
 - [X/Twitter](https://twitter.com/Letta_AI)
 </details>
 
@@ -1266,7 +1313,7 @@ Framework for developing LLM applications with multiple conversational agents th
 - [X/Twitter](https://twitter.com/pyautogen)
 </details>
 
-#### [TaskWeaver](https://github.com/microsoft/TaskWeaver)
+#### [TaskWeaver](https://microsoft.github.io/TaskWeaver/)
 <details>
 
 ##### Category
@@ -1276,7 +1323,8 @@ INTELLIGENCE LAYER - Frameworks
 A framework for creating and managing workflows and tasks for AI agents.
 
 ##### Links
-- [Website](https://github.com/microsoft/TaskWeaver)
+- [Website](https://microsoft.github.io/TaskWeaver/)
+- [GitHub](https://github.com/microsoft/TaskWeaver)
 </details>
 
 #### [Toolhouse](https://toolhouse.ai/)
@@ -1292,6 +1340,7 @@ Toolhouse provides a cloud infrastructure platform and universal SDK that enable
 
 ##### Links
 - [Website](https://toolhouse.ai/)
+- [GitHub](https://github.com/toolhouseai)
 - [X/Twitter](https://twitter.com/ToolhouseAI)
 </details>
 
@@ -1308,10 +1357,11 @@ Composio provides an integration platform for AI agents and LLMs with 250+ pre-b
 
 ##### Links
 - [Website](https://composio.dev/agentauth/)
+- [GitHub](https://github.com/ComposioHQ/composio/tree/master/python/swe)
 - [X/Twitter](https://twitter.com/composiohq)
 </details>
 
-#### [CrewAI](https://www.crewai.io/)
+#### [CrewAI](https://www.crewai.com/)
 <details>
 
 <img src="./public/images/crewai.svg" width="200" alt="CrewAI">
@@ -1323,7 +1373,7 @@ INTELLIGENCE LAYER - Frameworks
 CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.
 
 ##### Links
-- [Website](https://www.crewai.io/)
+- [Website](https://www.crewai.com/)
 - [X/Twitter](https://twitter.com/getcrewai)
 </details>
 
@@ -1366,6 +1416,7 @@ LLMStack is an open-source platform for building AI agents, workflows, and appli
 
 ##### Links
 - [Website](https://llmstack.ai/)
+- [GitHub](https://github.com/trypromptly/LLMStack)
 - [X/Twitter](https://twitter.com/llmstack)
 </details>
 
@@ -1373,7 +1424,7 @@ LLMStack is an open-source platform for building AI agents, workflows, and appli
 
 Databases and systems for managing and retrieving information
 
-#### [Pinecone]()
+#### [Pinecone](https://www.pinecone.io/)
 <details>
 
 <img src="./public/images/pinecone.svg" width="200" alt="Pinecone">
@@ -1385,10 +1436,11 @@ INTELLIGENCE LAYER - Knowledge Engines
 - No description available
 
 ##### Links
+- [Website](https://www.pinecone.io/)
 - [X/Twitter](https://twitter.com/pinecone)
 </details>
 
-#### [Weaviate]()
+#### [Weaviate](https://weaviate.io/)
 <details>
 
 <img src="./public/images/weaviate.png" width="200" alt="Weaviate">
@@ -1400,6 +1452,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 - No description available
 
 ##### Links
+- [Website](https://weaviate.io/)
+- [GitHub](https://github.com/weaviate/weaviate)
 - [X/Twitter](https://twitter.com/weaviate_io)
 </details>
 
@@ -1416,10 +1470,11 @@ INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Links
 - [Website](https://www.trychroma.com/)
+- [GitHub](https://github.com/chroma-core/chroma)
 - [X/Twitter](https://twitter.com/trychroma)
 </details>
 
-#### [Milvus]()
+#### [Milvus](https://milvus.io/)
 <details>
 
 <img src="./public/images/milvus.svg" width="200" alt="Milvus">
@@ -1431,10 +1486,12 @@ INTELLIGENCE LAYER - Knowledge Engines
 - No description available
 
 ##### Links
+- [Website](https://milvus.io/)
+- [GitHub](https://github.com/milvus-io/milvus)
 - [X/Twitter](https://twitter.com/milvusio)
 </details>
 
-#### [Qdrant]()
+#### [Qdrant](https://qdrant.tech/)
 <details>
 
 <img src="./public/images/qdrant.png" width="200" alt="Qdrant">
@@ -1446,10 +1503,11 @@ INTELLIGENCE LAYER - Knowledge Engines
 - No description available
 
 ##### Links
+- [Website](https://qdrant.tech/)
 - [X/Twitter](https://twitter.com/qdrant_engine)
 </details>
 
-#### [MongoDB Atlas]()
+#### [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)
 <details>
 
 <img src="./public/images/mongodb.svg" width="200" alt="MongoDB Atlas">
@@ -1461,6 +1519,7 @@ INTELLIGENCE LAYER - Knowledge Engines
 - No description available
 
 ##### Links
+- [Website](https://www.mongodb.com/products/platform/atlas-database)
 - [X/Twitter](https://twitter.com/MongoDB)
 </details>
 
@@ -1477,6 +1536,7 @@ Supabase Vector provides an open-source vector database built on Postgres and pg
 
 ##### Links
 - [Website](https://supabase.com/modules/vector)
+- [GitHub](https://github.com/supabase/supabase)
 - [X/Twitter](https://twitter.com/supabase)
 </details>
 
@@ -1678,23 +1738,6 @@ Morph Labs provides infrastructure for developing and deploying autonomous softw
 ##### Links
 - [Website](https://morph.so/)
 - [X/Twitter](https://twitter.com/morph_labs)
-</details>
-
-#### [Judge0](https://judge0.com/)
-<details>
-
-<img src="./public/images/judge0.png" width="200" alt="Judge0">
-
-##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
-
-##### Description
-Judge0 is an open-source online code execution system that enables the robust, fast, scalable, and sandboxed execution of AI-generated code, with support for multiple languages and frameworks.
-
-##### Links
-- [Website](https://judge0.com/)
-- [GitHub](https://github.com/judge0/)
-- [X/Twitter](https://twitter.com/judge0_official)
 </details>
 
 ### Model Access & Deployment
@@ -1961,7 +2004,7 @@ OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models ac
 
 Computing infrastructure that powers AI systems and their workspaces
 
-#### [AWS]()
+#### [AWS](https://aws.amazon.com/)
 <details>
 
 <img src="./public/images/aws.png" width="200" alt="AWS">
@@ -1973,9 +2016,10 @@ INFRASTRUCTURE LAYER - Cloud Providers
 - No description available
 
 ##### Links
+- [Website](https://aws.amazon.com/)
 </details>
 
-#### [Azure]()
+#### [Azure](https://azure.microsoft.com/)
 <details>
 
 <img src="./public/images/azure.png" width="200" alt="Azure">
@@ -1987,9 +2031,10 @@ INFRASTRUCTURE LAYER - Cloud Providers
 - No description available
 
 ##### Links
+- [Website](https://azure.microsoft.com/)
 </details>
 
-#### [GCP]()
+#### [GCP](https://cloud.google.com/)
 <details>
 
 <img src="./public/images/gcp.png" width="200" alt="GCP">
@@ -2001,6 +2046,7 @@ INFRASTRUCTURE LAYER - Cloud Providers
 - No description available
 
 ##### Links
+- [Website](https://cloud.google.com/)
 </details>
 
 #### [Koyeb](https://www.koyeb.com/)
