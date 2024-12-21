@@ -683,6 +683,14 @@
               "x": "@LangChainAI"
             },
             {
+              "name": "Langfuse",
+              "description": "Langfuse is an Open Source LLM Engineering platform with a focus on LLM Observability, Evaluation, and Prompt Management. Use automated evaluators or the Langfuse Playground to iteratively test and improve an LLM application. Langfuse is SOC2/ISO27001 certified and can be easily self-hosted at scale.",
+              "logo": "./public/images/langfuse.svg",
+              "link": "https://langfuse.com/",
+              "github": "https://github.com/langfuse/langfuse",
+              "x": "@langfuse"
+            },
+            {
               "name": "Galileo",
               "description": "",
               "logo": "./public/images/galileo.png",
