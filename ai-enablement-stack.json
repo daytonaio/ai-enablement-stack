@@ -1073,10 +1073,10 @@
             },
             {
               "name": "Qodo",
-              "description": "",
+              "description": "Quality-first AI code generation to help busy devs write, test and review code.",
               "logo": "./public/images/qodo.svg",
               "link": "https://www.qodo.ai/",
-              "github": "",
+              "github": "https://www.qodo.ai/",
               "x": "@QodoAI"
             },
             {
