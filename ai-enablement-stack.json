@@ -654,6 +654,12 @@
               "link": "https://www.jigsawstack.com/",
               "github": "https://github.com/JigsawStack",
               "x": "@jigsawstack"
+            },
+            {
+              "name": "Anchor Browser",
+              "description": "Anchor Browser connects AI agents to the browser, allowing to create agent tools out of any browser based task",
+              "logo": "./public/images/anchorbrowser.png",
+              "link": "https://anchorbrowser.io/",
             }
           ]
         },
