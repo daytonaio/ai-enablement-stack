@@ -864,6 +864,14 @@
               "zoom": "80",
               "link": "https://www.lakera.ai/",
               "x": "@LakeraAI"
+            },
+            {
+              "name": "Modulos",
+              "description": "Agentic AI GRC platform for compliance with the EU AI Act, ISO 42001 and others.",
+              "logo": "./public/images/Modulos.ai",
+              "zoom": "80",
+              "link": "https://www.modulos.ai/",
+              "x": "@ModulosAI"
             }
           ]
         },
