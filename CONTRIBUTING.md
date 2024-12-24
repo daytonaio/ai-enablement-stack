@@ -14,12 +14,14 @@ This project and everyone participating in it is governed by our Code of Conduct
 
 ## How to Contribute
 
-### Adding a New Company/Product
+### Adding a New Company
+
+**Please note that we are only accepting venture-backed companies. Contributions that include non-venture-backed companies won't be accepted.**
 
 1. Fork the repository
-2. Add the company logo to the `./public/images/` folder (if available)
+2. Add the company logo to the `./public/images/` folder
    - Image should be high quality and preferably in transparent SVG or PNG format (crop them tight)
-   - Name the file consistently with the company/product name
+   - Name the file consistently with the company name
 3. Add your entry to the `ai-enablement-stack.json` file in the appropriate category
 4. Submit a pull request
 
@@ -29,8 +31,8 @@ Each entry in the `ai-enablement-stack.json` should follow this structure:
 
 ```json
 {
-  "name": "Company/Product Name",
-  "description": "Clear and short one-liner description of the product/company",
+  "name": "Company Name",
+  "description": "Clear and short one-liner description of the company",
   "logo": "./public/images/logo-filename.svg",
   "link": "https://company-website.com"
 }
@@ -74,7 +76,7 @@ Ensure your entry falls into one of these main layers and their respective subca
 We require all contributions to be signed off, indicating that you certify the origin of the code. This is done using the `-s` flag when committing:
 
 ```bash
-git commit -s -m "Add [Company/Product] to [Category]"
+git commit -s -m "Add [Company] to [Category]"
 ```
 
 ### Quality Guidelines
