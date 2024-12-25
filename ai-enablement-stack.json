@@ -407,6 +407,14 @@
               "x": "@trychroma"
             },
             {
+              "name": "Epsilla",
+              "description": "",
+              "logo": "./public/images/epsilla.svg",
+              "link": "https://github.com/epsilla-cloud/vectordb",
+              "github": "",
+              "x": "@epsilla_inc"
+            },
+            {
               "name": "Milvus",
               "description": "",
               "logo": "./public/images/milvus.svg",
