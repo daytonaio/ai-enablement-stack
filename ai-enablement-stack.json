@@ -410,8 +410,8 @@
               "name": "Epsilla",
               "description": "Epsilla provides an open-source high performance vector database and an all-in-one platform for RAG and AI Agent powered by your private data and knowledge",
               "logo": "./public/images/epsilla.svg",
-              "link": "https://github.com/epsilla-cloud/vectordb",
-              "github": "",
+              "link": "https://epsilla.com",
+              "github": "https://github.com/epsilla-cloud/vectordb",
               "x": "@epsilla_inc"
             },
             {
