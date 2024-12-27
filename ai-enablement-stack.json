@@ -872,6 +872,15 @@
               "zoom": "80",
               "link": "https://www.lakera.ai/",
               "x": "@LakeraAI"
+            },
+            {
+              "name": "Socket",
+              "description": "Socket provides a developer-first security platform that protects against supply chain attacks by scanning dependencies and AI model files for malicious code, featuring real-time detection of 70+ risk signals, integration with major package registries, and trusted by leading AI companies including OpenAI and Anthropic.",
+              "logo": "./public/images/socket.png",
+              "zoom": "120",
+              "link": "https://socket.dev/",
+              "github": "",
+              "x": "@SocketSecurity"
             }
           ]
         },
