@@ -479,6 +479,14 @@
               "hidden": "true",
               "github": "https://github.com/timescale/pgai",
               "x": "@timescaledb"
+            },
+            {
+              "name": "Superduper",
+              "description": "Superduper provides a platform for building and deploying AI applications directly with existing databases, featuring integration with multiple AI frameworks and databases, support for RAG, vector search, and ML workflows, while enabling deployment on existing infrastructure without data movement or ETL pipelines.",
+              "logo": "./public/images/superduper.png",
+              "link": "https://superduper.io/",
+              "github": "https://github.com/superduper-io/superduper",
+              "x": "@SuperduperAI"
             }
           ]
         },
