@@ -49,6 +49,20 @@
           ]
         },
         {
+          "name": "Data Ingestion & Transformation",
+          "description": "Services for preparing data for AI applications and training",
+          "companies": [
+            {
+              "name": "Confluent",
+              "description": "Confluent is a cloud-native data streaming platform that helps companies access, store, and manage data to bring real-time, contextual, highly governed and trustworthy data to your AI systems and applications.",
+              "logo": "./public/images/confluent.png",
+              "link": "https://confluent.io/",
+              "github": "https://github.com/confluentinc",
+              "x": "@confluentinc"
+            }
+          ]
+        },
+        {
           "name": "Model Access & Deployment",
           "description": "Services for deploying and running AI models",
           "companies": [
