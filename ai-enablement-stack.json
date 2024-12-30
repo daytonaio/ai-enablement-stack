@@ -327,7 +327,7 @@
               "name": "TaskWeaver",
               "description": "A framework for creating and managing workflows and tasks for AI agents.",
               "logo": "",
-               "link":"https://microsoft.github.io/TaskWeaver/",
+              "link": "https://microsoft.github.io/TaskWeaver/",
               "github": "https://github.com/microsoft/TaskWeaver"
             },
             {
@@ -678,6 +678,14 @@
           "description": "Systems for validating AI performance and reliability",
           "companies": [
             {
+              "name": "Adaline",
+              "description": "Adaline is the single platform to iterate, evalute, deploy, and monitor prompts for your LLM applications.",
+              "logo": "./public/images/adaline.png",
+              "link": "https://adaline.ai/",
+              "github": "https://github.com/adaline",
+              "x": "@adalinewastaken"
+            },
+            {
               "name": "LangSmith",
               "description": "",
               "logo": "./public/images/langsmith.svg",
@@ -799,7 +807,7 @@
               "description": "",
               "logo": "",
               "link": "https://pydantic.dev/logfire",
-              "github":"https://github.com/pydantic/logfire"
+              "github": "https://github.com/pydantic/logfire"
             },
             {
               "name": "Cleanlab",
