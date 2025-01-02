@@ -495,6 +495,14 @@
               "link": "https://superduper.io/",
               "github": "https://github.com/superduper-io/superduper",
               "x": "@SuperduperAI"
+            },
+            {
+              "name": "Jina AI",
+              "description": "Jina AI provides frontier search and retrieval models for enterprise applications, featuring multimodal multilingual embeddings, neural reranking, URL content extraction, and advanced RAG capabilities, with SOC 2 Type 1 & 2 compliance and support for high-volume processing.",
+              "logo": "./public/images/jina-ai.svg",
+              "link": "https://jina.ai/",
+              "github": "https://github.com/jina-ai",
+              "x": "@JinaAI_"
             }
           ]
         },
