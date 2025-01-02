@@ -1,0 +1,27 @@
+name: '[Support] Stale-And-Close Inactive Issues And PRs'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+# Remove all permissions by default. Actions are performed by your GitHub Bot
+permissions: {}
+
+jobs:
+  stale:
+    if: github.repository == 'daytonaio/ai-enablement-stack'
+    runs-on: ubuntu-latest
+    steps:
+      # This step will add the stale comment and label for 14 days without activity. It won't close any task
+      - uses: actions/stale@v5
+        with:
+          stale-issue-message: 'This issue has been automatically marked as "stale" because it has not had recent activity (for 14 days). It will be closed if no further activity occurs. Thanks for the feedback.'
+          stale-pr-message: 'This pull request has been automatically marked as "stale" because it has not had recent activity (for 14 days). It will be closed if no further activity occurs. Thank you for your contribution.'
+          close-issue-message: 'Due to the lack of activity in the last 7 days since it was marked as "stale", we are closing this issue. Do not hesitate to reopen it later if necessary.'
+          close-pr-message: 'Due to the lack of activity in the last 7 days since it was marked as "stale", we are closing this pull request. Do not hesitate to reopen it later if necessary.'
+          days-before-stale: 14
+          days-before-close: 7
+          exempt-issue-labels: on-hold,never stale,enhancement
+          exempt-pr-labels: on-hold,never stale,enhancement
+          operations-per-run: 100
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
