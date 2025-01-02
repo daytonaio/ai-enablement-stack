@@ -487,6 +487,14 @@
               "link": "https://falkordb.com/",
               "github": "https://github.com/FalkorDB/falkordb",
               "x": "@FalkorDB"
+            },
+            {
+              "name": "Superduper",
+              "description": "Superduper provides a platform for building and deploying AI applications directly with existing databases, featuring integration with multiple AI frameworks and databases, support for RAG, vector search, and ML workflows, while enabling deployment on existing infrastructure without data movement or ETL pipelines.",
+              "logo": "./public/images/superduper.png",
+              "link": "https://superduper.io/",
+              "github": "https://github.com/superduper-io/superduper",
+              "x": "@SuperduperAI"
             }
           ]
         },
@@ -880,6 +888,15 @@
               "zoom": "80",
               "link": "https://www.lakera.ai/",
               "x": "@LakeraAI"
+            },
+            {
+              "name": "Socket",
+              "description": "Socket provides a developer-first security platform that protects against supply chain attacks by scanning dependencies and AI model files for malicious code, featuring real-time detection of 70+ risk signals, integration with major package registries, and trusted by leading AI companies including OpenAI and Anthropic.",
+              "logo": "./public/images/socket.png",
+              "zoom": "120",
+              "link": "https://socket.dev/",
+              "github": "",
+              "x": "@SocketSecurity"
             }
           ]
         },

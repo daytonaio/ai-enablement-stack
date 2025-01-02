@@ -1,6 +1,6 @@
 {
     "name": "AI Enablement Stack Generator",
-    "image": "mcr.microsoft.com/devcontainers/javascript-node:20-bullseye",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:22-bullseye",
 
     "customizations": {
         "vscode": {
