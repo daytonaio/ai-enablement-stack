@@ -212,12 +212,11 @@ Morph AI delivers an enterprise-grade developer assistant that automates enginee
 AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
-Coworked is the creator of Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.
+Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.
 
 ##### Links
 - [Website](https://coworked.ai/)
-- [LinkedIn](https://www.linkedin.com/company/coworkedai/)
-- [YouTube](https://www.youtube.com/@coworkedai)
+- [X/Twitter](https://twitter.com/coworkedai)
 </details>
 
 ### Assistive Agents
@@ -929,6 +928,23 @@ Lightning AI provides a comprehensive platform for building AI products, featuri
 
 Development utilities, libraries and services for building AI applications
 
+#### [Ant Design X](https://x.ant.design/)
+<details>
+
+<img src="./public/images/ant-design-x.svg" width="200" alt="Ant Design X">
+
+##### Category
+ENGINEERING LAYER - Tools
+
+##### Description
+Ant Design X is a brand new AGI component library from Ant Design, designed to help developers more easily develop AI product user interfaces. Building on Ant Design, Ant Design X further expands the design specifications for AI products, offering developers more powerful tools and resources.
+
+##### Links
+- [Website](https://x.ant.design/)
+- [GitHub](https://github.com/ant-design/x)
+- [X/Twitter](https://twitter.com/AntDesignUI)
+</details>
+
 #### [Relevance AI](https://relevanceai.com/)
 <details>
 
@@ -1080,6 +1096,23 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 ### Testing & Quality Assurance
 
 Systems for validating AI performance and reliability
+
+#### [Adaline](https://adaline.ai/)
+<details>
+
+<img src="./public/images/adaline.png" width="200" alt="Adaline">
+
+##### Category
+ENGINEERING LAYER - Testing & Quality Assurance
+
+##### Description
+Adaline is the single platform to iterate, evalute, deploy, and monitor prompts for your LLM applications.
+
+##### Links
+- [Website](https://adaline.ai/)
+- [GitHub](https://github.com/adaline)
+- [X/Twitter](https://twitter.com/adalinewastaken)
+</details>
 
 #### [LangSmith](https://www.langchain.com/langsmith)
 <details>
