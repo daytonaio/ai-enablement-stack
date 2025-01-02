@@ -737,6 +737,22 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 - [X/Twitter](https://twitter.com/LakeraAI)
 </details>
 
+#### [Socket](https://socket.dev/)
+<details>
+
+<img src="./public/images/socket.png" width="200" alt="Socket">
+
+##### Category
+OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
+
+##### Description
+Socket provides a developer-first security platform that protects against supply chain attacks by scanning dependencies and AI model files for malicious code, featuring real-time detection of 70+ risk signals, integration with major package registries, and trusted by leading AI companies including OpenAI and Anthropic.
+
+##### Links
+- [Website](https://socket.dev/)
+- [X/Twitter](https://twitter.com/SocketSecurity)
+</details>
+
 ### Security & Access Control
 
 Tools for protecting AI systems and managing access and user permissions
@@ -1062,6 +1078,23 @@ ENGINEERING LAYER - Testing & Quality Assurance
 ##### Links
 - [Website](https://www.langchain.com/langsmith)
 - [X/Twitter](https://twitter.com/LangChainAI)
+</details>
+
+#### [Langfuse](https://langfuse.com/)
+<details>
+
+<img src="./public/images/langfuse.svg" width="200" alt="Langfuse">
+
+##### Category
+ENGINEERING LAYER - Testing & Quality Assurance
+
+##### Description
+Langfuse is an Open Source LLM Engineering platform with a focus on LLM Observability, Evaluation, and Prompt Management. Use automated evaluators or the Langfuse Playground to iteratively test and improve an LLM application. Langfuse is SOC2/ISO27001 certified and can be easily self-hosted at scale.
+
+##### Links
+- [Website](https://langfuse.com/)
+- [GitHub](https://github.com/langfuse/langfuse)
+- [X/Twitter](https://twitter.com/langfuse)
 </details>
 
 #### [Galileo](https://www.galileo.ai/)
@@ -1474,6 +1507,23 @@ INTELLIGENCE LAYER - Knowledge Engines
 - [X/Twitter](https://twitter.com/trychroma)
 </details>
 
+#### [Epsilla](https://epsilla.com)
+<details>
+
+<img src="./public/images/epsilla.svg" width="200" alt="Epsilla">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+Epsilla provides an open-source high performance vector database and an all-in-one platform for RAG and AI Agent powered by your private data and knowledge
+
+##### Links
+- [Website](https://epsilla.com)
+- [GitHub](https://github.com/epsilla-cloud/vectordb)
+- [X/Twitter](https://twitter.com/epsilla_inc)
+</details>
+
 #### [Milvus](https://milvus.io/)
 <details>
 
@@ -1602,6 +1652,40 @@ pgAI is a PostgreSQL extension that enables AI capabilities directly in the data
 - [Website](https://github.com/timescale/pgai)
 - [GitHub](https://github.com/timescale/pgai)
 - [X/Twitter](https://twitter.com/timescaledb)
+</details>
+
+#### [FalkorDB](https://falkordb.com/)
+<details>
+
+<img src="./public/images/falkordb.svg" width="200" alt="FalkorDB">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.
+
+##### Links
+- [Website](https://falkordb.com/)
+- [GitHub](https://github.com/FalkorDB/falkordb)
+- [X/Twitter](https://twitter.com/FalkorDB)
+</details>
+
+#### [Superduper](https://superduper.io/)
+<details>
+
+<img src="./public/images/superduper.png" width="200" alt="Superduper">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+Superduper provides a platform for building and deploying AI applications directly with existing databases, featuring integration with multiple AI frameworks and databases, support for RAG, vector search, and ML workflows, while enabling deployment on existing infrastructure without data movement or ETL pipelines.
+
+##### Links
+- [Website](https://superduper.io/)
+- [GitHub](https://github.com/superduper-io/superduper)
+- [X/Twitter](https://twitter.com/SuperduperAI)
 </details>
 
 ### Specialized Coding Models
