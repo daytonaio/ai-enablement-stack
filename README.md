@@ -970,17 +970,21 @@ PromptLayer provides a comprehensive prompt engineering platform that enables te
 <img src="./public/images/gretel.svg" width="200" alt="Gretel.ai">
 
 ##### Category
+
 ENGINEERING LAYER - Tools
 
 ##### Description
+
 - No description available
 
 ##### Links
+
 - [Website](https://gretel.ai/)
 - [X/Twitter](https://twitter.com/gretel_ai)
 </details>
 
 #### [Mostly.ai](https://mostly.ai/)
+
 <details>
 
 <img src="./public/images/mostlyai.svg" width="200" alt="Mostly.ai">
@@ -1602,6 +1606,23 @@ pgAI is a PostgreSQL extension that enables AI capabilities directly in the data
 - [Website](https://github.com/timescale/pgai)
 - [GitHub](https://github.com/timescale/pgai)
 - [X/Twitter](https://twitter.com/timescaledb)
+</details>
+
+#### [Zep](https://www.getzep.com/)
+<details>
+
+<img src="./public/images/zep.svg" width="200" alt="Zep AI">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+Zep is a memory layer for AI agents that continuously learns from user interactions and changing business data. Zep ensures that your Agent has a complete and holistic view of the user, enabling you to build more personalized and accurate user experiences.
+
+##### Links
+- [Website](https://www.getzep.com)
+- [GitHub](https://github.com/getzep)
+- [X/Twitter](https://twitter.com/zep_ai)
 </details>
 
 ### Specialized Coding Models
