@@ -1607,7 +1607,7 @@ pgAI is a PostgreSQL extension that enables AI capabilities directly in the data
 #### [Zep](https://www.getzep.com/)
 <details>
 
-<img src="./public/images/zep.svg" width="200" alt="Zep AI">
+<img src="./public/images/zep.svg" width="200" alt="Zep">
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
