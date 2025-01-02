@@ -420,14 +420,6 @@
           "description": "Databases and systems for managing and retrieving information",
           "companies": [
             {
-              "name": "Zep",
-              "description": "Zep is a memory layer for AI agents that continuously learns from user interactions and changing business data. Zep ensures that your Agent has a complete and holistic view of the user, enabling you to build more personalized and accurate user experiences.",
-              "logo": "./public/images/zep.svg",
-              "link": "https://www.getzep.com",
-              "github": "https://github.com/getzep",
-              "x": "@zep_ai"
-            },
-            {
               "name": "Pinecone",
               "description": "",
               "logo": "./public/images/pinecone.svg",
@@ -525,6 +517,14 @@
               "hidden": "true",
               "github": "https://github.com/timescale/pgai",
               "x": "@timescaledb"
+            },
+            {
+              "name": "Zep",
+              "description": "Zep is a memory layer for AI agents that continuously learns from user interactions and changing business data. Zep ensures that your Agent has a complete and holistic view of the user, enabling you to build more personalized and accurate user experiences.",
+              "logo": "./public/images/zep.svg",
+              "link": "https://www.getzep.com",
+              "github": "https://github.com/getzep",
+              "x": "@zep_ai"
             },
             {
               "name": "FalkorDB",
