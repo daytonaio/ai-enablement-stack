@@ -1129,6 +1129,13 @@
               "description": "Bloop.ai provides a code understanding and modernization platform with AI-powered code conversion from legacy languages to modern ones, featuring automatic behavioral validation, offline operation, continuous delivery support, and enhanced developer productivity through AI assistance.",
               "logo": "./public/images/bloopai.svg",
               "link": "https://bloop.ai/"
+            },
+            {
+              "name": "Fabi",
+              "description": "Fabi.ai combines SQL, Python and AI automation into one collaborative platform to help you conquer complex and ad hoc analyses, turning questions into answers.",
+              "logo": "./public/images/fabi.png",
+              "link": "https://fabi.ai/",
+              "x": "@hqfabi"
             }
           ]
         },
