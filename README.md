@@ -970,7 +970,6 @@ PromptLayer provides a comprehensive prompt engineering platform that enables te
 <img src="./public/images/gretel.svg" width="200" alt="Gretel.ai">
 
 ##### Category
-
 ENGINEERING LAYER - Tools
 
 ##### Description
@@ -978,13 +977,11 @@ ENGINEERING LAYER - Tools
 - No description available
 
 ##### Links
-
 - [Website](https://gretel.ai/)
 - [X/Twitter](https://twitter.com/gretel_ai)
 </details>
 
 #### [Mostly.ai](https://mostly.ai/)
-
 <details>
 
 <img src="./public/images/mostlyai.svg" width="200" alt="Mostly.ai">
