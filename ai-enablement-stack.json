@@ -623,6 +623,14 @@
           "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
             {
+              "name": "CopilotKit",
+              "description": "CopilotKit is an open-source framework for building custom AI copilots and assistants into any application. Features include In-App AI Chatbot, Generative UI, Copilot Tasks, and RAG capabilities, with easy integration and full customization options.",
+              "logo": "./public/images/copilot-kit.png",
+              "link": "https://copilotkit.ai/",
+              "github": "https://github.com/CopilotKit/CopilotKit",
+              "x": "@CopilotKit"
+            },
+            {
               "name": "Ant Design X",
               "description": "Ant Design X is a brand new AGI component library from Ant Design, designed to help developers more easily develop AI product user interfaces. Building on Ant Design, Ant Design X further expands the design specifications for AI products, offering developers more powerful tools and resources.",
               "logo": "./public/images/ant-design-x.svg",
