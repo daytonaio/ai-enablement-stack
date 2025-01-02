@@ -203,6 +203,23 @@ Morph AI delivers an enterprise-grade developer assistant that automates enginee
 - [Website](https://www.morph.ai/)
 </details>
 
+#### [Coworked](https://coworked.ai/)
+<details>
+
+<img src="./public/images/coworked.svg" width="200" alt="Coworked">
+
+##### Category
+AGENT CONSUMER LAYER - Autonomous Agents
+
+##### Description
+Coworked is the creator of Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.
+
+##### Links
+- [Website](https://coworked.ai/)
+- [LinkedIn](https://www.linkedin.com/company/coworkedai/)
+- [YouTube](https://www.youtube.com/@coworkedai)
+</details>
+
 ### Assistive Agents
 
 AI tools that enhance human capabilities and workflow efficiency

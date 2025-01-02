@@ -911,14 +911,6 @@
           "description": "Self-operating AI systems that can complete complex tasks independently",
           "companies": [
             {
-              "name": "Coworked",
-              "description": "Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.",
-              "logo": "./public/images/coworked.svg",
-              "link": "https://coworked.ai/",
-              "github": "",
-              "x": "@coworkedai"
-            },
-            {
               "name": "Devin",
               "description": "Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.",
               "logo": "./public/images/cognition.png",
@@ -988,6 +980,14 @@
               "logo": "./public/images/morph.svg",
               "link": "https://www.morph.ai/",
               "hidden": "true"
+            },
+            {
+              "name": "Coworked",
+              "description": "Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.",
+              "logo": "./public/images/coworked.svg",
+              "link": "https://coworked.ai/",
+              "github": "",
+              "x": "@coworkedai"
             }
           ]
         },
