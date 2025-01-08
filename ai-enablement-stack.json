@@ -388,7 +388,15 @@
               "link": "https://llmstack.ai/",
               "github": "https://github.com/trypromptly/LLMStack",
               "x": "@llmstack"
-            }
+            },
+            {
+              "name": "Graphlit",
+              "description": "Graphlit is a serverless, batteries-included, RAG-as-a-Service platform. Graphlit manages data ingestion, vector embeddings, and LLM flows — allowing teams to quickly build AI apps and agents without the burden of complex data infrastructure.",
+              "logo": "./public/images/graphlit.svg",
+              "link": "https://www.graphlit.com/",
+              "github": "https://github.com/graphlit",
+              "x": "@graphlit"
+            }            
           ]
         },
         {
