@@ -782,6 +782,14 @@
               "link": "https://www.braintrustdata.com/",
               "github": "https://github.com/braintrustdata/",
               "x": "@braintrustdata"
+            },
+            {
+              "name": "Athina AI",
+              "description": "Athina is a collaborative AI development platform designed for your team to build, test and monitor AI features.",
+              "logo": "./public/images/athina.png",
+              "link": "https://www.athina.ai/",
+              "github": "https://github.com/athina-ai",
+              "x": "@AthinaAI"
             }
           ]
         }
