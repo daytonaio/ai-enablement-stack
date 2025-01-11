@@ -1,2271 +1,2360 @@
-<h1 align="center">
-	🔮 AI Enablement Stack 🔮
-	<p align="center">
-		<a href="https://go.daytona.io/slack" target="_blank">
-			<img src="https://img.shields.io/static/v1?label=Join&message=%20Slack!&color=mediumslateblue">
-		</a>
-		<a href="https://x.com/daytonaio" target="_blank">
-			<img src="https://img.shields.io/twitter/follow/daytonaio.svg?logo=x">
-		</a>
-	</p>
-</h1>
+	<h1 align="center">
+		🔮 AI Enablement Stack 🔮
+		<p align="center">
+			<a href="https://go.daytona.io/slack" target="_blank">
+				<img src="https://img.shields.io/static/v1?label=Join&message=%20Slack!&color=mediumslateblue">
+			</a>
+			<a href="https://x.com/daytonaio" target="_blank">
+				<img src="https://img.shields.io/twitter/follow/daytonaio.svg?logo=x">
+			</a>
+		</p>
+	</h1>
 
-<h3 align="center">
-  The comprehensive guide to tools and technologies powering modern AI development
-</h3>
+	<h3 align="center">
+	The comprehensive guide to tools and technologies powering modern AI development
+	</h3>
 
-<h5 align="center">👉 <a href="CONTRIBUTING.md">Add Your Tool</a></h5>
+	<h5 align="center">👉 <a href="CONTRIBUTING.md">Add Your Tool</a></h5>
 
-<img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
+	<img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
 
-<h2>What is the AI Enablement Stack?</h2>
+	<h2>What is the AI Enablement Stack?</h2>
 
-<p>The AI Enablement Stack is a curated collection of venture-backed companies, tools and technologies that enable developers to build, deploy, and manage AI applications. It provides a structured view of the AI development ecosystem across five key layers:</p>
+	<p>The AI Enablement Stack is a curated collection of venture-backed companies, tools and technologies that enable developers to build, deploy, and manage AI applications. It provides a structured view of the AI development ecosystem across five key layers:</p>
 
-**AGENT CONSUMER LAYER**: Where AI meets end-users through autonomous agents, assistive tools, and specialized solutions. This layer showcases ready-to-use AI applications and agentic tools.
+	**AGENT CONSUMER LAYER**: Where AI meets end-users through autonomous agents, assistive tools, and specialized solutions. This layer showcases ready-to-use AI applications and agentic tools.
 
-**OBSERVABILITY AND GOVERNANCE LAYER**: Tools for monitoring, securing, and managing AI systems in production. Essential for maintaining reliable and compliant AI operations.
+	**OBSERVABILITY AND GOVERNANCE LAYER**: Tools for monitoring, securing, and managing AI systems in production. Essential for maintaining reliable and compliant AI operations.
 
-**ENGINEERING LAYER**: Development resources for building production-ready AI applications, including training tools, testing frameworks, and quality assurance solutions.
+	**ENGINEERING LAYER**: Development resources for building production-ready AI applications, including training tools, testing frameworks, and quality assurance solutions.
 
-**INTELLIGENCE LAYER**: The cognitive foundation featuring frameworks, knowledge engines, and specialized models that power AI capabilities.
+	**INTELLIGENCE LAYER**: The cognitive foundation featuring frameworks, knowledge engines, and specialized models that power AI capabilities.
 
-**INFRASTRUCTURE LAYER**: The computing backbone that enables AI development and deployment, from development environments to model serving platforms.
+	**INFRASTRUCTURE LAYER**: The computing backbone that enables AI development and deployment, from development environments to model serving platforms.
 
-## Why Use This Stack?
+	## Why Use This Stack?
 
-- **For Developers**: Find the right tools to build AI applications faster and more efficiently
-- **For Engineering Leaders**: Make informed decisions about AI infrastructure and tooling
-- **For Organizations**: Understand the AI development landscape and plan technology adoption
+	- **For Developers**: Find the right tools to build AI applications faster and more efficiently
+	- **For Engineering Leaders**: Make informed decisions about AI infrastructure and tooling
+	- **For Organizations**: Understand the AI development landscape and plan technology adoption
 
-Each tool in this stack is carefully selected based on:
+	Each tool in this stack is carefully selected based on:
 
-- Production readiness
-- Enterprise-grade capabilities
-- Active development and support
-- Venture backing or significant market presence
+	- Production readiness
+	- Enterprise-grade capabilities
+	- Active development and support
+	- Venture backing or significant market presence
 
-## How to Contribute
+	## How to Contribute
 
-To contribute to this list:
+	To contribute to this list:
 
-0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
-1. Fork the repository
-2. Add logo under the ./public/images/ folder
-3. Add your tool in the appropriate category in the file ai-enablement-stack.json
-4. Submit a PR with a compelling rationale for its acceptance
+	0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
+	1. Fork the repository
+	2. Add logo under the ./public/images/ folder
+	3. Add your tool in the appropriate category in the file ai-enablement-stack.json
+	4. Submit a PR with a compelling rationale for its acceptance
 
-## AGENT CONSUMER LAYER
+	## AGENT CONSUMER LAYER
 
-### Autonomous Agents
+	### Autonomous Agents
 
-Self-operating AI systems that can complete complex tasks independently
+	Self-operating AI systems that can complete complex tasks independently
 
-#### [Devin](https://devin.ai/)
-<details>
+	#### [Devin](https://devin.ai/)
+	<details>
 
-<img src="./public/images/cognition.png" width="200" alt="Devin">
+	<img src="./public/images/cognition.png" width="200" alt="Devin">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.
+	##### Description
+	Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.
 
-##### Links
-- [Website](https://devin.ai/)
-- [X/Twitter](https://twitter.com/cognition_labs)
-</details>
+	##### Links
+	- [Website](https://devin.ai/)
+	- [X/Twitter](https://twitter.com/cognition_labs)
+	</details>
 
-#### [OpenHands](https://www.all-hands.dev/)
-<details>
+	#### [OpenHands](https://www.all-hands.dev/)
+	<details>
 
-<img src="./public/images/openhands.png" width="200" alt="OpenHands">
+	<img src="./public/images/openhands.png" width="200" alt="OpenHands">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://www.all-hands.dev/)
-- [GitHub](https://github.com/All-Hands-AI/OpenHands)
-- [X/Twitter](https://twitter.com/allhands_ai)
-</details>
+	##### Links
+	- [Website](https://www.all-hands.dev/)
+	- [GitHub](https://github.com/All-Hands-AI/OpenHands)
+	- [X/Twitter](https://twitter.com/allhands_ai)
+	</details>
 
-#### [Lovable](https://lovable.dev/)
-<details>
+	#### [Lovable](https://lovable.dev/)
+	<details>
 
-<img src="./public/images/loveable.svg" width="200" alt="Lovable">
+	<img src="./public/images/loveable.svg" width="200" alt="Lovable">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://lovable.dev/)
-- [X/Twitter](https://twitter.com/lovable_dev)
-</details>
+	##### Links
+	- [Website](https://lovable.dev/)
+	- [X/Twitter](https://twitter.com/lovable_dev)
+	</details>
 
-#### [Bolt.new](https://bolt.new)
-<details>
+	#### [Bolt.new](https://bolt.new)
+	<details>
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-Bolt.new is a web-based development platform that enables in-browser application development with AI assistance (Claude 3.5 Sonnet), featuring real-time execution, one-click Netlify deployment, and no-setup required development environment, particularly suited for rapid prototyping and non-technical founders.
+	##### Description
+	Bolt.new is a web-based development platform that enables in-browser application development with AI assistance (Claude 3.5 Sonnet), featuring real-time execution, one-click Netlify deployment, and no-setup required development environment, particularly suited for rapid prototyping and non-technical founders.
 
-##### Links
-- [Website](https://bolt.new)
-- [GitHub](https://github.com/stackblitz/bolt.new)
-</details>
+	##### Links
+	- [Website](https://bolt.new)
+	- [GitHub](https://github.com/stackblitz/bolt.new)
+	</details>
 
-#### [Vercel v0](https://v0.dev/)
-<details>
+	#### [Vercel v0](https://v0.dev/)
+	<details>
 
-<img src="./public/images/v0.png" width="200" alt="Vercel v0">
+	<img src="./public/images/v0.png" width="200" alt="Vercel v0">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-Vercel v0 is an AI-powered UI generation platform that enables developers to create React components through natural language prompts, featuring integration with Tailwind CSS and Shadcn/UI, rapid prototyping capabilities, and production-ready code generation with customization options.
+	##### Description
+	Vercel v0 is an AI-powered UI generation platform that enables developers to create React components through natural language prompts, featuring integration with Tailwind CSS and Shadcn/UI, rapid prototyping capabilities, and production-ready code generation with customization options.
 
-##### Links
-- [Website](https://v0.dev/)
-- [X/Twitter](https://twitter.com/vercel)
-</details>
+	##### Links
+	- [Website](https://v0.dev/)
+	- [X/Twitter](https://twitter.com/vercel)
+	</details>
 
-#### [AutoGen](https://github.com/microsoft/autogen)
-<details>
+	#### [AutoGen](https://github.com/microsoft/autogen)
+	<details>
 
-<img src="./public/images/autogen.svg" width="200" alt="AutoGen">
+	<img src="./public/images/autogen.svg" width="200" alt="AutoGen">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://github.com/microsoft/autogen)
-- [X/Twitter](https://twitter.com/pyautogen)
-</details>
+	##### Links
+	- [Website](https://github.com/microsoft/autogen)
+	- [X/Twitter](https://twitter.com/pyautogen)
+	</details>
 
-#### [AgentGPT](https://agentgpt.reworkd.ai/)
-<details>
+	#### [AgentGPT](https://agentgpt.reworkd.ai/)
+	<details>
 
-<img src="./public/images/agentGPT.png" width="200" alt="AgentGPT">
+	<img src="./public/images/agentGPT.png" width="200" alt="AgentGPT">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://agentgpt.reworkd.ai/)
-- [GitHub](https://github.com/reworkd/AgentGPT)
-- [X/Twitter](https://twitter.com/ReworkdAI)
-</details>
+	##### Links
+	- [Website](https://agentgpt.reworkd.ai/)
+	- [GitHub](https://github.com/reworkd/AgentGPT)
+	- [X/Twitter](https://twitter.com/ReworkdAI)
+	</details>
 
-#### [Superagent](https://docs.superagent.sh/overview/overview/introduction)
-<details>
+	#### [Superagent](https://docs.superagent.sh/overview/overview/introduction)
+	<details>
 
-<img src="./public/images/superagent.png" width="200" alt="Superagent">
+	<img src="./public/images/superagent.png" width="200" alt="Superagent">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://docs.superagent.sh/overview/overview/introduction)
-</details>
+	##### Links
+	- [Website](https://docs.superagent.sh/overview/overview/introduction)
+	</details>
 
-#### [Morph](https://www.morph.ai/)
-<details>
+	#### [Morph](https://www.morph.ai/)
+	<details>
 
-<img src="./public/images/morph.svg" width="200" alt="Morph">
+	<img src="./public/images/morph.svg" width="200" alt="Morph">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.
+	##### Description
+	Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.
 
-##### Links
-- [Website](https://www.morph.ai/)
-</details>
+	##### Links
+	- [Website](https://www.morph.ai/)
+	</details>
 
-#### [Coworked](https://coworked.ai/)
-<details>
+	#### [Coworked](https://coworked.ai/)
+	<details>
 
-<img src="./public/images/coworked.svg" width="200" alt="Coworked">
+	<img src="./public/images/coworked.svg" width="200" alt="Coworked">
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
+	##### Category
+	AGENT CONSUMER LAYER - Autonomous Agents
 
-##### Description
-Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.
+	##### Description
+	Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.
 
-##### Links
-- [Website](https://coworked.ai/)
-- [X/Twitter](https://twitter.com/coworkedai)
-</details>
+	##### Links
+	- [Website](https://coworked.ai/)
+	- [X/Twitter](https://twitter.com/coworkedai)
+	</details>
 
-### Assistive Agents
+	### Assistive Agents
 
-AI tools that enhance human capabilities and workflow efficiency
+	AI tools that enhance human capabilities and workflow efficiency
 
-#### [Copilot](https://github.com/features/copilot)
-<details>
+	#### [Copilot](https://github.com/features/copilot)
+	<details>
 
-<img src="./public/images/githubcopilot.png" width="200" alt="Copilot">
+	<img src="./public/images/githubcopilot.png" width="200" alt="Copilot">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://github.com/features/copilot)
-- [X/Twitter](https://twitter.com/GitHubCopilot)
-</details>
+	##### Links
+	- [Website](https://github.com/features/copilot)
+	- [X/Twitter](https://twitter.com/GitHubCopilot)
+	</details>
 
-#### [Continue.dev](https://www.continue.dev/)
-<details>
+	#### [Continue.dev](https://www.continue.dev/)
+	<details>
 
-<img src="./public/images/continue-dev.svg" width="200" alt="Continue.dev">
+	<img src="./public/images/continue-dev.svg" width="200" alt="Continue.dev">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://www.continue.dev/)
-- [GitHub](https://github.com/continuedev/continue)
-- [X/Twitter](https://twitter.com/continuedev)
-</details>
+	##### Links
+	- [Website](https://www.continue.dev/)
+	- [GitHub](https://github.com/continuedev/continue)
+	- [X/Twitter](https://twitter.com/continuedev)
+	</details>
 
-#### [Cody](https://sourcegraph.com/cody)
-<details>
+	#### [Cody](https://sourcegraph.com/cody)
+	<details>
 
-<img src="./public/images/sourcegraph.svg" width="200" alt="Cody">
+	<img src="./public/images/sourcegraph.svg" width="200" alt="Cody">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models (including Claude 3 and GPT-4) with comprehensive codebase context to help developers write, understand, and fix code across multiple IDEs, while offering enterprise-grade security and flexible deployment options.
+	##### Description
+	Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models (including Claude 3 and GPT-4) with comprehensive codebase context to help developers write, understand, and fix code across multiple IDEs, while offering enterprise-grade security and flexible deployment options.
 
-##### Links
-- [Website](https://sourcegraph.com/cody)
-- [X/Twitter](https://twitter.com/sourcegraph)
-</details>
+	##### Links
+	- [Website](https://sourcegraph.com/cody)
+	- [X/Twitter](https://twitter.com/sourcegraph)
+	</details>
 
-#### [Cursor](https://www.cursor.com/)
-<details>
+	#### [Cursor](https://www.cursor.com/)
+	<details>
 
-<img src="./public/images/cursor-ai.png" width="200" alt="Cursor">
+	<img src="./public/images/cursor-ai.png" width="200" alt="Cursor">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-- No description available
+	##### Description
+	- No description available
 
-##### Links
-- [Website](https://www.cursor.com/)
-- [GitHub](https://github.com/getcursor/cursor)
-- [X/Twitter](https://twitter.com/cursor_ai)
-</details>
+	##### Links
+	- [Website](https://www.cursor.com/)
+	- [GitHub](https://github.com/getcursor/cursor)
+	- [X/Twitter](https://twitter.com/cursor_ai)
+	</details>
 
-#### [Tabnine](https://www.tabnine.com/)
-<details>
+	#### [Tabnine](https://www.tabnine.com/)
+	<details>
 
-<img src="./public/images/tabnine.png" width="200" alt="Tabnine">
+	<img src="./public/images/tabnine.png" width="200" alt="Tabnine">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.
+	##### Description
+	Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.
 
-##### Links
-- [Website](https://www.tabnine.com/)
-- [X/Twitter](https://twitter.com/tabnine)
-</details>
+	##### Links
+	- [Website](https://www.tabnine.com/)
+	- [X/Twitter](https://twitter.com/tabnine)
+	</details>
 
-#### [Supermaven](https://supermaven.com/)
-<details>
+	#### [Supermaven](https://supermaven.com/)
+	<details>
 
-<img src="./public/images/supermaven.svg" width="200" alt="Supermaven">
+	<img src="./public/images/supermaven.svg" width="200" alt="Supermaven">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Supermaven provides ultra-fast code completion and assistance with a 1M token context window, supporting multiple IDEs (VS Code, JetBrains, Neovim) and LLMs (GPT-4, Claude 3.5), featuring real-time chat interface, codebase scanning, and 3x faster response times compared to competitors.
+	##### Description
+	Supermaven provides ultra-fast code completion and assistance with a 1M token context window, supporting multiple IDEs (VS Code, JetBrains, Neovim) and LLMs (GPT-4, Claude 3.5), featuring real-time chat interface, codebase scanning, and 3x faster response times compared to competitors.
 
-##### Links
-- [Website](https://supermaven.com/)
-- [X/Twitter](https://twitter.com/SupermavenAI)
-</details>
+	##### Links
+	- [Website](https://supermaven.com/)
+	- [X/Twitter](https://twitter.com/SupermavenAI)
+	</details>
 
-#### [Windsurf](https://codeium.com/windsurf)
-<details>
+	#### [Windsurf](https://codeium.com/windsurf)
+	<details>
 
-<img src="./public/images/windsurf.svg" width="200" alt="Windsurf">
+	<img src="./public/images/windsurf.svg" width="200" alt="Windsurf">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Windsurf provides an agentic IDE that combines copilot and agent capabilities through 'Flows', featuring Cascade for deep contextual awareness, multi-file editing, command suggestions, and LLM-based search tools, all integrated into a VS Code-based editor for seamless AI-human collaboration.
+	##### Description
+	Windsurf provides an agentic IDE that combines copilot and agent capabilities through 'Flows', featuring Cascade for deep contextual awareness, multi-file editing, command suggestions, and LLM-based search tools, all integrated into a VS Code-based editor for seamless AI-human collaboration.
 
-##### Links
-- [Website](https://codeium.com/windsurf)
-- [X/Twitter](https://twitter.com/codeiumdev)
-</details>
+	##### Links
+	- [Website](https://codeium.com/windsurf)
+	- [X/Twitter](https://twitter.com/codeiumdev)
+	</details>
 
-#### [Goose](https://github.com/block/goose)
-<details>
+	#### [Goose](https://github.com/block/goose)
+	<details>
 
-<img src="./public/images/goose.png" width="200" alt="Goose">
+	<img src="./public/images/goose.png" width="200" alt="Goose">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.
+	##### Description
+	Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.
 
-##### Links
-- [Website](https://github.com/block/goose)
-</details>
+	##### Links
+	- [Website](https://github.com/block/goose)
+	</details>
 
-#### [Hex](https://hex.tech/)
-<details>
+	#### [Hex](https://hex.tech/)
+	<details>
 
-<img src="./public/images/hex.svg" width="200" alt="Hex">
+	<img src="./public/images/hex.svg" width="200" alt="Hex">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Hex provides an AI-powered analytics platform featuring Magic AI for query writing, chart building, and debugging, combining LLM capabilities with data warehouse context and semantic models to assist with SQL, Python, and visualization tasks while maintaining enterprise-grade security.
+	##### Description
+	Hex provides an AI-powered analytics platform featuring Magic AI for query writing, chart building, and debugging, combining LLM capabilities with data warehouse context and semantic models to assist with SQL, Python, and visualization tasks while maintaining enterprise-grade security.
 
-##### Links
-- [Website](https://hex.tech/)
-- [X/Twitter](https://twitter.com/_hex_tech)
-</details>
+	##### Links
+	- [Website](https://hex.tech/)
+	- [X/Twitter](https://twitter.com/_hex_tech)
+	</details>
 
-#### [Bloop](https://bloop.ai/)
-<details>
+	#### [Bloop](https://bloop.ai/)
+	<details>
 
-<img src="./public/images/bloopai.svg" width="200" alt="Bloop">
+	<img src="./public/images/bloopai.svg" width="200" alt="Bloop">
 
-##### Category
-AGENT CONSUMER LAYER - Assistive Agents
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Description
-Bloop.ai provides a code understanding and modernization platform with AI-powered code conversion from legacy languages to modern ones, featuring automatic behavioral validation, offline operation, continuous delivery support, and enhanced developer productivity through AI assistance.
+	##### Description
+	Bloop.ai provides a code understanding and modernization platform with AI-powered code conversion from legacy languages to modern ones, featuring automatic behavioral validation, offline operation, continuous delivery support, and enhanced developer productivity through AI assistance.
 
-##### Links
-- [Website](https://bloop.ai/)
-</details>
+	##### Links
+	- [Website](https://bloop.ai/)
+	</details>
 
-### Specialized Agents
+	### Specialized Agents
 
-Purpose-built AI agents designed for specific functions, like PR reviews and similar.
+	Purpose-built AI agents designed for specific functions, like PR reviews and similar.
 
-#### [CodeRabbit](https://www.coderabbit.ai/)
-<details>
+	#### [CodeRabbit](https://www.coderabbit.ai/)
+	<details>
 
-<img src="./public/images/coderabbit.svg" width="200" alt="CodeRabbit">
+	<img src="./public/images/coderabbit.svg" width="200" alt="CodeRabbit">
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
+	#### [Apple Intelligence](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
+	<details>
 
-##### Description
-- No description available
+	##### Category
+	AGENT CONSUMER LAYER - Assistive Agents
 
-##### Links
-- [Website](https://www.coderabbit.ai/)
-- [X/Twitter](https://twitter.com/coderabbitai)
-</details>
+	##### Description
+	Apple Intelligence introduces integrated AI tools in iOS 18, iPadOS 18, and macOS Sequoia, enhancing user experience with features like text summarization, tone adjustment, and privacy-preserving workflows. :contentReference[oaicite:0]{index=0}
 
-#### [Qodo](https://www.qodo.ai/)
-<details>
+	##### Links
+	- [Official Announcement](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
+	- [Apple Intelligence Support](https://support.apple.com/en-us/121115)
+	- [macOS Sequoia Features](https://www.apple.com/uk/newsroom/2024/09/macos-sequoia-is-available-today/)
+	- [Apple Intelligence Overview](https://www.apple.com/si/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+	</details>
 
-<img src="./public/images/qodo.svg" width="200" alt="Qodo">
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
 
-##### Description
-- No description available
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-##### Links
-- [Website](https://www.qodo.ai/)
-- [GitHub](https://github.com/Codium-ai/pr-agent)
-- [X/Twitter](https://twitter.com/QodoAI)
-</details>
+	##### Description
+	- No description available
 
-#### [Ellipsis](https://www.ellipsis.dev/)
-<details>
+	##### Links
+	- [Website](https://www.coderabbit.ai/)
+	- [X/Twitter](https://twitter.com/coderabbitai)
+	</details>
 
-<img src="./public/images/elipsis.png" width="200" alt="Ellipsis">
+	#### [Qodo](https://www.qodo.ai/)
+	<details>
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
+	<img src="./public/images/qodo.svg" width="200" alt="Qodo">
 
-##### Description
-Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub repositories, offering features like style guide enforcement, code generation, and automated testing while maintaining SOC 2 Type 1 compliance and secure processing without data retention.
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-##### Links
-- [Website](https://www.ellipsis.dev/)
-- [X/Twitter](https://twitter.com/ellipsis_dev)
-</details>
+	##### Description
+	- No description available
 
-#### [Codeflash](https://www.codeflash.ai/)
-<details>
+	##### Links
+	- [Website](https://www.qodo.ai/)
+	- [GitHub](https://github.com/Codium-ai/pr-agent)
+	- [X/Twitter](https://twitter.com/QodoAI)
+	</details>
 
-<img src="./public/images/codeflash.png" width="200" alt="Codeflash">
+	#### [Ellipsis](https://www.ellipsis.dev/)
+	<details>
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
+	<img src="./public/images/elipsis.png" width="200" alt="Ellipsis">
 
-##### Description
-Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-##### Links
-- [Website](https://www.codeflash.ai/)
-- [X/Twitter](https://twitter.com/codeflashAI)
-</details>
+	##### Description
+	Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub repositories, offering features like style guide enforcement, code generation, and automated testing while maintaining SOC 2 Type 1 compliance and secure processing without data retention.
 
-#### [Superflex](https://superflex.ai/)
-<details>
+	##### Links
+	- [Website](https://www.ellipsis.dev/)
+	- [X/Twitter](https://twitter.com/ellipsis_dev)
+	</details>
 
-<img src="./public/images/superflex.svg" width="200" alt="Superflex">
+	#### [Codeflash](https://www.codeflash.ai/)
+	<details>
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
+	<img src="./public/images/codeflash.png" width="200" alt="Codeflash">
 
-##### Description
-Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-##### Links
-- [Website](https://superflex.ai/)
-- [GitHub](https://github.com/aquila-lab/superflex-vscode)
-- [X/Twitter](https://twitter.com/superflex_ai)
-</details>
+	##### Description
+	Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.
 
-#### [Codemod](https://codemod.com/)
-<details>
+	##### Links
+	- [Website](https://www.codeflash.ai/)
+	- [X/Twitter](https://twitter.com/codeflashAI)
+	</details>
 
-<img src="./public/images/codemod.svg" width="200" alt="Codemod">
+	#### [Superflex](https://superflex.ai/)
+	<details>
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
+	<img src="./public/images/superflex.svg" width="200" alt="Superflex">
 
-##### Description
-Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-##### Links
-- [Website](https://codemod.com/)
-- [X/Twitter](https://twitter.com/codemod)
-</details>
+	##### Description
+	Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.
 
-#### [Codegen](https://codegen.com/)
-<details>
+	##### Links
+	- [Website](https://superflex.ai/)
+	- [GitHub](https://github.com/aquila-lab/superflex-vscode)
+	- [X/Twitter](https://twitter.com/superflex_ai)
+	</details>
 
-<img src="./public/images/codegen.png" width="200" alt="Codegen">
+	#### [Codemod](https://codemod.com/)
+	<details>
 
-##### Category
-AGENT CONSUMER LAYER - Specialized Agents
+	<img src="./public/images/codemod.svg" width="200" alt="Codemod">
 
-##### Description
-Codegen provides enterprise-grade static analysis and codemod capabilities for large-scale code transformations, featuring advanced visualization tools, automated documentation generation, and platform engineering templates, with SOC 2 Type II certification for secure refactoring at scale.
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-##### Links
-- [Website](https://codegen.com/)
-- [X/Twitter](https://twitter.com/codegen)
-</details>
+	##### Description
+	Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.
 
-## OBSERVABILITY AND GOVERNANCE LAYER
+	##### Links
+	- [Website](https://codemod.com/)
+	- [X/Twitter](https://twitter.com/codemod)
+	</details>
 
-### Development Pipeline
+	#### [Codegen](https://codegen.com/)
+	<details>
 
-Tools for managing and monitoring AI application lifecycles
+	<img src="./public/images/codegen.png" width="200" alt="Codegen">
 
-#### [Portkey](https://portkey.ai/)
-<details>
+	##### Category
+	AGENT CONSUMER LAYER - Specialized Agents
 
-<img src="./public/images/portkey.png" width="200" alt="Portkey">
+	##### Description
+	Codegen provides enterprise-grade static analysis and codemod capabilities for large-scale code transformations, featuring advanced visualization tools, automated documentation generation, and platform engineering templates, with SOC 2 Type II certification for secure refactoring at scale.
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
+	##### Links
+	- [Website](https://codegen.com/)
+	- [X/Twitter](https://twitter.com/codegen)
+	</details>
 
-##### Description
-Portkey provides a comprehensive AI gateway and control panel that enables teams to route to 200+ LLMs, implement guardrails, manage prompts, and monitor AI applications with detailed observability features while maintaining SOC2 compliance and HIPAA/GDPR standards.
+	## OBSERVABILITY AND GOVERNANCE LAYER
 
-##### Links
-- [Website](https://portkey.ai/)
-- [X/Twitter](https://twitter.com/portkeyai)
-</details>
+	### Development Pipeline
 
-#### [Baseten](https://baseten.co/)
-<details>
+	Tools for managing and monitoring AI application lifecycles
 
-<img src="./public/images/baseten.png" width="200" alt="Baseten">
+	#### [Portkey](https://portkey.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
+	<img src="./public/images/portkey.png" width="200" alt="Portkey">
 
-##### Description
-Baseten provides high-performance inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
-##### Links
-- [Website](https://baseten.co/)
-- [X/Twitter](https://twitter.com/basetenco)
-</details>
+	##### Description
+	Portkey provides a comprehensive AI gateway and control panel that enables teams to route to 200+ LLMs, implement guardrails, manage prompts, and monitor AI applications with detailed observability features while maintaining SOC2 compliance and HIPAA/GDPR standards.
 
-#### [LangServe](https://github.com/langchain-ai/langserve)
-<details>
+	##### Links
+	- [Website](https://portkey.ai/)
+	- [X/Twitter](https://twitter.com/portkeyai)
+	</details>
 
-<img src="./public/images/langserve.svg" width="200" alt="LangServe">
+	#### [Baseten](https://baseten.co/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
+	<img src="./public/images/baseten.png" width="200" alt="Baseten">
 
-##### Description
-- No description available
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
-##### Links
-- [Website](https://github.com/langchain-ai/langserve)
-</details>
+	##### Description
+	Baseten provides high-performance inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
 
-#### [Stack AI](https://www.stack-ai.com/)
-<details>
+	##### Links
+	- [Website](https://baseten.co/)
+	- [X/Twitter](https://twitter.com/basetenco)
+	</details>
 
-<img src="./public/images/stackai.svg" width="200" alt="Stack AI">
+	#### [LangServe](https://github.com/langchain-ai/langserve)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
+	<img src="./public/images/langserve.svg" width="200" alt="LangServe">
 
-##### Description
-Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
-##### Links
-- [Website](https://www.stack-ai.com/)
-- [X/Twitter](https://twitter.com/StackAI_HQ)
-</details>
+	##### Description
+	- No description available
 
-### Evaluation & Monitoring
+	##### Links
+	- [Website](https://github.com/langchain-ai/langserve)
+	</details>
 
-Systems for tracking AI performance and behavior
+	#### [Stack AI](https://www.stack-ai.com/)
+	<details>
 
-#### [Pydantic Logfire](https://pydantic.dev/logfire)
-<details>
+	<img src="./public/images/stackai.svg" width="200" alt="Stack AI">
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
-##### Description
-- No description available
+	##### Description
+	Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.
 
-##### Links
-- [Website](https://pydantic.dev/logfire)
-- [GitHub](https://github.com/pydantic/logfire)
-</details>
+	##### Links
+	- [Website](https://www.stack-ai.com/)
+	- [X/Twitter](https://twitter.com/StackAI_HQ)
+	</details>
 
-#### [Cleanlab](https://cleanlab.ai/)
-<details>
+	### Evaluation & Monitoring
 
-<img src="./public/images/cleanlab.png" width="200" alt="Cleanlab">
+	Systems for tracking AI performance and behavior
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	#### [Pydantic Logfire](https://pydantic.dev/logfire)
+	<details>
 
-##### Description
-Cleanlab provides an AI-powered data curation platform that helps organizations improve their GenAI and ML solutions by automatically detecting and fixing data quality issues, reducing hallucinations, and enabling trustworthy AI deployment while offering VPC integration for enhanced security.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://cleanlab.ai/)
-- [GitHub](https://github.com/cleanlab/cleanlab)
-- [X/Twitter](https://twitter.com/cleanlabai)
-</details>
+	##### Description
+	- No description available
 
-#### [Patronus](https://www.patronus.ai/)
-<details>
+	##### Links
+	- [Website](https://pydantic.dev/logfire)
+	- [GitHub](https://github.com/pydantic/logfire)
+	</details>
 
-<img src="./public/images/patronusai.svg" width="200" alt="Patronus">
+	#### [Cleanlab](https://cleanlab.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	<img src="./public/images/cleanlab.png" width="200" alt="Cleanlab">
 
-##### Description
-Patronus provides a comprehensive AI evaluation platform built on industry-leading research, offering features for testing hallucinations, security risks, alignment, and performance monitoring, with both pre-built evaluators and custom evaluation capabilities for RAG systems and AI agents.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://www.patronus.ai/)
-- [X/Twitter](https://twitter.com/PatronusAI)
-</details>
+	##### Description
+	Cleanlab provides an AI-powered data curation platform that helps organizations improve their GenAI and ML solutions by automatically detecting and fixing data quality issues, reducing hallucinations, and enabling trustworthy AI deployment while offering VPC integration for enhanced security.
 
-#### [Log10](https://www.log10.io/)
-<details>
+	##### Links
+	- [Website](https://cleanlab.ai/)
+	- [GitHub](https://github.com/cleanlab/cleanlab)
+	- [X/Twitter](https://twitter.com/cleanlabai)
+	</details>
 
-<img src="./public/images/log10.png" width="200" alt="Log10">
+	#### [Patronus](https://www.patronus.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	<img src="./public/images/patronusai.svg" width="200" alt="Patronus">
 
-##### Description
-Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://www.log10.io/)
-- [GitHub](https://github.com/log10-io)
-- [X/Twitter](https://twitter.com/log10io)
-</details>
+	##### Description
+	Patronus provides a comprehensive AI evaluation platform built on industry-leading research, offering features for testing hallucinations, security risks, alignment, and performance monitoring, with both pre-built evaluators and custom evaluation capabilities for RAG systems and AI agents.
 
-#### [Traceloop](https://traceloop.com/)
-<details>
+	##### Links
+	- [Website](https://www.patronus.ai/)
+	- [X/Twitter](https://twitter.com/PatronusAI)
+	</details>
 
-<img src="./public/images/traceloop.png" width="200" alt="Traceloop">
+	#### [Log10](https://www.log10.io/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	<img src="./public/images/log10.png" width="200" alt="Log10">
 
-##### Description
-Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://traceloop.com/)
-- [GitHub](https://github.com/traceloop/openllmetry)
-- [X/Twitter](https://twitter.com/traceloopdev)
-</details>
+	##### Description
+	Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.
 
-#### [WhyLabs](https://whylabs.ai/)
-<details>
+	##### Links
+	- [Website](https://www.log10.io/)
+	- [GitHub](https://github.com/log10-io)
+	- [X/Twitter](https://twitter.com/log10io)
+	</details>
 
-<img src="./public/images/whylabs.svg" width="200" alt="WhyLabs">
+	#### [Traceloop](https://traceloop.com/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	<img src="./public/images/traceloop.png" width="200" alt="Traceloop">
 
-##### Description
-WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://whylabs.ai/)
-- [X/Twitter](https://twitter.com/whylabs)
-</details>
+	##### Description
+	Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.
 
-#### [OpenLLMetry](https://openllmetry.org/)
-<details>
+	##### Links
+	- [Website](https://traceloop.com/)
+	- [GitHub](https://github.com/traceloop/openllmetry)
+	- [X/Twitter](https://twitter.com/traceloopdev)
+	</details>
 
-<img src="./public/images/openllmetry.png" width="200" alt="OpenLLMetry">
+	#### [WhyLabs](https://whylabs.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	<img src="./public/images/whylabs.svg" width="200" alt="WhyLabs">
 
-##### Description
-OpenLLMetry provides an open-source observability solution for LLMs built on OpenTelemetry standards, offering easy integration with major observability platforms like Datadog, New Relic, and Grafana, requiring just two lines of code to implement.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://openllmetry.org/)
-</details>
+	##### Description
+	WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.
 
-#### [LangWatch](https://langwatch.ai/)
-<details>
+	##### Links
+	- [Website](https://whylabs.ai/)
+	- [X/Twitter](https://twitter.com/whylabs)
+	</details>
 
-<img src="./public/images/langwatch.png" width="200" alt="LangWatch">
+	#### [OpenLLMetry](https://openllmetry.org/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+	<img src="./public/images/openllmetry.png" width="200" alt="OpenLLMetry">
 
-##### Description
-LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Links
-- [Website](https://langwatch.ai/)
-- [GitHub](https://github.com/langwatch/langwatch)
-- [X/Twitter](https://twitter.com/LangWatchAI)
-</details>
+	##### Description
+	OpenLLMetry provides an open-source observability solution for LLMs built on OpenTelemetry standards, offering easy integration with major observability platforms like Datadog, New Relic, and Grafana, requiring just two lines of code to implement.
 
-### Risk & Compliance
+	##### Links
+	- [Website](https://openllmetry.org/)
+	</details>
 
-Frameworks for ensuring responsible AI use and regulatory compliance
+	#### [LangWatch](https://langwatch.ai/)
+	<details>
 
-#### [Alinia](https://alinia.ai/)
-<details>
+	<img src="./public/images/langwatch.png" width="200" alt="LangWatch">
 
-<img src="./public/images/alinia.svg" width="200" alt="Alinia">
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
+	##### Description
+	LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.
 
-##### Description
-- No description available
+	##### Links
+	- [Website](https://langwatch.ai/)
+	- [GitHub](https://github.com/langwatch/langwatch)
+	- [X/Twitter](https://twitter.com/LangWatchAI)
+	</details>
 
-##### Links
-- [Website](https://alinia.ai/)
-</details>
+	### Risk & Compliance
 
-#### [Guardrails AI](https://www.guardrailsai.com/)
-<details>
+	Frameworks for ensuring responsible AI use and regulatory compliance
 
-<img src="./public/images/guardrailsai.svg" width="200" alt="Guardrails AI">
+	#### [Alinia](https://alinia.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
+	<img src="./public/images/alinia.svg" width="200" alt="Alinia">
 
-##### Description
-- No description available
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
-##### Links
-- [Website](https://www.guardrailsai.com/)
-</details>
+	##### Description
+	- No description available
 
-#### [Lakera](https://www.lakera.ai/)
-<details>
+	##### Links
+	- [Website](https://alinia.ai/)
+	</details>
 
-<img src="./public/images/lakera-ai.png" width="200" alt="Lakera">
+	#### [Guardrails AI](https://www.guardrailsai.com/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
+	<img src="./public/images/guardrailsai.svg" width="200" alt="Guardrails AI">
 
-##### Description
-- No description available
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
-##### Links
-- [Website](https://www.lakera.ai/)
-- [X/Twitter](https://twitter.com/LakeraAI)
-</details>
+	##### Description
+	- No description available
 
-#### [Socket](https://socket.dev/)
-<details>
+	##### Links
+	- [Website](https://www.guardrailsai.com/)
+	</details>
 
-<img src="./public/images/socket.png" width="200" alt="Socket">
+	#### [Lakera](https://www.lakera.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
+	<img src="./public/images/lakera-ai.png" width="200" alt="Lakera">
 
-##### Description
-Socket provides a developer-first security platform that protects against supply chain attacks by scanning dependencies and AI model files for malicious code, featuring real-time detection of 70+ risk signals, integration with major package registries, and trusted by leading AI companies including OpenAI and Anthropic.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
-##### Links
-- [Website](https://socket.dev/)
-- [X/Twitter](https://twitter.com/SocketSecurity)
-</details>
+	##### Description
+	- No description available
 
-### Security & Access Control
+	##### Links
+	- [Website](https://www.lakera.ai/)
+	- [X/Twitter](https://twitter.com/LakeraAI)
+	</details>
 
-Tools for protecting AI systems and managing access and user permissions
+	#### [Socket](https://socket.dev/)
+	<details>
 
-#### [LiteLLM](https://litellm.ai/)
-<details>
+	<img src="./public/images/socket.png" width="200" alt="Socket">
 
-<img src="./public/images/litellm.png" width="200" alt="LiteLLM">
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
+	##### Description
+	Socket provides a developer-first security platform that protects against supply chain attacks by scanning dependencies and AI model files for malicious code, featuring real-time detection of 70+ risk signals, integration with major package registries, and trusted by leading AI companies including OpenAI and Anthropic.
 
-##### Description
-LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.
+	##### Links
+	- [Website](https://socket.dev/)
+	- [X/Twitter](https://twitter.com/SocketSecurity)
+	</details>
 
-##### Links
-- [Website](https://litellm.ai/)
-- [GitHub](https://github.com/BerriAI/litellm)
-- [X/Twitter](https://twitter.com/LiteLLM)
-</details>
+	### Security & Access Control
 
-#### [Martian](https://withmartian.com/)
-<details>
+	Tools for protecting AI systems and managing access and user permissions
 
-<img src="./public/images/martian.png" width="200" alt="Martian">
+	#### [LiteLLM](https://litellm.ai/)
+	<details>
 
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
+	<img src="./public/images/litellm.png" width="200" alt="LiteLLM">
 
-##### Description
-Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
 
-##### Links
-- [Website](https://withmartian.com/)
-- [GitHub](https://github.com/withmartian)
-- [X/Twitter](https://twitter.com/withmartian)
-</details>
+	##### Description
+	LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.
 
-## ENGINEERING LAYER
+	##### Links
+	- [Website](https://litellm.ai/)
+	- [GitHub](https://github.com/BerriAI/litellm)
+	- [X/Twitter](https://twitter.com/LiteLLM)
+	</details>
 
-### Training & Fine-Tuning
+	#### [Martian](https://withmartian.com/)
+	<details>
 
-Resources for customizing and optimizing AI models
+	<img src="./public/images/martian.png" width="200" alt="Martian">
 
-#### [Lamini](https://lamini.ai/)
-<details>
+	##### Category
+	OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
 
-<img src="./public/images/lamini.svg" width="200" alt="Lamini">
+	##### Description
+	Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	##### Links
+	- [Website](https://withmartian.com/)
+	- [GitHub](https://github.com/withmartian)
+	- [X/Twitter](https://twitter.com/withmartian)
+	</details>
 
-##### Description
-Provides tools for efficient fine-tuning of large language models, including techniques like quantization and memory optimization.
+	## ENGINEERING LAYER
 
-##### Links
-- [Website](https://lamini.ai/)
-- [X/Twitter](https://twitter.com/LaminiAI)
-</details>
+	### Training & Fine-Tuning
 
-#### [Predibase](https://www.predibase.com/)
-<details>
+	Resources for customizing and optimizing AI models
 
-<img src="./public/images/predibase.svg" width="200" alt="Predibase">
+	#### [Lamini](https://lamini.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	<img src="./public/images/lamini.svg" width="200" alt="Lamini">
 
-##### Description
-Platform for building and deploying machine learning models, with a focus on simplifying the development process and enabling faster iteration.
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Links
-- [Website](https://www.predibase.com/)
-- [X/Twitter](https://twitter.com/predibase)
-</details>
+	##### Description
+	Provides tools for efficient fine-tuning of large language models, including techniques like quantization and memory optimization.
 
-#### [Modal](https://modal.com/)
-<details>
+	##### Links
+	- [Website](https://lamini.ai/)
+	- [X/Twitter](https://twitter.com/LaminiAI)
+	</details>
 
-<img src="./public/images/modal.svg" width="200" alt="Modal">
+	#### [Predibase](https://www.predibase.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	<img src="./public/images/predibase.svg" width="200" alt="Predibase">
 
-##### Description
-Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Links
-- [Website](https://modal.com/)
-- [X/Twitter](https://twitter.com/modal_labs)
-</details>
+	##### Description
+	Platform for building and deploying machine learning models, with a focus on simplifying the development process and enabling faster iteration.
 
-#### [Julius](https://julius.ai/)
-<details>
+	##### Links
+	- [Website](https://www.predibase.com/)
+	- [X/Twitter](https://twitter.com/predibase)
+	</details>
 
-<img src="./public/images/julius.svg" width="200" alt="Julius">
+	#### [Modal](https://modal.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	<img src="./public/images/modal.svg" width="200" alt="Modal">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Links
-- [Website](https://julius.ai/)
-- [X/Twitter](https://twitter.com/JuliusAI_)
-</details>
+	##### Description
+	Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.
 
-#### [Fine Tuner](https://fine-tuner.ai/)
-<details>
+	##### Links
+	- [Website](https://modal.com/)
+	- [X/Twitter](https://twitter.com/modal_labs)
+	</details>
 
-<img src="./public/images/fine-tuners.png" width="200" alt="Fine Tuner">
+	#### [Julius](https://julius.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	<img src="./public/images/julius.svg" width="200" alt="Julius">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Links
-- [Website](https://fine-tuner.ai/)
-</details>
+	##### Description
+	- No description available
 
-#### [Codeanywhere](https://codeanywhere.com/)
-<details>
+	##### Links
+	- [Website](https://julius.ai/)
+	- [X/Twitter](https://twitter.com/JuliusAI_)
+	</details>
 
-<img src="./public/images/codeanywhere.svg" width="200" alt="Codeanywhere">
+	#### [Fine Tuner](https://fine-tuner.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	<img src="./public/images/fine-tuners.png" width="200" alt="Fine Tuner">
 
-##### Description
-Provides workspaces with GPU
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Links
-- [Website](https://codeanywhere.com/)
-- [X/Twitter](https://twitter.com/Codeanywhere)
-</details>
+	##### Description
+	- No description available
 
-#### [Lightning AI](https://lightning.ai/)
-<details>
+	##### Links
+	- [Website](https://fine-tuner.ai/)
+	</details>
 
-<img src="./public/images/lightningai.png" width="200" alt="Lightning AI">
+	#### [Codeanywhere](https://codeanywhere.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
+	<img src="./public/images/codeanywhere.svg" width="200" alt="Codeanywhere">
 
-##### Description
-Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Links
-- [Website](https://lightning.ai/)
-- [X/Twitter](https://twitter.com/LightningAI)
-</details>
+	##### Description
+	Provides workspaces with GPU
 
-### Tools
+	##### Links
+	- [Website](https://codeanywhere.com/)
+	- [X/Twitter](https://twitter.com/Codeanywhere)
+	</details>
 
-Development utilities, libraries and services for building AI applications
+	#### [Lightning AI](https://lightning.ai/)
+	<details>
 
-#### [Ant Design X](https://x.ant.design/)
-<details>
+	<img src="./public/images/lightningai.png" width="200" alt="Lightning AI">
 
-<img src="./public/images/ant-design-x.svg" width="200" alt="Ant Design X">
+	##### Category
+	ENGINEERING LAYER - Training & Fine-Tuning
 
-##### Category
-ENGINEERING LAYER - Tools
+	##### Description
+	Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.
 
-##### Description
-Ant Design X is a brand new AGI component library from Ant Design, designed to help developers more easily develop AI product user interfaces. Building on Ant Design, Ant Design X further expands the design specifications for AI products, offering developers more powerful tools and resources.
+	##### Links
+	- [Website](https://lightning.ai/)
+	- [X/Twitter](https://twitter.com/LightningAI)
+	</details>
 
-##### Links
-- [Website](https://x.ant.design/)
-- [GitHub](https://github.com/ant-design/x)
-- [X/Twitter](https://twitter.com/AntDesignUI)
-</details>
+	### Tools
 
-#### [Relevance AI](https://relevanceai.com/)
-<details>
+	Development utilities, libraries and services for building AI applications
 
-<img src="./public/images/relevanceai.svg" width="200" alt="Relevance AI">
+	#### [Ant Design X](https://x.ant.design/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/ant-design-x.svg" width="200" alt="Ant Design X">
 
-##### Description
-Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://relevanceai.com/)
-- [GitHub](https://github.com/RelevanceAI)
-- [X/Twitter](https://twitter.com/RelevanceAI_)
-</details>
+	##### Description
+	Ant Design X is a brand new AGI component library from Ant Design, designed to help developers more easily develop AI product user interfaces. Building on Ant Design, Ant Design X further expands the design specifications for AI products, offering developers more powerful tools and resources.
 
-#### [Greptile](https://www.greptile.com/)
-<details>
+	##### Links
+	- [Website](https://x.ant.design/)
+	- [GitHub](https://github.com/ant-design/x)
+	- [X/Twitter](https://twitter.com/AntDesignUI)
+	</details>
 
-<img src="./public/images/greptile.png" width="200" alt="Greptile">
+	#### [Relevance AI](https://relevanceai.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/relevanceai.svg" width="200" alt="Relevance AI">
 
-##### Description
-Greptile provides an AI-powered code analysis platform that helps software teams ship faster by offering intelligent code reviews, codebase chat, and custom dev tools with full contextual understanding, while maintaining SOC2 Type II compliance and optional self-hosting capabilities.
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://www.greptile.com/)
-- [GitHub](https://github.com/greptileai)
-- [X/Twitter](https://twitter.com/greptileai)
-</details>
+	##### Description
+	Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.
 
-#### [Sourcegraph](https://sourcegraph.com/)
-<details>
+	##### Links
+	- [Website](https://relevanceai.com/)
+	- [GitHub](https://github.com/RelevanceAI)
+	- [X/Twitter](https://twitter.com/RelevanceAI_)
+	</details>
 
-<img src="./public/images/sourcegraph.svg" width="200" alt="Sourcegraph">
+	#### [Greptile](https://www.greptile.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/greptile.png" width="200" alt="Greptile">
 
-##### Description
-Sourcegraph provides a code intelligence platform featuring Cody, an AI coding assistant, and advanced code search capabilities that help developers navigate, understand, and modify complex codebases while automating routine tasks across enterprise environments.
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://sourcegraph.com/)
-- [GitHub](https://github.com/sourcegraph)
-- [X/Twitter](https://twitter.com/sourcegraph)
-</details>
+	##### Description
+	Greptile provides an AI-powered code analysis platform that helps software teams ship faster by offering intelligent code reviews, codebase chat, and custom dev tools with full contextual understanding, while maintaining SOC2 Type II compliance and optional self-hosting capabilities.
 
-#### [PromptLayer](https://www.promptlayer.com/)
-<details>
+	##### Links
+	- [Website](https://www.greptile.com/)
+	- [GitHub](https://github.com/greptileai)
+	- [X/Twitter](https://twitter.com/greptileai)
+	</details>
 
-<img src="./public/images/promptlayer.png" width="200" alt="PromptLayer">
+	#### [Sourcegraph](https://sourcegraph.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/sourcegraph.svg" width="200" alt="Sourcegraph">
 
-##### Description
-PromptLayer provides a comprehensive prompt engineering platform that enables technical and non-technical teams to collaboratively edit, evaluate, and deploy LLM prompts through a visual CMS, while offering version control, A/B testing, and monitoring capabilities with SOC 2 Type 2 compliance.
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://www.promptlayer.com/)
-- [GitHub](https://github.com/MagnivOrg/prompt-layer-library)
-- [X/Twitter](https://twitter.com/promptlayer)
-</details>
+	##### Description
+	Sourcegraph provides a code intelligence platform featuring Cody, an AI coding assistant, and advanced code search capabilities that help developers navigate, understand, and modify complex codebases while automating routine tasks across enterprise environments.
 
-#### [Gretel.ai](https://gretel.ai/)
-<details>
+	##### Links
+	- [Website](https://sourcegraph.com/)
+	- [GitHub](https://github.com/sourcegraph)
+	- [X/Twitter](https://twitter.com/sourcegraph)
+	</details>
 
-<img src="./public/images/gretel.svg" width="200" alt="Gretel.ai">
+	#### [PromptLayer](https://www.promptlayer.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/promptlayer.png" width="200" alt="PromptLayer">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://gretel.ai/)
-- [X/Twitter](https://twitter.com/gretel_ai)
-</details>
+	##### Description
+	PromptLayer provides a comprehensive prompt engineering platform that enables technical and non-technical teams to collaboratively edit, evaluate, and deploy LLM prompts through a visual CMS, while offering version control, A/B testing, and monitoring capabilities with SOC 2 Type 2 compliance.
 
-#### [Mostly.ai](https://mostly.ai/)
-<details>
+	##### Links
+	- [Website](https://www.promptlayer.com/)
+	- [GitHub](https://github.com/MagnivOrg/prompt-layer-library)
+	- [X/Twitter](https://twitter.com/promptlayer)
+	</details>
 
-<img src="./public/images/mostlyai.svg" width="200" alt="Mostly.ai">
+	#### [Gretel.ai](https://gretel.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/gretel.svg" width="200" alt="Gretel.ai">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://mostly.ai/)
-- [X/Twitter](https://twitter.com/mostly_ai)
-</details>
+	##### Description
+	- No description available
 
-#### [Tonic.ai](https://www.tonic.ai/)
-<details>
+	##### Links
+	- [Website](https://gretel.ai/)
+	- [X/Twitter](https://twitter.com/gretel_ai)
+	</details>
 
-<img src="./public/images/tonic.svg" width="200" alt="Tonic.ai">
+	#### [Mostly.ai](https://mostly.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/mostlyai.svg" width="200" alt="Mostly.ai">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://www.tonic.ai/)
-- [X/Twitter](https://twitter.com/tonicfakedata)
-</details>
+	##### Description
+	- No description available
 
-#### [Rockfish.ai](https://www.rockfish.ai/)
-<details>
+	##### Links
+	- [Website](https://mostly.ai/)
+	- [X/Twitter](https://twitter.com/mostly_ai)
+	</details>
 
-<img src="./public/images/rockfishdata.png" width="200" alt="Rockfish.ai">
+	#### [Tonic.ai](https://www.tonic.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/tonic.svg" width="200" alt="Tonic.ai">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://www.rockfish.ai/)
-</details>
+	##### Description
+	- No description available
 
-#### [JigsawStack](https://www.jigsawstack.com/)
-<details>
+	##### Links
+	- [Website](https://www.tonic.ai/)
+	- [X/Twitter](https://twitter.com/tonicfakedata)
+	</details>
 
-<img src="./public/images/jigsawstack.svg" width="200" alt="JigsawStack">
+	#### [Rockfish.ai](https://www.rockfish.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Tools
+	<img src="./public/images/rockfishdata.png" width="200" alt="Rockfish.ai">
 
-##### Description
-JigsawStack provides a comprehensive suite of AI APIs including web scraping, translation, speech-to-text, OCR, prediction, and prompt optimization, offering globally distributed infrastructure with type-safe SDKs and built-in monitoring capabilities across 99+ locations.
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Links
-- [Website](https://www.jigsawstack.com/)
-- [GitHub](https://github.com/JigsawStack)
-- [X/Twitter](https://twitter.com/jigsawstack)
-</details>
+	##### Description
+	- No description available
 
-### Testing & Quality Assurance
+	##### Links
+	- [Website](https://www.rockfish.ai/)
+	</details>
 
-Systems for validating AI performance and reliability
+	#### [JigsawStack](https://www.jigsawstack.com/)
+	<details>
 
-#### [Adaline](https://adaline.ai/)
-<details>
+	<img src="./public/images/jigsawstack.svg" width="200" alt="JigsawStack">
 
-<img src="./public/images/adaline.png" width="200" alt="Adaline">
+	##### Category
+	ENGINEERING LAYER - Tools
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	##### Description
+	JigsawStack provides a comprehensive suite of AI APIs including web scraping, translation, speech-to-text, OCR, prediction, and prompt optimization, offering globally distributed infrastructure with type-safe SDKs and built-in monitoring capabilities across 99+ locations.
 
-##### Description
-Adaline is the single platform to iterate, evalute, deploy, and monitor prompts for your LLM applications.
+	##### Links
+	- [Website](https://www.jigsawstack.com/)
+	- [GitHub](https://github.com/JigsawStack)
+	- [X/Twitter](https://twitter.com/jigsawstack)
+	</details>
 
-##### Links
-- [Website](https://adaline.ai/)
-- [GitHub](https://github.com/adaline)
-- [X/Twitter](https://twitter.com/adalinewastaken)
-</details>
+	### Testing & Quality Assurance
 
-#### [LangSmith](https://www.langchain.com/langsmith)
-<details>
+	Systems for validating AI performance and reliability
 
-<img src="./public/images/langsmith.svg" width="200" alt="LangSmith">
+	#### [Adaline](https://adaline.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/adaline.png" width="200" alt="Adaline">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://www.langchain.com/langsmith)
-- [X/Twitter](https://twitter.com/LangChainAI)
-</details>
+	##### Description
+	Adaline is the single platform to iterate, evalute, deploy, and monitor prompts for your LLM applications.
 
-#### [Langfuse](https://langfuse.com/)
-<details>
+	##### Links
+	- [Website](https://adaline.ai/)
+	- [GitHub](https://github.com/adaline)
+	- [X/Twitter](https://twitter.com/adalinewastaken)
+	</details>
 
-<img src="./public/images/langfuse.svg" width="200" alt="Langfuse">
+	#### [LangSmith](https://www.langchain.com/langsmith)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/langsmith.svg" width="200" alt="LangSmith">
 
-##### Description
-Langfuse is an Open Source LLM Engineering platform with a focus on LLM Observability, Evaluation, and Prompt Management. Use automated evaluators or the Langfuse Playground to iteratively test and improve an LLM application. Langfuse is SOC2/ISO27001 certified and can be easily self-hosted at scale.
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://langfuse.com/)
-- [GitHub](https://github.com/langfuse/langfuse)
-- [X/Twitter](https://twitter.com/langfuse)
-</details>
+	##### Description
+	- No description available
 
-#### [Galileo](https://www.galileo.ai/)
-<details>
+	##### Links
+	- [Website](https://www.langchain.com/langsmith)
+	- [X/Twitter](https://twitter.com/LangChainAI)
+	</details>
 
-<img src="./public/images/galileo.png" width="200" alt="Galileo">
+	#### [Langfuse](https://langfuse.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/langfuse.svg" width="200" alt="Langfuse">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://www.galileo.ai/)
-</details>
+	##### Description
+	Langfuse is an Open Source LLM Engineering platform with a focus on LLM Observability, Evaluation, and Prompt Management. Use automated evaluators or the Langfuse Playground to iteratively test and improve an LLM application. Langfuse is SOC2/ISO27001 certified and can be easily self-hosted at scale.
 
-#### [Arize](https://arize.com/)
-<details>
+	##### Links
+	- [Website](https://langfuse.com/)
+	- [GitHub](https://github.com/langfuse/langfuse)
+	- [X/Twitter](https://twitter.com/langfuse)
+	</details>
 
-<img src="./public/images/arize-ai.svg" width="200" alt="Arize">
+	#### [Galileo](https://www.galileo.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/galileo.png" width="200" alt="Galileo">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://arize.com/)
-</details>
+	##### Description
+	- No description available
 
-#### [Weight & Biases](https://wandb.ai/site/)
-<details>
+	##### Links
+	- [Website](https://www.galileo.ai/)
+	</details>
 
-<img src="./public/images/w&b.png" width="200" alt="Weight & Biases">
+	#### [Arize](https://arize.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/arize-ai.svg" width="200" alt="Arize">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://wandb.ai/site/)
-- [X/Twitter](https://twitter.com/weights_biases)
-</details>
+	##### Description
+	- No description available
 
-#### [AgentOps](https://www.agentops.ai/)
-<details>
+	##### Links
+	- [Website](https://arize.com/)
+	</details>
 
-<img src="./public/images/agentops.svg" width="200" alt="AgentOps">
+	#### [Weight & Biases](https://wandb.ai/site/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/w&b.png" width="200" alt="Weight & Biases">
 
-##### Description
-- No description available
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://www.agentops.ai/)
-</details>
+	##### Description
+	- No description available
 
-#### [Confident AI](https://www.confident-ai.com/)
-<details>
+	##### Links
+	- [Website](https://wandb.ai/site/)
+	- [X/Twitter](https://twitter.com/weights_biases)
+	</details>
 
-<img src="./public/images/confidentai.svg" width="200" alt="Confident AI">
+	#### [AgentOps](https://www.agentops.ai/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/agentops.svg" width="200" alt="AgentOps">
 
-##### Description
-Confident AI provides an LLM evaluation platform that enables organizations to benchmark, unit test, and monitor their LLM applications through automated regression testing, A/B testing, and synthetic dataset generation, while offering research-backed evaluation metrics and comprehensive observability features.
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://www.confident-ai.com/)
-- [X/Twitter](https://twitter.com/confident_ai)
-</details>
+	##### Description
+	- No description available
 
-#### [ContextQA](https://contextqa.com/)
-<details>
+	##### Links
+	- [Website](https://www.agentops.ai/)
+	</details>
 
-<img src="./public/images/contextqa.svg" width="200" alt="ContextQA">
+	#### [Confident AI](https://www.confident-ai.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/confidentai.svg" width="200" alt="Confident AI">
 
-##### Description
-AI agent specifically designed for software testing and quality assurance, automating the testing process and providing comprehensive test coverage.
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://contextqa.com/)
-- [X/Twitter](https://twitter.com/ContextQa)
-</details>
+	##### Description
+	Confident AI provides an LLM evaluation platform that enables organizations to benchmark, unit test, and monitor their LLM applications through automated regression testing, A/B testing, and synthetic dataset generation, while offering research-backed evaluation metrics and comprehensive observability features.
 
-#### [Braintrust](https://www.braintrustdata.com/)
-<details>
+	##### Links
+	- [Website](https://www.confident-ai.com/)
+	- [X/Twitter](https://twitter.com/confident_ai)
+	</details>
 
-<img src="./public/images/braintrust.svg" width="200" alt="Braintrust">
+	#### [ContextQA](https://contextqa.com/)
+	<details>
 
-##### Category
-ENGINEERING LAYER - Testing & Quality Assurance
+	<img src="./public/images/contextqa.svg" width="200" alt="ContextQA">
 
-##### Description
-Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-##### Links
-- [Website](https://www.braintrustdata.com/)
-- [GitHub](https://github.com/braintrustdata/)
-- [X/Twitter](https://twitter.com/braintrustdata)
-</details>
+	##### Description
+	AI agent specifically designed for software testing and quality assurance, automating the testing process and providing comprehensive test coverage.
 
-## INTELLIGENCE LAYER
+	##### Links
+	- [Website](https://contextqa.com/)
+	- [X/Twitter](https://twitter.com/ContextQa)
+	</details>
 
-### Frameworks
+	#### [Braintrust](https://www.braintrustdata.com/)
+	<details>
 
-Core libraries and building blocks for AI application development
+	<img src="./public/images/braintrust.svg" width="200" alt="Braintrust">
 
-#### [LangChain](https://www.langchain.com/)
-<details>
+	##### Category
+	ENGINEERING LAYER - Testing & Quality Assurance
 
-<img src="./public/images/langchain.png" width="200" alt="LangChain">
+	##### Description
+	Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	##### Links
+	- [Website](https://www.braintrustdata.com/)
+	- [GitHub](https://github.com/braintrustdata/)
+	- [X/Twitter](https://twitter.com/braintrustdata)
+	</details>
 
-##### Description
-- No description available
+	## INTELLIGENCE LAYER
 
-##### Links
-- [Website](https://www.langchain.com/)
-- [GitHub](https://github.com/langchain-ai)
-- [X/Twitter](https://twitter.com/LangChainAI)
-</details>
+	### Frameworks
 
-#### [LlamaIndex](https://www.llamaindex.ai/)
-<details>
+	Core libraries and building blocks for AI application development
 
-<img src="./public/images/llamaindex.svg" width="200" alt="LlamaIndex">
+	#### [LangChain](https://www.langchain.com/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/langchain.png" width="200" alt="LangChain">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://www.llamaindex.ai/)
-- [GitHub](https://github.com/run-llama)
-- [X/Twitter](https://twitter.com/llama_index)
-</details>
+	##### Description
+	- No description available
 
-#### [Haystack](https://haystack.deepset.ai/)
-<details>
+	##### Links
+	- [Website](https://www.langchain.com/)
+	- [GitHub](https://github.com/langchain-ai)
+	- [X/Twitter](https://twitter.com/LangChainAI)
+	</details>
 
-<img src="./public/images/haystack.png" width="200" alt="Haystack">
+	#### [LlamaIndex](https://www.llamaindex.ai/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/llamaindex.svg" width="200" alt="LlamaIndex">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://haystack.deepset.ai/)
-- [GitHub](https://github.com/deepset-ai/haystack)
-- [X/Twitter](https://twitter.com/Haystack_AI)
-</details>
+	##### Description
+	- No description available
 
-#### [DSPy](https://dspy.ai/)
-<details>
+	##### Links
+	- [Website](https://www.llamaindex.ai/)
+	- [GitHub](https://github.com/run-llama)
+	- [X/Twitter](https://twitter.com/llama_index)
+	</details>
 
-<img src="./public/images/dspy.png" width="200" alt="DSPy">
+	#### [Haystack](https://haystack.deepset.ai/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/haystack.png" width="200" alt="Haystack">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://dspy.ai/)
-</details>
+	##### Description
+	- No description available
 
-#### [Pydantic AI](https://ai.pydantic.dev/)
-<details>
+	##### Links
+	- [Website](https://haystack.deepset.ai/)
+	- [GitHub](https://github.com/deepset-ai/haystack)
+	- [X/Twitter](https://twitter.com/Haystack_AI)
+	</details>
 
-<img src="./public/images/pydantic-ai.svg" width="200" alt="Pydantic AI">
+	#### [DSPy](https://dspy.ai/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/dspy.png" width="200" alt="DSPy">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://ai.pydantic.dev/)
-- [GitHub](https://github.com/pydantic/pydantic-ai)
-- [X/Twitter](https://twitter.com/pydantic)
-</details>
+	##### Description
+	- No description available
 
-#### [Letta](https://www.letta.com/)
-<details>
+	##### Links
+	- [Website](https://dspy.ai/)
+	</details>
 
-<img src="./public/images/letta.png" width="200" alt="Letta">
+	#### [Pydantic AI](https://ai.pydantic.dev/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/pydantic-ai.svg" width="200" alt="Pydantic AI">
 
-##### Description
-Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://www.letta.com/)
-- [GitHub](https://github.com/letta-ai/letta)
-- [X/Twitter](https://twitter.com/Letta_AI)
-</details>
+	##### Description
+	- No description available
 
-#### [Langbase](https://langbase.com/)
-<details>
+	##### Links
+	- [Website](https://ai.pydantic.dev/)
+	- [GitHub](https://github.com/pydantic/pydantic-ai)
+	- [X/Twitter](https://twitter.com/pydantic)
+	</details>
 
-<img src="./public/images/langbase.svg" width="200" alt="Langbase">
+	#### [Letta](https://www.letta.com/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/letta.png" width="200" alt="Letta">
 
-##### Description
-Langbase provides a serverless AI development platform featuring BaseAI (Web AI Framework), composable AI Pipes for agent development, 50-100x cheaper serverless RAG, unified LLM API access, and collaboration tools, with enterprise-grade security and observability.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://langbase.com/)
-- [X/Twitter](https://twitter.com/langbaseinc)
-</details>
+	##### Description
+	Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.
 
-#### [AutoGen](https://github.com/microsoft/autogen)
-<details>
+	##### Links
+	- [Website](https://www.letta.com/)
+	- [GitHub](https://github.com/letta-ai/letta)
+	- [X/Twitter](https://twitter.com/Letta_AI)
+	</details>
 
-<img src="./public/images/autogen.svg" width="200" alt="AutoGen">
+	#### [Langbase](https://langbase.com/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/langbase.svg" width="200" alt="Langbase">
 
-##### Description
-Framework for developing LLM applications with multiple conversational agents that collaborate and interact with humans.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://github.com/microsoft/autogen)
-- [GitHub](https://github.com/microsoft/autogen)
-- [X/Twitter](https://twitter.com/pyautogen)
-</details>
+	##### Description
+	Langbase provides a serverless AI development platform featuring BaseAI (Web AI Framework), composable AI Pipes for agent development, 50-100x cheaper serverless RAG, unified LLM API access, and collaboration tools, with enterprise-grade security and observability.
 
-#### [TaskWeaver](https://microsoft.github.io/TaskWeaver/)
-<details>
+	##### Links
+	- [Website](https://langbase.com/)
+	- [X/Twitter](https://twitter.com/langbaseinc)
+	</details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	#### [AutoGen](https://github.com/microsoft/autogen)
+	<details>
 
-##### Description
-A framework for creating and managing workflows and tasks for AI agents.
+	<img src="./public/images/autogen.svg" width="200" alt="AutoGen">
 
-##### Links
-- [Website](https://microsoft.github.io/TaskWeaver/)
-- [GitHub](https://github.com/microsoft/TaskWeaver)
-</details>
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-#### [Toolhouse](https://toolhouse.ai/)
-<details>
+	##### Description
+	Framework for developing LLM applications with multiple conversational agents that collaborate and interact with humans.
 
-<img src="./public/images/toolhouse.svg" width="200" alt="Toolhouse">
+	##### Links
+	- [Website](https://github.com/microsoft/autogen)
+	- [GitHub](https://github.com/microsoft/autogen)
+	- [X/Twitter](https://twitter.com/pyautogen)
+	</details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	#### [TaskWeaver](https://microsoft.github.io/TaskWeaver/)
+	<details>
 
-##### Description
-Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://toolhouse.ai/)
-- [GitHub](https://github.com/toolhouseai)
-- [X/Twitter](https://twitter.com/ToolhouseAI)
-</details>
+	##### Description
+	A framework for creating and managing workflows and tasks for AI agents.
 
-#### [Composio](https://composio.dev/agentauth/)
-<details>
+	##### Links
+	- [Website](https://microsoft.github.io/TaskWeaver/)
+	- [GitHub](https://github.com/microsoft/TaskWeaver)
+	</details>
 
-<img src="./public/images/composio.svg" width="200" alt="Composio">
+	#### [Toolhouse](https://toolhouse.ai/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/toolhouse.svg" width="200" alt="Toolhouse">
 
-##### Description
-Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://composio.dev/agentauth/)
-- [GitHub](https://github.com/ComposioHQ/composio/tree/master/python/swe)
-- [X/Twitter](https://twitter.com/composiohq)
-</details>
+	##### Description
+	Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.
 
-#### [CrewAI](https://www.crewai.com/)
-<details>
+	##### Links
+	- [Website](https://toolhouse.ai/)
+	- [GitHub](https://github.com/toolhouseai)
+	- [X/Twitter](https://twitter.com/ToolhouseAI)
+	</details>
 
-<img src="./public/images/crewai.svg" width="200" alt="CrewAI">
+	#### [Composio](https://composio.dev/agentauth/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	<img src="./public/images/composio.svg" width="200" alt="Composio">
 
-##### Description
-CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://www.crewai.com/)
-- [X/Twitter](https://twitter.com/getcrewai)
-</details>
+	##### Description
+	Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.
 
-#### [AI Suite](https://github.com/andrewyng/aisuite)
-<details>
+	##### Links
+	- [Website](https://composio.dev/agentauth/)
+	- [GitHub](https://github.com/ComposioHQ/composio/tree/master/python/swe)
+	- [X/Twitter](https://twitter.com/composiohq)
+	</details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	#### [CrewAI](https://www.crewai.com/)
+	<details>
 
-##### Description
-AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthropic, Azure, Google, AWS, Groq, Mistral, etc.), offering standardized API access with OpenAI-compatible syntax, easy provider switching, and seamless integration capabilities, available as an open-source MIT-licensed framework.
+	<img src="./public/images/crewai.svg" width="200" alt="CrewAI">
 
-##### Links
-- [Website](https://github.com/andrewyng/aisuite)
-</details>
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-#### [Promptflow](https://microsoft.github.io/promptflow/index.html)
-<details>
+	##### Description
+	CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	##### Links
+	- [Website](https://www.crewai.com/)
+	- [X/Twitter](https://twitter.com/getcrewai)
+	</details>
 
-##### Description
-Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.
+	#### [AI Suite](https://github.com/andrewyng/aisuite)
+	<details>
 
-##### Links
-- [Website](https://microsoft.github.io/promptflow/index.html)
-</details>
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-#### [LLMStack](https://llmstack.ai/)
-<details>
+	##### Description
+	AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthropic, Azure, Google, AWS, Groq, Mistral, etc.), offering standardized API access with OpenAI-compatible syntax, easy provider switching, and seamless integration capabilities, available as an open-source MIT-licensed framework.
 
-<img src="./public/images/llmstack.svg" width="200" alt="LLMStack">
+	##### Links
+	- [Website](https://github.com/andrewyng/aisuite)
+	</details>
 
-##### Category
-INTELLIGENCE LAYER - Frameworks
+	#### [Promptflow](https://microsoft.github.io/promptflow/index.html)
+	<details>
 
-##### Description
-LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Links
-- [Website](https://llmstack.ai/)
-- [GitHub](https://github.com/trypromptly/LLMStack)
-- [X/Twitter](https://twitter.com/llmstack)
-</details>
+	##### Description
+	Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.
 
-### Knowledge Engines
+	##### Links
+	- [Website](https://microsoft.github.io/promptflow/index.html)
+	</details>
 
-Databases and systems for managing and retrieving information
+	#### [LLMStack](https://llmstack.ai/)
+	<details>
 
-#### [Pinecone](https://www.pinecone.io/)
-<details>
+	<img src="./public/images/llmstack.svg" width="200" alt="LLMStack">
 
-<img src="./public/images/pinecone.svg" width="200" alt="Pinecone">
+	##### Category
+	INTELLIGENCE LAYER - Frameworks
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	##### Description
+	LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.
 
-##### Description
-- No description available
+	##### Links
+	- [Website](https://llmstack.ai/)
+	- [GitHub](https://github.com/trypromptly/LLMStack)
+	- [X/Twitter](https://twitter.com/llmstack)
+	</details>
 
-##### Links
-- [Website](https://www.pinecone.io/)
-- [X/Twitter](https://twitter.com/pinecone)
-</details>
+	### Knowledge Engines
 
-#### [Weaviate](https://weaviate.io/)
-<details>
+	Databases and systems for managing and retrieving information
 
-<img src="./public/images/weaviate.png" width="200" alt="Weaviate">
+	#### [Pinecone](https://www.pinecone.io/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/pinecone.svg" width="200" alt="Pinecone">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://weaviate.io/)
-- [GitHub](https://github.com/weaviate/weaviate)
-- [X/Twitter](https://twitter.com/weaviate_io)
-</details>
+	##### Description
+	- No description available
 
-#### [Chroma](https://www.trychroma.com/)
-<details>
+	##### Links
+	- [Website](https://www.pinecone.io/)
+	- [X/Twitter](https://twitter.com/pinecone)
+	</details>
 
-<img src="./public/images/chroma.svg" width="200" alt="Chroma">
+	#### [Weaviate](https://weaviate.io/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/weaviate.png" width="200" alt="Weaviate">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://www.trychroma.com/)
-- [GitHub](https://github.com/chroma-core/chroma)
-- [X/Twitter](https://twitter.com/trychroma)
-</details>
+	##### Description
+	- No description available
 
-#### [Epsilla](https://epsilla.com)
-<details>
+	##### Links
+	- [Website](https://weaviate.io/)
+	- [GitHub](https://github.com/weaviate/weaviate)
+	- [X/Twitter](https://twitter.com/weaviate_io)
+	</details>
 
-<img src="./public/images/epsilla.svg" width="200" alt="Epsilla">
+	#### [Chroma](https://www.trychroma.com/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/chroma.svg" width="200" alt="Chroma">
 
-##### Description
-Epsilla provides an open-source high performance vector database and an all-in-one platform for RAG and AI Agent powered by your private data and knowledge
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://epsilla.com)
-- [GitHub](https://github.com/epsilla-cloud/vectordb)
-- [X/Twitter](https://twitter.com/epsilla_inc)
-</details>
+	##### Description
+	- No description available
 
-#### [Milvus](https://milvus.io/)
-<details>
+	##### Links
+	- [Website](https://www.trychroma.com/)
+	- [GitHub](https://github.com/chroma-core/chroma)
+	- [X/Twitter](https://twitter.com/trychroma)
+	</details>
 
-<img src="./public/images/milvus.svg" width="200" alt="Milvus">
+	#### [Epsilla](https://epsilla.com)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/epsilla.svg" width="200" alt="Epsilla">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://milvus.io/)
-- [GitHub](https://github.com/milvus-io/milvus)
-- [X/Twitter](https://twitter.com/milvusio)
-</details>
+	##### Description
+	Epsilla provides an open-source high performance vector database and an all-in-one platform for RAG and AI Agent powered by your private data and knowledge
 
-#### [Qdrant](https://qdrant.tech/)
-<details>
+	##### Links
+	- [Website](https://epsilla.com)
+	- [GitHub](https://github.com/epsilla-cloud/vectordb)
+	- [X/Twitter](https://twitter.com/epsilla_inc)
+	</details>
 
-<img src="./public/images/qdrant.png" width="200" alt="Qdrant">
+	#### [Milvus](https://milvus.io/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/milvus.svg" width="200" alt="Milvus">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://qdrant.tech/)
-- [X/Twitter](https://twitter.com/qdrant_engine)
-</details>
+	##### Description
+	- No description available
 
-#### [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)
-<details>
+	##### Links
+	- [Website](https://milvus.io/)
+	- [GitHub](https://github.com/milvus-io/milvus)
+	- [X/Twitter](https://twitter.com/milvusio)
+	</details>
 
-<img src="./public/images/mongodb.svg" width="200" alt="MongoDB Atlas">
+	#### [Qdrant](https://qdrant.tech/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/qdrant.png" width="200" alt="Qdrant">
 
-##### Description
-- No description available
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://www.mongodb.com/products/platform/atlas-database)
-- [X/Twitter](https://twitter.com/MongoDB)
-</details>
+	##### Description
+	- No description available
 
-#### [Supabase](https://supabase.com/modules/vector)
-<details>
+	##### Links
+	- [Website](https://qdrant.tech/)
+	- [X/Twitter](https://twitter.com/qdrant_engine)
+	</details>
 
-<img src="./public/images/supabase.png" width="200" alt="Supabase">
+	#### [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/mongodb.svg" width="200" alt="MongoDB Atlas">
 
-##### Description
-Supabase Vector provides an open-source vector database built on Postgres and pgvector, offering scalable embedding storage, indexing, and querying capabilities with integrated AI tooling for OpenAI and Hugging Face, featuring enterprise-grade security and global deployment options.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://supabase.com/modules/vector)
-- [GitHub](https://github.com/supabase/supabase)
-- [X/Twitter](https://twitter.com/supabase)
-</details>
+	##### Description
+	- No description available
 
-#### [Contextual AI](https://contextual.ai/)
-<details>
+	##### Links
+	- [Website](https://www.mongodb.com/products/platform/atlas-database)
+	- [X/Twitter](https://twitter.com/MongoDB)
+	</details>
 
-<img src="./public/images/contextualai.png" width="200" alt="Contextual AI">
+	#### [Supabase](https://supabase.com/modules/vector)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/supabase.png" width="200" alt="Supabase">
 
-##### Description
-Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://contextual.ai/)
-- [X/Twitter](https://twitter.com/ContextualAI)
-</details>
+	##### Description
+	Supabase Vector provides an open-source vector database built on Postgres and pgvector, offering scalable embedding storage, indexing, and querying capabilities with integrated AI tooling for OpenAI and Hugging Face, featuring enterprise-grade security and global deployment options.
 
-#### [Unstructured](https://unstructured.io/)
-<details>
+	##### Links
+	- [Website](https://supabase.com/modules/vector)
+	- [GitHub](https://github.com/supabase/supabase)
+	- [X/Twitter](https://twitter.com/supabase)
+	</details>
 
-<img src="./public/images/unstructured.avif" width="200" alt="Unstructured">
+	#### [Contextual AI](https://contextual.ai/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/contextualai.png" width="200" alt="Contextual AI">
 
-##### Description
-Platform for working with unstructured data, offering tools for data pre-processing, ETL, and integration with LLMs.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://unstructured.io/)
-- [X/Twitter](https://twitter.com/UnstructuredIO)
-</details>
+	##### Description
+	Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.
 
-#### [Sciphi](https://www.sciphi.ai/)
-<details>
+	##### Links
+	- [Website](https://contextual.ai/)
+	- [X/Twitter](https://twitter.com/ContextualAI)
+	</details>
 
-<img src="./public/images/sciphi.png" width="200" alt="Sciphi">
+	#### [Unstructured](https://unstructured.io/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/unstructured.avif" width="200" alt="Unstructured">
 
-##### Description
-SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution that enables developers to build and scale AI applications with advanced features including document management, hybrid vector search, and knowledge graphs, while providing superior ingestion performance compared to competitors.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://www.sciphi.ai/)
-</details>
+	##### Description
+	Platform for working with unstructured data, offering tools for data pre-processing, ETL, and integration with LLMs.
 
-#### [pgAI](https://github.com/timescale/pgai)
-<details>
+	##### Links
+	- [Website](https://unstructured.io/)
+	- [X/Twitter](https://twitter.com/UnstructuredIO)
+	</details>
 
-<img src="./public/images/pgai.png" width="200" alt="pgAI">
+	#### [Sciphi](https://www.sciphi.ai/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/sciphi.png" width="200" alt="Sciphi">
 
-##### Description
-pgAI is a PostgreSQL extension that enables AI capabilities directly in the database, featuring automated vector embedding creation, RAG implementation, semantic search, and LLM integration (OpenAI, Claude, Cohere, Llama) with support for high-performance vector operations through pgvector and pgvectorscale.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://github.com/timescale/pgai)
-- [GitHub](https://github.com/timescale/pgai)
-- [X/Twitter](https://twitter.com/timescaledb)
-</details>
+	##### Description
+	SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution that enables developers to build and scale AI applications with advanced features including document management, hybrid vector search, and knowledge graphs, while providing superior ingestion performance compared to competitors.
 
-#### [FalkorDB](https://falkordb.com/)
-<details>
+	##### Links
+	- [Website](https://www.sciphi.ai/)
+	</details>
 
-<img src="./public/images/falkordb.svg" width="200" alt="FalkorDB">
+	#### [pgAI](https://github.com/timescale/pgai)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/pgai.png" width="200" alt="pgAI">
 
-##### Description
-FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://falkordb.com/)
-- [GitHub](https://github.com/FalkorDB/falkordb)
-- [X/Twitter](https://twitter.com/FalkorDB)
-</details>
+	##### Description
+	pgAI is a PostgreSQL extension that enables AI capabilities directly in the database, featuring automated vector embedding creation, RAG implementation, semantic search, and LLM integration (OpenAI, Claude, Cohere, Llama) with support for high-performance vector operations through pgvector and pgvectorscale.
 
-#### [Superduper](https://superduper.io/)
-<details>
+	##### Links
+	- [Website](https://github.com/timescale/pgai)
+	- [GitHub](https://github.com/timescale/pgai)
+	- [X/Twitter](https://twitter.com/timescaledb)
+	</details>
 
-<img src="./public/images/superduper.png" width="200" alt="Superduper">
+	#### [FalkorDB](https://falkordb.com/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Knowledge Engines
+	<img src="./public/images/falkordb.svg" width="200" alt="FalkorDB">
 
-##### Description
-Superduper provides a platform for building and deploying AI applications directly with existing databases, featuring integration with multiple AI frameworks and databases, support for RAG, vector search, and ML workflows, while enabling deployment on existing infrastructure without data movement or ETL pipelines.
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Links
-- [Website](https://superduper.io/)
-- [GitHub](https://github.com/superduper-io/superduper)
-- [X/Twitter](https://twitter.com/SuperduperAI)
-</details>
+	##### Description
+	FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.
 
-### Specialized Coding Models
+	##### Links
+	- [Website](https://falkordb.com/)
+	- [GitHub](https://github.com/FalkorDB/falkordb)
+	- [X/Twitter](https://twitter.com/FalkorDB)
+	</details>
 
-AI models optimized for software development
+	#### [Superduper](https://superduper.io/)
+	<details>
 
-#### [Codestral](https://mistral.ai/news/codestral/)
-<details>
+	<img src="./public/images/superduper.png" width="200" alt="Superduper">
 
-<img src="./public/images/mistral-ai.svg" width="200" alt="Codestral">
+	##### Category
+	INTELLIGENCE LAYER - Knowledge Engines
 
-##### Category
-INTELLIGENCE LAYER - Specialized Coding Models
+	##### Description
+	Superduper provides a platform for building and deploying AI applications directly with existing databases, featuring integration with multiple AI frameworks and databases, support for RAG, vector search, and ML workflows, while enabling deployment on existing infrastructure without data movement or ETL pipelines.
 
-##### Description
-Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.
+	##### Links
+	- [Website](https://superduper.io/)
+	- [GitHub](https://github.com/superduper-io/superduper)
+	- [X/Twitter](https://twitter.com/SuperduperAI)
+	</details>
 
-##### Links
-- [Website](https://mistral.ai/news/codestral/)
-- [X/Twitter](https://twitter.com/MistralAI)
-</details>
+	### Specialized Coding Models
 
-#### [Claude 3.5 Sonnet](https://www.anthropic.com/claude)
-<details>
+	AI models optimized for software development
 
-<img src="./public/images/claudeai.svg" width="200" alt="Claude 3.5 Sonnet">
+	#### [Codestral](https://mistral.ai/news/codestral/)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Specialized Coding Models
+	<img src="./public/images/mistral-ai.svg" width="200" alt="Codestral">
 
-##### Description
-Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art performance in reasoning, coding, and vision tasks, featuring a 200K token context window, computer use capabilities, and enhanced safety measures, available through multiple platforms including Claude.ai and major cloud providers.
+	##### Category
+	INTELLIGENCE LAYER - Specialized Coding Models
 
-##### Links
-- [Website](https://www.anthropic.com/claude)
-- [X/Twitter](https://twitter.com/AnthropicAI)
-</details>
+	##### Description
+	Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.
 
-#### [Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
-<details>
+	##### Links
+	- [Website](https://mistral.ai/news/codestral/)
+	- [X/Twitter](https://twitter.com/MistralAI)
+	</details>
 
-<img src="./public/images/qwen.png" width="200" alt="Qwen2.5-Coder-32B">
+	#### [Claude 3.5 Sonnet](https://www.anthropic.com/claude)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Specialized Coding Models
+	<img src="./public/images/claudeai.svg" width="200" alt="Claude 3.5 Sonnet">
 
-##### Description
-Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.
+	##### Category
+	INTELLIGENCE LAYER - Specialized Coding Models
 
-##### Links
-- [Website](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
-- [X/Twitter](https://twitter.com/Alibaba_Qwen)
-</details>
+	##### Description
+	Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art performance in reasoning, coding, and vision tasks, featuring a 200K token context window, computer use capabilities, and enhanced safety measures, available through multiple platforms including Claude.ai and major cloud providers.
 
-#### [Poolside Malibu](https://aws.amazon.com/bedrock/poolside/)
-<details>
+	##### Links
+	- [Website](https://www.anthropic.com/claude)
+	- [X/Twitter](https://twitter.com/AnthropicAI)
+	</details>
 
-<img src="./public/images/poolside.svg" width="200" alt="Poolside Malibu">
+	#### [Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
+	<details>
 
-##### Category
-INTELLIGENCE LAYER - Specialized Coding Models
+	<img src="./public/images/qwen.png" width="200" alt="Qwen2.5-Coder-32B">
 
-##### Description
-Poolside Malibu is an enterprise-focused code generation model trained using Reinforcement Learning from Code Execution Feedback (RLCEF), featuring 100K token context, custom fine-tuning capabilities, and deep integration with development environments, available through Amazon Bedrock for secure deployment.
+	##### Category
+	INTELLIGENCE LAYER - Specialized Coding Models
 
-##### Links
-- [Website](https://aws.amazon.com/bedrock/poolside/)
-- [X/Twitter](https://twitter.com/poolsideai)
-</details>
+	##### Description
+	Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.
 
-## INFRASTRUCTURE LAYER
+	##### Links
+	- [Website](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
+	- [X/Twitter](https://twitter.com/Alibaba_Qwen)
+	</details>
 
-### AI Workspaces
+	#### [Poolside Malibu](https://aws.amazon.com/bedrock/poolside/)
+	<details>
 
-Development environments for sandboxing and building AI applications
+	<img src="./public/images/poolside.svg" width="200" alt="Poolside Malibu">
 
-#### [Daytona](https://daytona.io/)
-<details>
+	##### Category
+	INTELLIGENCE LAYER - Specialized Coding Models
 
-<img src="./public/images/daytonaio.png" width="200" alt="Daytona">
+	##### Description
+	Poolside Malibu is an enterprise-focused code generation model trained using Reinforcement Learning from Code Execution Feedback (RLCEF), featuring 100K token context, custom fine-tuning capabilities, and deep integration with development environments, available through Amazon Bedrock for secure deployment.
 
-##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+	##### Links
+	- [Website](https://aws.amazon.com/bedrock/poolside/)
+	- [X/Twitter](https://twitter.com/poolsideai)
+	</details>
 
-##### Description
-Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.
+	#### [DeepSeek-V3](https://www.deepseek.com/)
+	<details>
 
-##### Links
-- [Website](https://daytona.io/)
-- [X/Twitter](https://twitter.com/daytonaio)
-</details>
+	##### Category
+	INTELLIGENCE LAYER - Specialized Coding Models
 
-#### [Runloop](https://www.runloop.ai/)
-<details>
+	##### Description
+	DeepSeek-V3 is an open-source model with 671 billion parameters, trained on 14.8 trillion tokens. It provides competitive performance with efficient AI model training.
 
-<img src="./public/images/runloop.svg" width="200" alt="Runloop">
+	##### Links
+	- [Website](https://www.deepseek.com/)
+	- [Chat Platform](https://chat.deepseek.com/)
+	- [GitHub Repository](https://github.com/deepseek-ai/DeepSeek-V3)
+	- [Hugging Face Model](https://huggingface.co/deepseek-ai/DeepSeek-V3)
+	- [Technical Report (arXiv)](https://arxiv.org/abs/2412.19437)
+	</details>
 
-##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+	## INFRASTRUCTURE LAYER
 
-##### Description
-Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.
+	### AI Workspaces
 
-##### Links
-- [Website](https://www.runloop.ai/)
-- [X/Twitter](https://twitter.com/RunloopAI)
-</details>
+	Development environments for sandboxing and building AI applications
 
-#### [E2B](https://e2b.dev/)
-<details>
+	#### [Daytona](https://daytona.io/)
+	<details>
 
-<img src="./public/images/e2b-dev.png" width="200" alt="E2B">
+	<img src="./public/images/daytonaio.png" width="200" alt="Daytona">
 
-##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+	##### Category
+	INFRASTRUCTURE LAYER - AI Workspaces
 
-##### Description
-E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.
+	##### Description
+	Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.
 
-##### Links
-- [Website](https://e2b.dev/)
-- [X/Twitter](https://twitter.com/e2b_dev)
-</details>
+	##### Links
+	- [Website](https://daytona.io/)
+	- [X/Twitter](https://twitter.com/daytonaio)
+	</details>
 
-#### [Morph Labs](https://morph.so/)
-<details>
+	#### [Runloop](https://www.runloop.ai/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+	<img src="./public/images/runloop.svg" width="200" alt="Runloop">
 
-##### Description
-Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.
+	##### Category
+	INFRASTRUCTURE LAYER - AI Workspaces
 
-##### Links
-- [Website](https://morph.so/)
-- [X/Twitter](https://twitter.com/morph_labs)
-</details>
+	##### Description
+	Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.
 
-### Model Access & Deployment
+	##### Links
+	- [Website](https://www.runloop.ai/)
+	- [X/Twitter](https://twitter.com/RunloopAI)
+	</details>
 
-Services for deploying and running AI models
+	#### [E2B](https://e2b.dev/)
+	<details>
 
-#### [OpenAI](https://openai.com/)
-<details>
+	<img src="./public/images/e2b-dev.png" width="200" alt="E2B">
 
-<img src="./public/images/openai.png" width="200" alt="OpenAI">
+	##### Category
+	INFRASTRUCTURE LAYER - AI Workspaces
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	##### Description
+	E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.
 
-##### Description
-OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.
+	##### Links
+	- [Website](https://e2b.dev/)
+	- [X/Twitter](https://twitter.com/e2b_dev)
+	</details>
 
-##### Links
-- [Website](https://openai.com/)
-- [X/Twitter](https://twitter.com/OpenAI)
-</details>
+	#### [Morph Labs](https://morph.so/)
+	<details>
 
-#### [Anthropic](https://www.anthropic.com/)
-<details>
+	##### Category
+	INFRASTRUCTURE LAYER - AI Workspaces
 
-<img src="./public/images/anthropic.svg" width="200" alt="Anthropic">
+	##### Description
+	Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	##### Links
+	- [Website](https://morph.so/)
+	- [X/Twitter](https://twitter.com/morph_labs)
+	</details>
 
-##### Description
-Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
+	#### [Nvidia Cosmos Platform](https://www.nvidia.com/en-us/ai/cosmos/)
+	<details>
 
-##### Links
-- [Website](https://www.anthropic.com/)
-- [X/Twitter](https://twitter.com/AnthropicAI)
-</details>
+	##### Category
+	INFRASTRUCTURE LAYER - AI Workspaces
 
-#### [Mistral AI](https://mistral.ai/)
-<details>
+	##### Description
+	Nvidia Cosmos Platform accelerates physical AI development, focusing on autonomous vehicles and robotics. It provides a world foundation model platform using photo-real, physics-based synthetic data for training and evaluation, enabling the next generation of autonomous systems.
 
-<img src="./public/images/mistral-ai.svg" width="200" alt="Mistral AI">
+	##### Links
+	- [Official Website](https://www.nvidia.com/en-us/ai/cosmos/)
+	- [Nvidia News Announcement](https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-world-foundation-model-platform-to-accelerate-physical-ai-development)
+	- [Developer Overview](https://developer.nvidia.com/blog/advancing-physical-ai-with-nvidia-cosmos-world-foundation-model-platform/)
+	- [GitHub Repository](https://github.com/NVIDIA/Cosmos)
+	- [Developer Resources](https://developer.nvidia.com/cosmos)
+	</details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	#### [Nvidia GeForce RTX 50-Series GPUs](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/)
+	<details>
 
-##### Description
-Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
+	##### Category
+	INFRASTRUCTURE LAYER - AI Workspaces
 
-##### Links
-- [Website](https://mistral.ai/)
-- [X/Twitter](https://twitter.com/MistralAI)
-</details>
+	##### Description
+	Nvidia's GeForce RTX 50-Series GPUs, powered by the Blackwell architecture, deliver enhanced AI-driven rendering and computational power. They feature fourth-generation RT Cores and fifth-generation Tensor Cores, enabling efficient AI model training and deployment. These GPUs support DLSS 4 technology, which introduces Multi Frame Generation and enhanced Ray Reconstruction, significantly boosting performance and image quality. :contentReference[oaicite:0]{index=0}
 
-#### [Groq](https://groq.com/)
-<details>
+	##### Links
+	- [Official Website](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/)
+	- [Product Announcement](https://www.nvidia.com/en-us/geforce/news/rtx-50-series-graphics-cards-gpu-laptop-announcements/)
+	- [Technical Specifications](https://www.nvidia.com/en-us/geforce/graphics-cards/compare/)
+	- [Blackwell Architecture Overview](https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/)
+	- [DLSS 4 Details](https://www.nvidia.com/en-us/geforce/news/dlss4-multi-frame-generation-ai-innovations/)
+	</details>
 
-<img src="./public/images/groq.svg" width="200" alt="Groq">
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Description
-Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.
 
-##### Links
-- [Website](https://groq.com/)
-- [X/Twitter](https://twitter.com/GroqInc)
-</details>
+	### Model Access & Deployment
 
-#### [AI21labs](https://www.ai21.com/)
-<details>
+	Services for deploying and running AI models
 
-<img src="./public/images/ai21labs.svg" width="200" alt="AI21labs">
+	#### [OpenAI](https://openai.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/openai.png" width="200" alt="OpenAI">
 
-##### Description
-AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://www.ai21.com/)
-- [X/Twitter](https://twitter.com/AI21Labs)
-</details>
+	##### Description
+	OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.
 
-#### [Cohere](https://cohere.com/)
-<details>
+	##### Links
+	- [Website](https://openai.com/)
+	- [X/Twitter](https://twitter.com/OpenAI)
+	</details>
 
-<img src="./public/images/cohere.svg" width="200" alt="Cohere">
+	#### [Anthropic](https://www.anthropic.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/anthropic.svg" width="200" alt="Anthropic">
 
-##### Description
-Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://cohere.com/)
-- [X/Twitter](https://twitter.com/CohereForAI)
-</details>
+	##### Description
+	Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
 
-#### [Hugging Face](https://huggingface.co/)
-<details>
+	##### Links
+	- [Website](https://www.anthropic.com/)
+	- [X/Twitter](https://twitter.com/AnthropicAI)
+	</details>
 
-<img src="./public/images/huggingface.png" width="200" alt="Hugging Face">
+	#### [Mistral AI](https://mistral.ai/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/mistral-ai.svg" width="200" alt="Mistral AI">
 
-##### Description
-Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://huggingface.co/)
-- [X/Twitter](https://twitter.com/huggingface)
-</details>
+	##### Description
+	Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
 
-#### [Cartesia](https://www.cartesia.ai/)
-<details>
+	##### Links
+	- [Website](https://mistral.ai/)
+	- [X/Twitter](https://twitter.com/MistralAI)
+	</details>
 
-<img src="./public/images/cartesia.svg" width="200" alt="Cartesia">
+	#### [Groq](https://groq.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/groq.svg" width="200" alt="Groq">
 
-##### Description
-Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://www.cartesia.ai/)
-- [X/Twitter](https://twitter.com/cartesia_ai)
-</details>
+	##### Description
+	Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.
 
-#### [Fireworks](https://fireworks.ai/)
-<details>
+	##### Links
+	- [Website](https://groq.com/)
+	- [X/Twitter](https://twitter.com/GroqInc)
+	</details>
 
-<img src="./public/images/fireworks-ai.svg" width="200" alt="Fireworks">
+	#### [AI21labs](https://www.ai21.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/ai21labs.svg" width="200" alt="AI21labs">
 
-##### Description
-Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://fireworks.ai/)
-- [X/Twitter](https://twitter.com/FireworksAI_HQ)
-</details>
+	##### Description
+	AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.
 
-#### [Together.AI](https://together.ai/)
-<details>
+	##### Links
+	- [Website](https://www.ai21.com/)
+	- [X/Twitter](https://twitter.com/AI21Labs)
+	</details>
 
-<img src="./public/images/together-ai.svg" width="200" alt="Together.AI">
+	#### [Cohere](https://cohere.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/cohere.svg" width="200" alt="Cohere">
 
-##### Description
-Offers an API for accessing and running open-source LLMs, facilitating seamless integration into AI applications.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://together.ai/)
-- [X/Twitter](https://twitter.com/togethercompute)
-</details>
+	##### Description
+	Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.
 
-#### [Google Vertex AI](https://cloud.google.com/vertex-ai)
-<details>
+	##### Links
+	- [Website](https://cohere.com/)
+	- [X/Twitter](https://twitter.com/CohereForAI)
+	</details>
 
-<img src="./public/images/vertex.png" width="200" alt="Google Vertex AI">
+	#### [Hugging Face](https://huggingface.co/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/huggingface.png" width="200" alt="Hugging Face">
 
-##### Description
-End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://cloud.google.com/vertex-ai)
-- [X/Twitter](https://twitter.com/GoogleAI)
-</details>
+	##### Description
+	Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.
 
-#### [Amazon Bedrock](https://aws.amazon.com/bedrock/)
-<details>
+	##### Links
+	- [Website](https://huggingface.co/)
+	- [X/Twitter](https://twitter.com/huggingface)
+	</details>
 
-<img src="./public/images/amazon-bedrock.png" width="200" alt="Amazon Bedrock">
+	#### [Cartesia](https://www.cartesia.ai/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/cartesia.svg" width="200" alt="Cartesia">
 
-##### Description
-Amazon Bedrock is a fully managed service that provides access to leading foundation models through a unified API, featuring customization capabilities through fine-tuning and RAG, managed AI agents for workflow automation, and enterprise-grade security with HIPAA and GDPR compliance.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://aws.amazon.com/bedrock/)
-- [X/Twitter](https://twitter.com/awscloud)
-</details>
+	##### Description
+	Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.
 
-#### [Replicate](https://replicate.com/)
-<details>
+	##### Links
+	- [Website](https://www.cartesia.ai/)
+	- [X/Twitter](https://twitter.com/cartesia_ai)
+	</details>
 
-<img src="./public/images/replicate.svg" width="200" alt="Replicate">
+	#### [Fireworks](https://fireworks.ai/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/fireworks-ai.svg" width="200" alt="Fireworks">
 
-##### Description
-Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://replicate.com/)
-- [X/Twitter](https://twitter.com/replicate)
-</details>
+	##### Description
+	Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.
 
-#### [SambaNova](https://sambanova.ai/)
-<details>
+	##### Links
+	- [Website](https://fireworks.ai/)
+	- [X/Twitter](https://twitter.com/FireworksAI_HQ)
+	</details>
 
-<img src="./public/images/sambanova.png" width="200" alt="SambaNova">
+	#### [Together.AI](https://together.ai/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/together-ai.svg" width="200" alt="Together.AI">
 
-##### Description
-SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://sambanova.ai/)
-- [X/Twitter](https://twitter.com/SambaNovaAI)
-</details>
+	##### Description
+	Offers an API for accessing and running open-source LLMs, facilitating seamless integration into AI applications.
 
-#### [BentoML](https://www.bentoml.com/)
-<details>
+	##### Links
+	- [Website](https://together.ai/)
+	- [X/Twitter](https://twitter.com/togethercompute)
+	</details>
 
-<img src="./public/images/bentoml.svg" width="200" alt="BentoML">
+	#### [Google Vertex AI](https://cloud.google.com/vertex-ai)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/vertex.png" width="200" alt="Google Vertex AI">
 
-##### Description
-BentoML provides an open-source unified inference platform that enables organizations to build, deploy, and scale AI systems across any cloud with high performance and flexibility, while offering enterprise features like auto-scaling, rapid iteration, and SOC II compliance.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://www.bentoml.com/)
-- [X/Twitter](https://twitter.com/bentomlai)
-</details>
+	##### Description
+	End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.
 
-#### [OpenRouter](https://openrouter.ai/)
-<details>
+	##### Links
+	- [Website](https://cloud.google.com/vertex-ai)
+	- [X/Twitter](https://twitter.com/GoogleAI)
+	</details>
 
-<img src="./public/images/openrouter.svg" width="200" alt="OpenRouter">
+	#### [Amazon Bedrock](https://aws.amazon.com/bedrock/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
+	<img src="./public/images/amazon-bedrock.png" width="200" alt="Amazon Bedrock">
 
-##### Description
-OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models across multiple providers, offering standardized access, provider routing, and model rankings, with support for multiple SDKs and framework integrations.
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Links
-- [Website](https://openrouter.ai/)
-- [X/Twitter](https://twitter.com/OpenRouterAI)
-</details>
+	##### Description
+	Amazon Bedrock is a fully managed service that provides access to leading foundation models through a unified API, featuring customization capabilities through fine-tuning and RAG, managed AI agents for workflow automation, and enterprise-grade security with HIPAA and GDPR compliance.
 
-### Cloud Providers
+	##### Links
+	- [Website](https://aws.amazon.com/bedrock/)
+	- [X/Twitter](https://twitter.com/awscloud)
+	</details>
 
-Computing infrastructure that powers AI systems and their workspaces
+	#### [Replicate](https://replicate.com/)
+	<details>
 
-#### [AWS](https://aws.amazon.com/)
-<details>
+	<img src="./public/images/replicate.svg" width="200" alt="Replicate">
 
-<img src="./public/images/aws.png" width="200" alt="AWS">
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	##### Description
+	Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.
 
-##### Description
-- No description available
+	##### Links
+	- [Website](https://replicate.com/)
+	- [X/Twitter](https://twitter.com/replicate)
+	</details>
 
-##### Links
-- [Website](https://aws.amazon.com/)
-</details>
+	#### [SambaNova](https://sambanova.ai/)
+	<details>
 
-#### [Azure](https://azure.microsoft.com/)
-<details>
+	<img src="./public/images/sambanova.png" width="200" alt="SambaNova">
 
-<img src="./public/images/azure.png" width="200" alt="Azure">
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	##### Description
+	SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.
 
-##### Description
-- No description available
+	##### Links
+	- [Website](https://sambanova.ai/)
+	- [X/Twitter](https://twitter.com/SambaNovaAI)
+	</details>
 
-##### Links
-- [Website](https://azure.microsoft.com/)
-</details>
+	#### [BentoML](https://www.bentoml.com/)
+	<details>
 
-#### [GCP](https://cloud.google.com/)
-<details>
+	<img src="./public/images/bentoml.svg" width="200" alt="BentoML">
 
-<img src="./public/images/gcp.png" width="200" alt="GCP">
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	##### Description
+	BentoML provides an open-source unified inference platform that enables organizations to build, deploy, and scale AI systems across any cloud with high performance and flexibility, while offering enterprise features like auto-scaling, rapid iteration, and SOC II compliance.
 
-##### Description
-- No description available
+	##### Links
+	- [Website](https://www.bentoml.com/)
+	- [X/Twitter](https://twitter.com/bentomlai)
+	</details>
 
-##### Links
-- [Website](https://cloud.google.com/)
-</details>
+	#### [OpenRouter](https://openrouter.ai/)
+	<details>
 
-#### [Koyeb](https://www.koyeb.com/)
-<details>
+	<img src="./public/images/openrouter.svg" width="200" alt="OpenRouter">
 
-<img src="./public/images/koyeb.png" width="200" alt="Koyeb">
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	##### Description
+	OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models across multiple providers, offering standardized access, provider routing, and model rankings, with support for multiple SDKs and framework integrations.
 
-##### Description
-Koyeb provides a high-performance serverless platform specifically optimized for AI workloads, offering GPU/NPU infrastructure, global deployment across 50+ locations, and seamless scaling capabilities for ML model inference and training with built-in observability.
+	##### Links
+	- [Website](https://openrouter.ai/)
+	- [X/Twitter](https://twitter.com/OpenRouterAI)
+	</details>
 
-##### Links
-- [Website](https://www.koyeb.com/)
-- [X/Twitter](https://twitter.com/gokoyeb)
-</details>
+	### Cloud Providers
 
-#### [Hyperbolic](https://hyperbolic.xyz/)
-<details>
+	Computing infrastructure that powers AI systems and their workspaces
 
-<img src="./public/images/hyperbolic-labs.svg" width="200" alt="Hyperbolic">
+	#### [AWS](https://aws.amazon.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	<img src="./public/images/aws.png" width="200" alt="AWS">
 
-##### Description
-Hyperbolic provides a decentralized GPU marketplace for AI compute and inference, offering up to 80% cost reduction compared to traditional providers, featuring high-throughput inference services, pay-as-you-go GPU access, and compute monetization capabilities with hardware-agnostic support.
+	#### [Nvidia Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
+	<details>
 
-##### Links
-- [Website](https://hyperbolic.xyz/)
-- [X/Twitter](https://twitter.com/hyperbolic_labs)
-</details>
+	##### Category
+	INFRASTRUCTURE LAYER - Model Access & Deployment
 
-#### [Prime Intellect](https://www.primeintellect.ai/)
-<details>
+	##### Description
+	Project DIGITS is a high-end personal AI supercomputer powered by the Nvidia GB10 Grace Blackwell Superchip, capable of running large language models with up to 200 billion parameters. It delivers up to 1 petaflop of AI performance in a compact, power-efficient form factor, enabling developers to prototype, fine-tune, and deploy AI models locally. :contentReference[oaicite:0]{index=0}
 
-<img src="./public/images/prime-intellect.svg" width="200" alt="Prime Intellect">
+	##### Links
+	- [Official Website](https://www.nvidia.com/en-us/project-digits/)
+	- [Nvidia Newsroom Announcement](https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips)
+	- [Developer Forum Overview](https://forums.developer.nvidia.com/t/nvidia-project-digits-a-grace-blackwell-ai-supercomputer-on-your-desk/318946)
+	- [MediaTek Collaboration Press Release](https://corp.mediatek.com/news-events/press-releases/mediatek-collaborates-with-nvidia-on-the-new-nvidia-gb10-grace-blackwell-superchip-powering-the-nvidia-project-digits-personal-ai-supercomputer)
+	</details>
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
 
-##### Description
-Prime Intellect provides a unified GPU marketplace aggregating multiple cloud providers, featuring competitive pricing for various GPUs (H100, A100, RTX series), decentralized training capabilities across distributed clusters, and tools for collaborative AI model development with a focus on open-source innovation.
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
 
-##### Links
-- [Website](https://www.primeintellect.ai/)
-- [X/Twitter](https://twitter.com/PrimeIntellect)
-</details>
+	##### Description
+	- No description available
 
-#### [CoreWeave](https://coreweave.com/)
-<details>
+	##### Links
+	- [Website](https://aws.amazon.com/)
+	</details>
 
-<img src="./public/images/coreweave.png" width="200" alt="CoreWeave">
+	#### [Azure](https://azure.microsoft.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	<img src="./public/images/azure.png" width="200" alt="Azure">
 
-##### Description
-CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastructure optimized for GPU workloads, featuring 11+ NVIDIA GPU types, up to 35x faster performance and 80% cost reduction compared to traditional providers, with specialized solutions for ML/AI, VFX, and inference at scale.
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
 
-##### Links
-- [Website](https://coreweave.com/)
-- [X/Twitter](https://twitter.com/CoreWeave)
-</details>
+	##### Description
+	- No description available
 
-#### [Nebius](https://nebius.com/)
-<details>
+	##### Links
+	- [Website](https://azure.microsoft.com/)
+	</details>
 
-<img src="./public/images/nebius.svg" width="200" alt="Nebius">
+	#### [GCP](https://cloud.google.com/)
+	<details>
 
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
+	<img src="./public/images/gcp.png" width="200" alt="GCP">
 
-##### Description
-Nebius provides an AI-optimized cloud platform featuring latest NVIDIA GPUs (H200, H100, L40S) with InfiniBand networking, offering managed Kubernetes and Slurm clusters, MLflow integration, and specialized infrastructure for AI training, fine-tuning, and inference workloads.
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
 
-##### Links
-- [Website](https://nebius.com/)
-- [X/Twitter](https://twitter.com/nebiusai)
-</details>
+	##### Description
+	- No description available
 
+	##### Links
+	- [Website](https://cloud.google.com/)
+	</details>
 
-## Contributing
-Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+	#### [Koyeb](https://www.koyeb.com/)
+	<details>
 
-## License
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
+	<img src="./public/images/koyeb.png" width="200" alt="Koyeb">
+
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
+
+	##### Description
+	Koyeb provides a high-performance serverless platform specifically optimized for AI workloads, offering GPU/NPU infrastructure, global deployment across 50+ locations, and seamless scaling capabilities for ML model inference and training with built-in observability.
+
+	##### Links
+	- [Website](https://www.koyeb.com/)
+	- [X/Twitter](https://twitter.com/gokoyeb)
+	</details>
+
+	#### [Hyperbolic](https://hyperbolic.xyz/)
+	<details>
+
+	<img src="./public/images/hyperbolic-labs.svg" width="200" alt="Hyperbolic">
+
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
+
+	##### Description
+	Hyperbolic provides a decentralized GPU marketplace for AI compute and inference, offering up to 80% cost reduction compared to traditional providers, featuring high-throughput inference services, pay-as-you-go GPU access, and compute monetization capabilities with hardware-agnostic support.
+
+	##### Links
+	- [Website](https://hyperbolic.xyz/)
+	- [X/Twitter](https://twitter.com/hyperbolic_labs)
+	</details>
+
+	#### [Prime Intellect](https://www.primeintellect.ai/)
+	<details>
+
+	<img src="./public/images/prime-intellect.svg" width="200" alt="Prime Intellect">
+
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
+
+	##### Description
+	Prime Intellect provides a unified GPU marketplace aggregating multiple cloud providers, featuring competitive pricing for various GPUs (H100, A100, RTX series), decentralized training capabilities across distributed clusters, and tools for collaborative AI model development with a focus on open-source innovation.
+
+	##### Links
+	- [Website](https://www.primeintellect.ai/)
+	- [X/Twitter](https://twitter.com/PrimeIntellect)
+	</details>
+
+	#### [CoreWeave](https://coreweave.com/)
+	<details>
+
+	<img src="./public/images/coreweave.png" width="200" alt="CoreWeave">
+
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
+
+	##### Description
+	CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastructure optimized for GPU workloads, featuring 11+ NVIDIA GPU types, up to 35x faster performance and 80% cost reduction compared to traditional providers, with specialized solutions for ML/AI, VFX, and inference at scale.
+
+	##### Links
+	- [Website](https://coreweave.com/)
+	- [X/Twitter](https://twitter.com/CoreWeave)
+	</details>
+
+	#### [Nebius](https://nebius.com/)
+	<details>
+
+	<img src="./public/images/nebius.svg" width="200" alt="Nebius">
+
+	##### Category
+	INFRASTRUCTURE LAYER - Cloud Providers
+
+	##### Description
+	Nebius provides an AI-optimized cloud platform featuring latest NVIDIA GPUs (H200, H100, L40S) with InfiniBand networking, offering managed Kubernetes and Slurm clusters, MLflow integration, and specialized infrastructure for AI training, fine-tuning, and inference workloads.
+
+	##### Links
+	- [Website](https://nebius.com/)
+	- [X/Twitter](https://twitter.com/nebiusai)
+	</details>
+
+
+	## Contributing
+	Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+
+	## License
+	This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
