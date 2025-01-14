@@ -1290,6 +1290,23 @@ Braintrust provides an end-to-end platform for evaluating and testing LLM applic
 - [X/Twitter](https://twitter.com/braintrustdata)
 </details>
 
+#### [Athina AI](https://www.athina.ai/)
+<details>
+
+<img src="./public/images/athina.png" width="200" alt="Athina AI">
+
+##### Category
+ENGINEERING LAYER - Testing & Quality Assurance
+
+##### Description
+Athina is a collaborative AI development platform designed for your team to build, test and monitor AI features.
+
+##### Links
+- [Website](https://www.athina.ai/)
+- [GitHub](https://github.com/athina-ai)
+- [X/Twitter](https://twitter.com/AthinaAI)
+</details>
+
 ## INTELLIGENCE LAYER
 
 ### Frameworks
