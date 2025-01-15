@@ -1556,7 +1556,7 @@ LLMStack is an open-source platform for building AI agents, workflows, and appli
 #### [Graphlit](https://www.graphlit.com/)
 <details>
 
-<img src="./public/images/graphlit.svg" width="200" alt="Graphlit">
+<img src="./public/images/graphlit.png" width="200" alt="Graphlit">
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
