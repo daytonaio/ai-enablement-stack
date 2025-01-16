@@ -517,6 +517,14 @@
               "link": "https://superduper.io/",
               "github": "https://github.com/superduper-io/superduper",
               "x": "@SuperduperAI"
+            },
+            {
+              "name": "Elasticsearch",
+              "description": "Elasticsearch's open source vector database offers an efficient way to create, store, and search vector embeddings. Combine text search and vector search for hybrid retrieval, resulting in the best of both capabilities for greater relevance and accuracy.",
+              "logo": "./public/images/elastic-logo.png",
+              "link": "https://www.elastic.co/elasticsearch/vector-database",
+              "github": "https://github.com/elastic/elasticsearch",
+              "x": "@elastic"
             }
           ]
         },
