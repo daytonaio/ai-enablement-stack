@@ -396,7 +396,7 @@
               "link": "https://www.graphlit.com/",
               "github": "https://github.com/graphlit",
               "x": "@graphlit"
-            }            
+            }
           ]
         },
         {
@@ -505,7 +505,7 @@
             {
               "name": "FalkorDB",
               "description": "FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.",
-              "logo": "./public/images/falkordb.svg",
+              "logo": "./public/images/falkordb.png",
               "link": "https://falkordb.com/",
               "github": "https://github.com/FalkorDB/falkordb",
               "x": "@FalkorDB"
@@ -525,6 +525,14 @@
               "link": "https://www.elastic.co/elasticsearch/vector-database",
               "github": "https://github.com/elastic/elasticsearch",
               "x": "@elastic"
+            },
+            {
+              "name": "Exa",
+              "description": "Exa provides business-grade search and web crawling capabilities through meaning-based search, featuring neural search APIs, content scraping, and Websets for creating custom datasets, with seamless integration for RAG applications and LLM contextualization.",
+              "logo": "./public/images/exa.svg",
+              "link": "https://exa.ai/",
+              "github": "https://github.com/exa-labs/",
+              "x": "@ExaSearch"
             }
           ]
         },
@@ -734,7 +742,7 @@
             {
               "name": "Adaline",
               "description": "Adaline is the single platform to iterate, evalute, deploy, and monitor prompts for your LLM applications.",
-              "logo": "./public/images/adaline.png",
+              "logo": "./public/images/adaline.svg",
               "link": "https://adaline.ai/",
               "github": "https://github.com/adaline",
               "x": "@adalinewastaken"
