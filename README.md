@@ -1133,7 +1133,7 @@ Systems for validating AI performance and reliability
 #### [Adaline](https://adaline.ai/)
 <details>
 
-<img src="./public/images/adaline.png" width="200" alt="Adaline">
+<img src="./public/images/adaline.svg" width="200" alt="Adaline">
 
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
@@ -1774,7 +1774,7 @@ pgAI is a PostgreSQL extension that enables AI capabilities directly in the data
 #### [FalkorDB](https://falkordb.com/)
 <details>
 
-<img src="./public/images/falkordb.svg" width="200" alt="FalkorDB">
+<img src="./public/images/falkordb.png" width="200" alt="FalkorDB">
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1820,6 +1820,23 @@ Elasticsearch's open source vector database offers an efficient way to create, s
 - [Website](https://www.elastic.co/elasticsearch/vector-database)
 - [GitHub](https://github.com/elastic/elasticsearch)
 - [X/Twitter](https://twitter.com/elastic)
+</details>
+
+#### [Exa](https://exa.ai/)
+<details>
+
+<img src="./public/images/exa.svg" width="200" alt="Exa">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+Exa provides business-grade search and web crawling capabilities through meaning-based search, featuring neural search APIs, content scraping, and Websets for creating custom datasets, with seamless integration for RAG applications and LLM contextualization.
+
+##### Links
+- [Website](https://exa.ai/)
+- [GitHub](https://github.com/exa-labs/)
+- [X/Twitter](https://twitter.com/ExaSearch)
 </details>
 
 ### Specialized Coding Models
