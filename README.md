@@ -1805,6 +1805,23 @@ Superduper provides a platform for building and deploying AI applications direct
 - [X/Twitter](https://twitter.com/SuperduperAI)
 </details>
 
+#### [Elasticsearch](https://www.elastic.co/elasticsearch/vector-database)
+<details>
+
+<img src="./public/images/elastic-logo.png" width="200" alt="Elasticsearch">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+Elasticsearch's open source vector database offers an efficient way to create, store, and search vector embeddings. Combine text search and vector search for hybrid retrieval, resulting in the best of both capabilities for greater relevance and accuracy.
+
+##### Links
+- [Website](https://www.elastic.co/elasticsearch/vector-database)
+- [GitHub](https://github.com/elastic/elasticsearch)
+- [X/Twitter](https://twitter.com/elastic)
+</details>
+
 ### Specialized Coding Models
 
 AI models optimized for software development
