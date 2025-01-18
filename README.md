@@ -719,6 +719,23 @@ LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring
 - [X/Twitter](https://twitter.com/LangWatchAI)
 </details>
 
+#### [Elastic Observability](https://www.elastic.co/observability-labs/blog/tag/llmobs)
+<details>
+
+<img src="./public/images/elastic.png" width="200" alt="Elastic Observability">
+
+##### Category
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+
+##### Description
+Elastic Observability is a full-stack observability solution and includes Log Monitoring and Analytics, Cloud and Infrastructure Monitoring, Application Performance Monitoring, Digital Experience Monitoring, Continuous Profiling, AIOps and LLM Observability.
+
+##### Links
+- [Website](https://www.elastic.co/observability-labs/blog/tag/llmobs)
+- [GitHub](https://github.com/elastic)
+- [X/Twitter](https://twitter.com/elastic)
+</details>
+
 ### Risk & Compliance
 
 Frameworks for ensuring responsible AI use and regulatory compliance
@@ -1808,7 +1825,7 @@ Superduper provides a platform for building and deploying AI applications direct
 #### [Elasticsearch](https://www.elastic.co/elasticsearch/vector-database)
 <details>
 
-<img src="./public/images/elastic-logo.png" width="200" alt="Elasticsearch">
+<img src="./public/images/elastic.png" width="200" alt="Elasticsearch">
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
