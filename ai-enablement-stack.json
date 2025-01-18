@@ -521,7 +521,7 @@
             {
               "name": "Elasticsearch",
               "description": "Elasticsearch's open source vector database offers an efficient way to create, store, and search vector embeddings. Combine text search and vector search for hybrid retrieval, resulting in the best of both capabilities for greater relevance and accuracy.",
-              "logo": "./public/images/elastic-logo.png",
+              "logo": "./public/images/elastic.png",
               "link": "https://www.elastic.co/elasticsearch/vector-database",
               "github": "https://github.com/elastic/elasticsearch",
               "x": "@elastic"
@@ -932,6 +932,14 @@
               "link": "https://langwatch.ai/",
               "github": "https://github.com/langwatch/langwatch",
               "x": "@LangWatchAI"
+            },
+            {
+              "name": "Elastic Observability",
+              "description": "Elastic Observability is a full-stack observability solution and includes Log Monitoring and Analytics, Cloud and Infrastructure Monitoring, Application Performance Monitoring, Digital Experience Monitoring, Continuous Profiling, AIOps and LLM Observability.",
+              "logo": "./public/images/elastic.png",
+              "link": "https://www.elastic.co/observability-labs/blog/tag/llmobs",
+              "github": "https://github.com/elastic",
+              "x": "@elastic"
             }
           ]
         },
