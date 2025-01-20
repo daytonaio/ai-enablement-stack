@@ -396,6 +396,14 @@
               "link": "https://www.graphlit.com/",
               "github": "https://github.com/graphlit",
               "x": "@graphlit"
+            },
+            {
+              "name": "Griptape",
+              "description": "Griptape provides an enterprise AI development platform featuring Off-Prompt™ technology, combining a Python framework for predictable AI development with cloud infrastructure for ETL, RAG, and agent deployment, offering built-in monitoring and policy enforcement capabilities.",
+              "logo": "./public/images/griptape.svg",
+              "link": "https://griptape.ai/",
+              "github": "https://github.com/griptape-ai",
+              "x": "@GriptapeAI"
             }
           ]
         },
