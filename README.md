@@ -1587,6 +1587,23 @@ Graphlit is a serverless, batteries-included, RAG-as-a-Service platform. Graphli
 - [X/Twitter](https://twitter.com/graphlit)
 </details>
 
+#### [Griptape](https://griptape.ai/)
+<details>
+
+<img src="./public/images/griptape.svg" width="200" alt="Griptape">
+
+##### Category
+INTELLIGENCE LAYER - Frameworks
+
+##### Description
+Griptape provides an enterprise AI development platform featuring Off-Prompt™ technology, combining a Python framework for predictable AI development with cloud infrastructure for ETL, RAG, and agent deployment, offering built-in monitoring and policy enforcement capabilities.
+
+##### Links
+- [Website](https://griptape.ai/)
+- [GitHub](https://github.com/griptape-ai)
+- [X/Twitter](https://twitter.com/GriptapeAI)
+</details>
+
 ### Knowledge Engines
 
 Databases and systems for managing and retrieving information
