@@ -399,6 +399,38 @@ Fabi.ai combines SQL, Python and AI automation into one collaborative platform t
 - [X/Twitter](https://twitter.com/hqfabi)
 </details>
 
+#### [Augment Code](https://augment.dev/)
+<details>
+
+<img src="./public/images/augmentcode.svg" width="200" alt="Augment Code">
+
+##### Category
+AGENT CONSUMER LAYER - Assistive Agents
+
+##### Description
+Augment Code provides an AI-powered development assistant that deeply understands codebases, featuring context-aware chat, guided multi-file edits, and intelligent completions, with built-in documentation integration and SOC 2 Type II compliance for enterprise security.
+
+##### Links
+- [Website](https://augment.dev/)
+- [X/Twitter](https://twitter.com/augmentcode)
+</details>
+
+#### [Trae](https://trae.ai/)
+<details>
+
+<img src="./public/images/trae.svg" width="200" alt="Trae">
+
+##### Category
+AGENT CONSUMER LAYER - Assistive Agents
+
+##### Description
+Trae from ByteDance provides an adaptive AI-powered IDE that combines multimodal understanding, context-aware code completion, and project building capabilities, featuring image-to-code conversion and real-time collaborative assistance through an integrated chat interface.
+
+##### Links
+- [Website](https://trae.ai/)
+- [X/Twitter](https://twitter.com/Trae_ai)
+</details>
+
 ### Specialized Agents
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
