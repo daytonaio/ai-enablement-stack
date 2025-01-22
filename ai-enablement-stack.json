@@ -1192,6 +1192,22 @@
               "logo": "./public/images/fabi.png",
               "link": "https://fabi.ai/",
               "x": "@hqfabi"
+            },
+            {
+              "name": "Augment Code",
+              "description": "Augment Code provides an AI-powered development assistant that deeply understands codebases, featuring context-aware chat, guided multi-file edits, and intelligent completions, with built-in documentation integration and SOC 2 Type II compliance for enterprise security.",
+              "logo": "./public/images/augmentcode.svg",
+              "link": "https://augment.dev/",
+              "github": "",
+              "x": "@augmentcode"
+            },
+            {
+              "name": "Trae",
+              "description": "Trae from ByteDance provides an adaptive AI-powered IDE that combines multimodal understanding, context-aware code completion, and project building capabilities, featuring image-to-code conversion and real-time collaborative assistance through an integrated chat interface.",
+              "logo": "./public/images/trae.svg",
+              "link": "https://trae.ai/",
+              "github": "",
+              "x": "@Trae_ai"
             }
           ]
         },
