@@ -75,6 +75,14 @@
               "x": "@OpenAI"
             },
             {
+              "name": "Deepseek",
+              "description": "Deepseek develops advanced AI systems capable of performing a wide range of tasks with human-like or superior intelligence. Moving beyond narrow AI, Deepseek focuses on creating generalizable, autonomous systems that can learn, adapt, and apply knowledge across domains. With cutting-edge research in machine learning, deep learning, natural language processing, and robotics, Deepseek aims to push the boundaries of AI innovation. Its applications span various industries, delivering intelligent solutions for complex challenges.",
+              "logo": "./public/images/deepseek.png",
+              "link": "https://deepseek.com/",
+              "github": "",
+              "x": "@DeepseekAI"
+            },
+            {
               "name": "Anthropic",
               "description": "Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.",
               "logo": "./public/images/anthropic.svg",
