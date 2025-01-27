@@ -2082,6 +2082,22 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 - [X/Twitter](https://twitter.com/OpenAI)
 </details>
 
+#### [Deepseek](https://deepseek.com/)
+<details>
+
+<img src="./public/images/deepseek.png" width="200" alt="Deepseek">
+
+##### Category
+INFRASTRUCTURE LAYER - Model Access & Deployment
+
+##### Description
+Deepseek develops advanced AI systems capable of performing a wide range of tasks with human-like or superior intelligence. Moving beyond narrow AI, Deepseek focuses on creating generalizable, autonomous systems that can learn, adapt, and apply knowledge across domains. With cutting-edge research in machine learning, deep learning, natural language processing, and robotics, Deepseek aims to push the boundaries of AI innovation. Its applications span various industries, delivering intelligent solutions for complex challenges.
+
+##### Links
+- [Website](https://deepseek.com/)
+- [X/Twitter](https://twitter.com/DeepseekAI)
+</details>
+
 #### [Anthropic](https://www.anthropic.com/)
 <details>
 
