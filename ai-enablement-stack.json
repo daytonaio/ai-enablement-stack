@@ -557,6 +557,14 @@
               "link": "https://exa.ai/",
               "github": "https://github.com/exa-labs/",
               "x": "@ExaSearch"
+            },
+            {
+              "name": "Firebase Data Connect",
+              "description": "Firebase Data Connect enables vector similarity search leveraging its underlying PostgreSQL database and Google Vertex AI embeddings.",
+              "logo": "./public/images/firebase_data_connect.svg",
+              "link": "https://firebase.google.com/docs/data-connect/solutions-vector-similarity-search",
+              "github": "",
+              "x": "@Firebase"
             }
           ]
         },
