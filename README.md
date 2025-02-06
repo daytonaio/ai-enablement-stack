@@ -1922,6 +1922,22 @@ Exa provides business-grade search and web crawling capabilities through meaning
 - [X/Twitter](https://twitter.com/ExaSearch)
 </details>
 
+#### [Firebase Data Connect](https://firebase.google.com/docs/data-connect/solutions-vector-similarity-search)
+<details>
+
+<img src="./public/images/firebase_data_connect.svg" width="200" alt="Firebase Data Connect">
+
+##### Category
+INTELLIGENCE LAYER - Knowledge Engines
+
+##### Description
+Firebase Data Connect enables vector similarity search leveraging its underlying PostgreSQL database and Google Vertex AI embeddings.
+
+##### Links
+- [Website](https://firebase.google.com/docs/data-connect/solutions-vector-similarity-search)
+- [X/Twitter](https://twitter.com/Firebase)
+</details>
+
 ### Specialized Coding Models
 
 AI models optimized for software development
