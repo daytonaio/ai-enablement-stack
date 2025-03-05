@@ -1,5 +1,5 @@
 <h1 align="center">
-	🔮 AI Enablement Stack 🔮
+	🤖 AI Enablement Stack 🚀
 	<p align="center">
 		<a href="https://go.daytona.io/slack" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20Slack!&color=mediumslateblue">
@@ -2008,7 +2008,7 @@ Poolside Malibu is an enterprise-focused code generation model trained using Rei
 
 ## INFRASTRUCTURE LAYER
 
-### AI Workspaces
+### AI Sandboxes
 
 Development environments for sandboxing and building AI applications
 
@@ -2018,10 +2018,10 @@ Development environments for sandboxing and building AI applications
 <img src="./public/images/daytonaio.png" width="200" alt="Daytona">
 
 ##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+INFRASTRUCTURE LAYER - AI Sandboxes
 
 ##### Description
-Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.
+Daytona is a secure, scalable runtime for AI-generated code execution and agent workflows. Our open-source platform provides lightning-fast infrastructure (200ms startup) with complete isolation, giving developers and AI systems a safe sandbox for running generated code without risk.
 
 ##### Links
 - [Website](https://daytona.io/)
@@ -2034,7 +2034,7 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 <img src="./public/images/runloop.svg" width="200" alt="Runloop">
 
 ##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+INFRASTRUCTURE LAYER - AI Sandboxes
 
 ##### Description
 Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.
@@ -2050,7 +2050,7 @@ Runloop provides a secure, high-performance infrastructure platform that enables
 <img src="./public/images/e2b-dev.png" width="200" alt="E2B">
 
 ##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+INFRASTRUCTURE LAYER - AI Sandboxes
 
 ##### Description
 E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.
@@ -2064,7 +2064,7 @@ E2B provides an open-source runtime platform that enables developers to securely
 <details>
 
 ##### Category
-INFRASTRUCTURE LAYER - AI Workspaces
+INFRASTRUCTURE LAYER - AI Sandboxes
 
 ##### Description
 Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.
