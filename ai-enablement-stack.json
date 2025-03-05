@@ -10,12 +10,12 @@
       "description": "The computing backbone that enables AI development and deployment, from development environments to model serving platforms.",
       "sections": [
         {
-          "name": "AI Workspaces",
+          "name": "AI Sandboxes",
           "description": "Development environments for sandboxing and building AI applications",
           "companies": [
             {
               "name": "Daytona",
-              "description": "Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.",
+              "description": "Daytona is a secure, scalable runtime for AI-generated code execution and agent workflows. Our open-source platform provides lightning-fast infrastructure (200ms startup) with complete isolation, giving developers and AI systems a safe sandbox for running generated code without risk.",
               "logo": "./public/images/daytonaio.png",
               "link": "https://daytona.io/",
               "github": "",
