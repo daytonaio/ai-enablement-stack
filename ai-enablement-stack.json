@@ -7,15 +7,15 @@
     {
       "number": 1,
       "name": "INFRASTRUCTURE LAYER",
-      "description": "The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.",
+      "description": "The foundation that powers AI development and deployment. This includes AI sandboxes, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.",
       "sections": [
         {
-          "name": "AI Workspaces",
-          "description": "Development environments for sandboxing and building AI applications",
+          "name": "Sandboxes",
+          "description": "Environments for sandboxing and building AI applications",
           "companies": [
             {
               "name": "Daytona",
-              "description": "Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.",
+              "description": "Daytona is a secure, scalable runtime for AI-generated code execution and agent workflows.",
               "logo": "./public/images/daytonaio.png",
               "link": "https://daytona.io/"
             },
