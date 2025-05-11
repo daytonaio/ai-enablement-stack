@@ -549,6 +549,22 @@ Codegen provides enterprise-grade static analysis and codemod capabilities for l
 - [X/Twitter](https://twitter.com/codegen)
 </details>
 
+#### [Keploy](https://keploy.io/)
+<details>
+
+<img src="./public/images/keploy.png" width="200" alt="Keploy">
+
+##### Category
+AGENT CONSUMER LAYER - Specialized Agents
+
+##### Description
+Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in your VSCode, covering what matters.
+
+##### Links
+- [Website](https://keploy.io/)
+- [X/Twitter](https://twitter.com/Keployio)
+</details>
+
 ## OBSERVABILITY AND GOVERNANCE LAYER
 
 ### Development Pipeline
