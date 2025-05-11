@@ -38,13 +38,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           labels: auto-generated
-          branch: update-artefacts
+          branch: update-artifacts
           signoff: true
           add-paths: |
             README.md
             ai-enablement-stack.png
           base: main
-          commit-message: "Update artefacts [skip actions]"
-          title: Update artefacts
+          commit-message: "Update artifacts [skip actions]"
+          title: Update artifacts
           body: |
             Update README.md and ai-enablement-stack.png
