@@ -1293,7 +1293,16 @@
               "link": "https://codegen.com/",
               "github": "",
               "x": "@codegen"
+            },
+            {
+              "name": "Keploy",
+              "description": "Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in your VSCode, covering what matters.",
+              "logo": "./public/images/keploy.png",
+              "link": "https://keploy.io/",
+              "github": "",
+              "x": "@Keployio"
             }
+
           ]
         }
       ]
