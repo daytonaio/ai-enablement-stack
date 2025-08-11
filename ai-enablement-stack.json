@@ -45,6 +45,14 @@
               "hidden": "true",
               "github": "",
               "x": "@morph_labs"
+            },
+            {
+              "name": "YepCode",
+              "description": "YepCode is a developer-first platform for AI agent development and execution, providing seamless sandboxed environments with straightforward dependency management, team variable and secret handling, scheduled executions, comprehensive result analysis, and enterprise-grade audit capabilities.",
+              "logo": "./public/images/yepcode.svg",
+              "link": "https://yepcode.io/",
+              "github": "https://github.com/yepcode/",
+              "x": "@yepcode_io"
             }
           ]
         },
@@ -1302,7 +1310,6 @@
               "github": "",
               "x": "@Keployio"
             }
-
           ]
         }
       ]
