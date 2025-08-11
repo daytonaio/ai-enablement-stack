@@ -2090,6 +2090,23 @@ Morph Labs provides infrastructure for developing and deploying autonomous softw
 - [X/Twitter](https://twitter.com/morph_labs)
 </details>
 
+#### [YepCode](https://yepcode.io/)
+<details>
+
+<img src="./public/images/yepcode.svg" width="200" alt="YepCode">
+
+##### Category
+INFRASTRUCTURE LAYER - AI Sandboxes
+
+##### Description
+YepCode is a developer-first platform for AI agent development and execution, providing seamless sandboxed environments with straightforward dependency management, team variable and secret handling, scheduled executions, comprehensive result analysis, and enterprise-grade audit capabilities.
+
+##### Links
+- [Website](https://yepcode.io/)
+- [GitHub](https://github.com/yepcode/)
+- [X/Twitter](https://twitter.com/yepcode_io)
+</details>
+
 ### Data Ingestion & Transformation
 
 Services for preparing data for AI applications and training
